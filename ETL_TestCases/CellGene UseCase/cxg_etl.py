@@ -19,14 +19,14 @@ import sys
 import anndata as ad
 
 
-
+#C:/Users/huffmaar/OneDrive - Michigan Medicine/Documents/GitHub/OSEAN-DB/ETL_TestCases/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad
 #python VIGET_ETL.py /Users/huffmaar/Documents/SEA-CDM-SQL-Imports/ImmuneExposureGeneExpression_020922_Raw.csv
 
-cellxgene = "C:/Users/huffmaar/Documents/SEA-CDM-SQL-Imports/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
+cellxgene = "C:/Users/huffmaar/OneDrive - Michigan Medicine/Documents/GitHub/OSEAN-DB/ETL_TestCases/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
 # "Users\huffmaar\Documents\SEA-CDM-SQL-Imports\CellGene UseCase\8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
 
 if len(sys.argv) > 1:
-   cellxgene = sys.argv[1]
+   filename = sys.argv[1]
 else:
    print("Please provide the absolute path of the cellxgene a5hd file as a command-line argument.")
 
@@ -51,28 +51,30 @@ def dummy_loop(term, length):
     return 0
 
 def SEA_INIT():
-    SEA_Study  = pd.DataFrame(columns=['study_id','study_type', 'study_type_id', 'study_name', 
+    SEA_Study  = pd.DataFrame(columns=['study_id','study_type', 'study_type_id', 'study_name', 'study_description',
                                        'reference_id','reference_source','comments'])
-    SEA_Docu =  pd.DataFrame(columns=['documentation_id','study_id','document_name','document_type','document_type_id','documentaiton_source', 'source_id', 'reference_source', 'citation', 'citation_style','person_id', 'person_id_type','honorific','first_name','middle_name','last_name','person_role', 'comments'])
+    SEA_Docu =  pd.DataFrame(columns=['documentation_id','study_id','document_name','document_type','document_type_id','documentation_source', 'reference_id','reference_source', 'citation', 'citation_style','person_id', 'person_id_type','honorific','first_name','middle_name','last_name','person_role', 'comments'])
     SEA_Exper = pd.DataFrame(columns=['experiment_id', 'study_id',
-                                      'experiment_type','experiment_type_id','experiment_control','source_id','reference_source','comments'])
-    SEA_Inter = pd.DataFrame(columns=['intervention_id','experiment_id','organism_id','material', 'material_id', 'dosage', 'dosage_unit', 'dosage_unit_id', 
-                                      'intervention_route','intervention_route_id', 'T0 Defintion', 'intervention_time', 'intervention_unit', 'intervention_time_unit_id', 'source_id', 'reference_source', 'comments'])
-    SEA_Assay  = pd.DataFrame(columns=['assay_id','assay_name','documentation_id','sea_assay','sea_assay_id','assay_type_id','organism', 'reagents', 'platform', 'parameters', 'parameter_values', 'input_data' ])
-    SEA_Rslt  = pd.DataFrame(columns=['results_id','experiment_id','Group_id','sample_id','assay_name','assay_id', 
-                                  'original_assay_type', 'original_assay_type_id', 'datatype', 'datatype_id', 'file_access', 'file_type', 'replications',  'comments' ])
+                                      'experiment_type','experiment_type_id','experiment_control','reference_id','reference_source','comments'])
+    SEA_Inter = pd.DataFrame(columns=['intervention_id','experiment_id','organism_id','material', 'material_id', 'dosage', 'dosage_unit', 'dosage_unit_id', 'intervention_type', 'intervention_type_id',
+                                      'intervention_route','intervention_route_id', 'T0_defintion', 'intervention_time', 'intervention_unit', 'intervention_time_unit_id', 'reference_id', 'reference_source', 'comments'])
+    SEA_Assay = pd.DataFrame(columns=['assay_id','assay_name','documentation_id','assay_type', 'assay_type_id', 'organism', 'reagents', 'platform'])
+    SEA_Rslt  = pd.DataFrame(columns=['results_id','experiment_id','group_id','sample_id','analysis_name','analysis_id', 
+                                      'original_assay_type', 'assay_id', 'analysis_type',
+                                      'datatype', 'datatype_id', 'file_access', 'file_type', 'replications',  'comments' ])
     SEA_Onto  = pd.DataFrame(columns=['ontology_id','documentation_id','ontology_name','ontology_string'])
-    SEA_Orgo =  pd.DataFrame(columns=['organism_id','Group_id','experiment_id','species','species_id','type', 'type_id'
-                                      'age', 'age_unit','age_unit_id','sex','sex_id', 'source_id' , 'reference_source' , 'comments'  ])
-    SEA_Occr  = pd.DataFrame(columns=['occurence_id','organism_id','occurence_Name','occurence_id','occurence_severity','occurence_start_time','occurence_start_unit', 'occurence_start_id', 
-                                      'occurence_end_time','occurence_end_unit', 'occurence_end_id', 'source_id', 'reference_source', 'comments' ])
-    SEA_Samp  = pd.DataFrame(columns=['sample_id','group_id','organism_id', 'collection',
+    SEA_Orgo =  pd.DataFrame(columns=['organism_id','group_id','experiment_id','species','species_id','type', 'type_id',
+                                      'age', 'age_unit','age_unit_id','sex','sex_id', 'reference_id' , 'reference_source' , 'comments'  ])
+    SEA_Occr  = pd.DataFrame(columns=['occurence_id','organism_id','occurence_name','occurence_id','occurence_severity','occurence_start_time','occurence_start_unit', 'occurence_start_id', 
+                                      'occurence_end_time','occurence_end_unit', 'occurence_end_id', 'reference_id', 'reference_source', 'comments' ])
+    SEA_Samp  = pd.DataFrame(columns=['sample_id','group_id','organism_id', 'collection', 'collection_id', 'collection_time', 'collection_time_unit', 'collection_time_unit_id', 'T0_definition',
                                       'expsample_type','expsample_type_id', 'expsample_reference_id', 'expsample_reference_name',
-                                      'biosampl_type', 'biosample_type_id', 'biosample_reference_id', 'biosample_reference_name',
-                                      'expsample_source','expsamplesource_id', 'replicates' ])
-    SEA_Grop  = pd.DataFrame(columns=['group_id','experiment_id','Consistency','group_size','reference_id','reference_source','comments'])
-    SEA_Mats  = pd.DataFrame(columns=['material_id','material_name','ontology_id','Organization','reference_id','reference_source','comments'])
-    export = [SEA_Study, SEA_Docu, SEA_Exper, SEA_Inter, SEA_Assay, SEA_Rslt, SEA_Onto, SEA_Orgo, SEA_Occr, SEA_Samp, SEA_Grop, SEA_Mats]
+                                      'biosample_type', 'biosample_type_id', 'biosample_reference_id', 'biosample_reference_name',
+                                      'replicates' ])
+    SEA_Grop  = pd.DataFrame(columns=['group_id','experiment_id','group_type','group_size','reference_id','reference_source', 'max_age', 'min_age','comments'])
+    SEA_Anal  = pd.DataFrame(columns=['analysis_id', 'documentation_id', 'group_id', 'analysis_name', 'analysis_name_id', 'input_data', 'input_data_id' 'reference_id', 'reference_source', 'comments'])
+    SEA_Mats  = pd.DataFrame(columns=['material_id','material_name','material_name_id','organization','reference_id','reference_source','comments'])
+    export = [SEA_Study, SEA_Docu, SEA_Exper, SEA_Inter, SEA_Assay, SEA_Rslt, SEA_Onto, SEA_Orgo, SEA_Occr, SEA_Samp, SEA_Grop, SEA_Mats, SEA_Anal]
     print("All tables initialized.")
     return export
 
@@ -115,37 +117,74 @@ cellxgene = "C:/Users/huffmaar/Documents/SEA-CDM-SQL-Imports/CellGene UseCase/8c
 vadata = h5ad[0]
 oadata = h5ad[1]
 
-#GEXP = read_VIGET(gene_exp)
-#GEXP = GEXP.T
-
-
-#Drop duplicate _ids in tables after making sure mapping does not go.
-
-#for i in SEATemplates:
-#    print(i)
-#    zeq = i.columns[0][0:-2]+".csv"
-#    i.to_csv(zeq)
 
 SEATemplates = SEA_INIT()
 
 STUDY = SEATemplates[0]
-#viget['study_id'] = viget['source_id']
+
+study_cxg = pd.Series({'study_id': 77,
+                           'ontology_name': "Vaccine_Ontology",
+                           'study_type': 'Clinical Investigation', # May not be correct
+                           'study_type_id': 'OBI_0003697',
+                           'study_name': "Longitudinal single-cell profiles of lung regeneration after viral infection reveal persistent injury-associated cell states",
+                           'study_description': "Single-cell sequencing atlas of the mouse's lung’s response to influenza infection",
+                           'reference_id': "39818203",
+                           'reference_source':"PUBMED"
+                           })
+STUDY = pd.concat([study_cxg, study_cxg.to_frame().T])
+SEATemplates[0] = STUDY.set_index('study_id')
+
+EXPER =  SEATemplates[2]
+#Placeholder for Experiments.
+EXPER['experiment_id'] = oadata['experimental_group']
+EXPER['reference_id'] = oadata['experimental_group']
+EXPER['reference_source'] = oadata['experimental_group']
+
+EXPER['experiment_control'] = 1
+EXPER[EXPER['experiment_group'].contains('homeostasis')]['experimental_id'] = 0
+EXPER = EXPER.drop_duplicates(subset='experiment_id')
+
+SEATemplates[2] = ZEXPER
+ 
+#viget['study_id'] = viget['reference_id']
 
 #STUDY.iloc[:,[0, 4]]
-SEATemplates[0] = STUDY
-
 
 ONTO = SEATemplates[6]
-ontology = pd.Series({'ontology_id': 1,
-                           'documentation_id': 'obofoundry.org/ontology/vo',
-                           'ontology_name': "Vaccine_Ontology",
-                           'ontology_string': "VO"})
-ONTO = pd.concat([ONTO, ontology.to_frame().T])
+ontology1 = pd.Series({'ontology_id': 2,
+                           'documentation_id': 'obofoundry.org/ontology/CLO',
+                           'ontology_name': "Cell Line Ontology",
+                           'ontology_string': "CO"})
+ontology2 = pd.Series({'ontology_id': 3,
+                           'documentation_id': 'obofoundry.org/ontology/DIOD',
+                           'ontology_name': "Disiease Ontology",
+                           'ontology_string': "DIOD"})
+ontology3 = pd.Series({'ontology_id': 4,
+                           'documentation_id': 'obofoundry.org/ontology/PATO',
+                           'ontology_name': "Phenotype and Trait Ontology",
+                           'ontology_string': "PATO"})
+ONTO = pd.concat([ONTO, ontology1.to_frame().T])
+ONTO = pd.concat([ONTO, ontology2.to_frame().T])
+ONTO = pd.concat([ONTO, ontology3.to_frame().T])
+SEATemplates[6] = ONTO.set_index('ontology_id')
 
+
+GROUP = SEATemplates[10]
+GROUP['group_id'] = oadata['experimental_group']
+GROUP['experiment_id'] = 66 # Must be user defined.
+GROUP['reference_id'] = oadata['experimental_group']
+GROUP['reference_source'] = 'CellxGene'
+GROUP = GROUP.drop_duplicates(subset='group_id')
 
 ORGO = SEATemplates[7]
-
-#viget['study_id'] = viget['source_id']
+ORGO['organism_id'] = oadata['donor_id']
+ORGO['group_id'] = oadata['experimental_group']
+ORGO['species_id'] = oadata['organism_ontology_term_id']
+ORGO['sex'] = oadata['sex']
+ORGO['sex_id'] = oadata['sex_ontology_term_id']
+ORGO['age'] = oadata['Age_in_days']
+ORGO['age_unit'] = 'Days'
+#viget['study_id'] = viget['reference_id']
 
 # intervention Table is complete but does not generate linking _id
 
@@ -154,21 +193,14 @@ INTER= SEATemplates[3]
 SEATemplates[3] = INTER.drop_duplicates()
 
 
+#.reset_index(drop=True, inplace=True)
 
 
 
 
 
+# siget = pd.merge(siget, STUDY, left_on="immport_study_accession", right_on="reference_id", how='outer')
 
-# siget = pd.merge(siget, STUDY, left_on="immport_study_accession", right_on="source_id", how='outer')
-
-EXPER =  SEATemplates[2]
-#Placeholder for Experiments.
-ZEXPER = EXPER
-ZEXPER['experiment_type'] 
-ZEXPER = ZEXPER.drop_duplicates()
-ZEXPER['experiment_id'] = ZEXPER.index
-SEATemplates[2] = ZEXPER
 
 
 
@@ -185,20 +217,22 @@ SEATemplates[2] = STUDY.drop_duplicates()
 
 
 SAMP=SEATemplates[9]
-#SAMP['source_id'] = viget['gsm']
+#SAMP['reference_id'] = viget['gsm']
 
 #SAMP['organism_id'] = viget['organism_id']
-SAMP['sample_id'] = oadata.index
+SAMP['sample_id'] = oadata['sample_id']
 SAMP['biosample_id'] = oadata['sample_id']
 SAMP['group_id'] = oadata['experimental_group']
 SAMP['biosample_type'] = oadata['tissue_type']
 SAMP['expsample_type'] =  oadata['suspension_type']
 SAMP['biosample_reference_id'] = oadata['sample_id']
+SAMP['']
 SAMP['expsample_reference_id'] = oadata.index
-#SAMP['source_id']
+#SAMP['reference_id']
 SEATemplates[9] = SAMP.drop_duplicates()
 SEATemplates[9]['biosample_reference_name'] = 'cellxgene'
 SAMP['expsample_source'] = 'cellxgene'
+SEATemplates[9] = SAMP
 
 
 
@@ -211,12 +245,23 @@ RESULT["datatype"] = "h5aD"
 RESULT["file_access"] = "cellxgene"
 RESULT["file_type"] = "h5ad"
 RESULT["document_id"] = "8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
-RESULT["assay_name"] = "Gene Expression Assay"
-RESULT["original_assay_type_name"] = "Gene Expression Assay"
+RESULT["analysis_name"] = "CellxGene Processing" # Not sure if correct
+RESULT["original_assay_type"] = "Gene Expression Assay"
 RESULT["replications"] = 1
 SEATemplates[5] = RESULT
 
 MATS = SEATemplates[11]
+
+
+    SEA_Assay = pd.DataFrame(columns=['assay_id','assay_name','documentation_id','assay_type', 'assay_type_id', 'organism', 'reagents', 'platform'])
+    SEA_Rslt  = pd.DataFrame(columns=['results_id','experiment_id','group_id','sample_id','analysis_name','analysis_id', 
+                                  'original_assay_type', 'assay_id', 'analysis_type',
+                                  'datatype', 'datatype_id', 'file_access', 'file_type', 'replications',  'comments' ])
+    SEA_Anal  = pd.DataFrame(columns=['analysis_id', 'documentation_id', 'group_id', 'analysis_name', 'analysis_name_id', 'input_data', 'input_data_id' 'reference_id', 'reference_source', 'comments'])
+
+
+ALYS = SEATemplates[12]
+
 
 
 SEATemplates[11] = MATS

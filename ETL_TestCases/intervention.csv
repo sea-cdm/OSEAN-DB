@@ -1,0 +1,1095 @@
+intervention_id,experiment_id,organism_id,material,material_id,dosage,dosage_unit,dosage_unit_id,intervention_type,intervention_type_id,intervention_route,intervention_route_id,T0_defintion,intervention_time,intervention_unit,intervention_time_unit_id,source_id,reference_source,comments,T0_definition
+1,1,1,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2,1,2,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3,1,3,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4,1,4,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+5,1,5,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+6,1,6,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+7,1,7,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+8,1,8,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+9,1,9,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+10,1,10,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+11,1,11,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+12,1,12,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+13,1,13,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+14,1,14,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+15,1,15,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+16,1,16,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+17,1,17,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+18,1,18,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+19,1,19,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+20,1,20,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+21,1,21,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+22,1,22,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+23,1,23,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+24,1,24,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+25,1,25,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+26,1,26,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+27,1,27,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+28,1,28,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+29,1,29,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+30,1,30,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+31,1,31,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+32,1,32,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+33,1,33,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+34,1,34,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+35,1,35,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+36,1,36,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+37,1,37,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+38,1,38,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+39,1,39,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+40,1,40,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+41,1,41,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+42,1,42,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+43,1,43,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+44,1,44,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+45,1,45,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+46,1,46,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+47,1,47,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+48,1,48,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+49,1,49,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+50,1,50,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+51,1,51,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+52,1,52,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+53,1,53,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+54,1,54,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+55,1,55,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+56,1,56,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+57,1,57,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+58,1,58,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+59,1,59,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+60,1,60,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+61,1,61,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+62,1,62,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+63,1,63,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+64,1,64,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+65,1,65,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+66,1,66,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+67,1,67,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+68,1,68,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+69,1,69,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+70,1,70,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+71,1,71,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+72,1,72,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+289,289,289,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+292,289,292,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+295,289,295,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+298,289,298,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+301,289,301,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+303,289,303,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+306,289,306,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+309,289,309,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+312,289,312,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+315,289,315,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+318,289,318,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+321,289,321,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+324,289,324,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+327,289,327,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+330,289,330,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+333,289,333,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+336,289,336,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+339,289,339,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+342,289,342,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+345,289,345,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+348,289,348,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+351,289,351,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+354,289,354,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+357,289,357,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+360,289,360,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+363,289,363,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+366,289,366,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+369,289,369,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+372,289,372,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+375,289,375,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+378,289,378,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+380,289,380,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+382,289,382,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+384,289,384,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+386,289,386,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+388,289,388,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+390,289,390,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+392,289,392,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+394,289,394,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+396,289,396,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+398,289,398,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+400,289,400,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+402,289,402,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+404,289,404,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+406,289,406,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+408,289,408,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+410,289,410,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+412,289,412,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+414,289,414,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+416,289,416,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+418,289,418,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+420,289,420,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+422,289,422,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+424,289,424,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+426,289,426,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+428,289,428,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+430,289,430,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+432,289,432,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+434,289,434,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+436,289,436,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+439,289,439,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+441,289,441,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+444,289,444,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+447,289,447,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+450,289,450,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+452,289,452,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+454,289,454,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+456,289,456,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+458,289,458,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+460,289,460,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+462,289,462,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+464,289,464,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+466,466,466,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+469,466,469,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+473,466,473,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+477,466,477,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+478,466,478,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+482,466,482,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+485,466,485,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+489,466,489,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+493,466,493,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+497,466,497,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+501,466,501,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+505,466,505,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+509,466,509,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+512,466,512,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+515,466,515,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+519,466,519,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+523,466,523,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+527,466,527,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+531,466,531,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+535,466,535,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+539,466,539,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+543,466,543,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+547,466,547,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+551,466,551,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+555,466,555,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+559,466,559,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+563,563,563,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+567,563,567,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+570,563,570,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+574,563,574,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+578,563,578,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+582,563,582,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+586,563,586,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+590,563,590,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+594,563,594,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+598,563,598,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+602,563,602,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+606,563,606,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+610,563,610,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+614,563,614,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+618,563,618,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+622,563,622,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+626,563,626,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+630,563,630,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+634,563,634,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+638,563,638,Trivalent inactivated influenza,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+643,643,643,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+644,643,644,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+647,643,647,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+650,643,650,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+659,643,659,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+662,643,662,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+664,643,664,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+674,643,674,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+682,643,682,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+686,643,686,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+689,643,689,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+692,643,692,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+695,643,695,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+698,643,698,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+702,643,702,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+708,643,708,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+736,643,736,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+739,643,739,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+742,643,742,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+745,643,745,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+747,643,747,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+749,643,749,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+752,643,752,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+755,643,755,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+758,643,758,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+761,643,761,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+763,643,763,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+769,643,769,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+771,643,771,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+773,643,773,Yellow fever 17D vaccine vector,VO_0000122,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+785,785,785,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+790,785,790,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+793,785,793,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+798,785,798,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+803,785,803,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+808,785,808,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+813,785,813,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+818,785,818,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+821,785,821,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+826,785,826,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+829,785,829,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+832,785,832,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+837,785,837,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+842,785,842,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+847,785,847,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+852,785,852,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+857,785,857,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+861,785,861,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+866,785,866,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+871,785,871,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+874,785,874,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+879,785,879,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+884,785,884,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+889,785,889,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+894,785,894,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+899,785,899,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+904,785,904,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+909,785,909,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+914,785,914,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+919,785,919,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+924,785,924,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+927,785,927,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+931,785,931,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+936,785,936,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+939,785,939,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+944,785,944,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+947,785,947,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+952,785,952,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+957,785,957,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+960,785,960,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+965,785,965,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+970,785,970,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+975,785,975,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+980,785,980,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+985,785,985,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+988,785,988,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+989,785,989,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+990,785,990,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+991,785,991,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+992,785,992,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+993,785,993,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+994,785,994,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+995,785,995,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+996,785,996,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+997,785,997,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+998,785,998,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+999,785,999,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1033,785,1033,Plasmodium falciparum vaccine,VO_0000087,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1039,1039,1039,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1043,1039,1043,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1044,1039,1044,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1047,1039,1047,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1051,1039,1051,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1055,1039,1055,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1059,1039,1059,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1063,1039,1063,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1067,1039,1067,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1071,1039,1071,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1075,1039,1075,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1078,1039,1078,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1082,1039,1082,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1086,1039,1086,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1090,1039,1090,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1094,1039,1094,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1098,1039,1098,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1102,1039,1102,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1106,1039,1106,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1110,1039,1110,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1114,1039,1114,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1118,1039,1118,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1121,1039,1121,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1125,1039,1125,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1129,1039,1129,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1133,1039,1133,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1137,1039,1137,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1141,1039,1141,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1144,1039,1144,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1148,1039,1148,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1150,1039,1150,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1154,1039,1154,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1158,1039,1158,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1162,1039,1162,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1165,1039,1165,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1168,1039,1168,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1170,1039,1170,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1174,1039,1174,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1177,1039,1177,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1180,1039,1180,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1184,1039,1184,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1185,1039,1185,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1189,1039,1189,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1193,1039,1193,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1196,1039,1196,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1200,1039,1200,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1204,1039,1204,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1208,1039,1208,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1212,1039,1212,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1214,1039,1214,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1216,1039,1216,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1219,1039,1219,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1223,1039,1223,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1227,1039,1227,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1230,1039,1230,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1233,1039,1233,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1237,1039,1237,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1241,1039,1241,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1244,1039,1244,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1248,1039,1248,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1252,1039,1252,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1256,1039,1256,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1260,1039,1260,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1264,1039,1264,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1268,1039,1268,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1272,1039,1272,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1276,1039,1276,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1280,1039,1280,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1284,1039,1284,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1288,1039,1288,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1292,1039,1292,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1296,1039,1296,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1298,1039,1298,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1302,1039,1302,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1306,1039,1306,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1310,1039,1310,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1314,1039,1314,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1318,1039,1318,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1322,1039,1322,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1325,1039,1325,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1329,1039,1329,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1333,1039,1333,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1337,1039,1337,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1341,1039,1341,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1345,1039,1345,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1349,1039,1349,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1353,1039,1353,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1357,1039,1357,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1361,1039,1361,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1365,1039,1365,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1369,1039,1369,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1373,1039,1373,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1377,1039,1377,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1381,1039,1381,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1385,1039,1385,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1389,1039,1389,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1393,1039,1393,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1397,1039,1397,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1401,1039,1401,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1405,1039,1405,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1409,1039,1409,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1413,1039,1413,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1416,1039,1416,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1419,1039,1419,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1423,1039,1423,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1427,1039,1427,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1430,1039,1430,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1434,1039,1434,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1438,1039,1438,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1442,1039,1442,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1446,1039,1446,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1450,1039,1450,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1454,1039,1454,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1458,1039,1458,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1462,1039,1462,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1466,1039,1466,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1470,1039,1470,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1474,1039,1474,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1478,1039,1478,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1482,1039,1482,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1486,1039,1486,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1490,1039,1490,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1494,1039,1494,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1498,1039,1498,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1502,1039,1502,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1505,1039,1505,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1509,1039,1509,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1512,1039,1512,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1516,1039,1516,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1520,1039,1520,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1524,1039,1524,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1528,1039,1528,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1532,1039,1532,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1535,1039,1535,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1539,1039,1539,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1543,1039,1543,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1547,1039,1547,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1551,1039,1551,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1555,1039,1555,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1559,1039,1559,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1563,1039,1563,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1567,1039,1567,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1571,1039,1571,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1574,1039,1574,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1578,1039,1578,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1582,1039,1582,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1585,1039,1585,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1588,1039,1588,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1592,1039,1592,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1596,1039,1596,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1600,1039,1600,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1604,1039,1604,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1608,1039,1608,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1611,1039,1611,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1615,1039,1615,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1619,1039,1619,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1623,1039,1623,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1627,1039,1627,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1631,1039,1631,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1635,1039,1635,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1639,1039,1639,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1642,1039,1642,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1646,1039,1646,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1650,1039,1650,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1654,1039,1654,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1658,1039,1658,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1662,1039,1662,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1665,1039,1665,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1669,1039,1669,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1672,1039,1672,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1676,1039,1676,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1680,1039,1680,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1684,1039,1684,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1688,1039,1688,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1691,1039,1691,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1695,1039,1695,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1698,1039,1698,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1702,1039,1702,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1706,1039,1706,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1709,1039,1709,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1713,1039,1713,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1716,1039,1716,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1719,1039,1719,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1723,1039,1723,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1727,1039,1727,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1730,1039,1730,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1733,1039,1733,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1737,1039,1737,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1741,1039,1741,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1745,1039,1745,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1749,1039,1749,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1753,1039,1753,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1757,1039,1757,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1760,1039,1760,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1763,1039,1763,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1766,1039,1766,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1770,1039,1770,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1774,1039,1774,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1778,1039,1778,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1782,1039,1782,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1786,1039,1786,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1790,1039,1790,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1794,1039,1794,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1798,1039,1798,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1802,1039,1802,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1806,1039,1806,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1810,1039,1810,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1814,1039,1814,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1818,1039,1818,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1821,1039,1821,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1825,1039,1825,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1829,1039,1829,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1832,1039,1832,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1836,1039,1836,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1840,1039,1840,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1844,1039,1844,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1848,1039,1848,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1852,1039,1852,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1855,1039,1855,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1859,1039,1859,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1863,1039,1863,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1867,1039,1867,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1871,1039,1871,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1875,1039,1875,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1879,1039,1879,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1883,1039,1883,2008-2009 trivalent influenza vaccine,VO_0004809,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1887,1887,1887,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1888,1888,1888,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1889,1887,1889,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1890,1888,1890,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1891,1887,1891,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1892,1887,1892,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1893,1887,1893,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1894,1888,1894,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1895,1888,1895,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1896,1887,1896,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1897,1887,1897,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1898,1888,1898,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1899,1887,1899,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1900,1888,1900,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1901,1888,1901,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1902,1887,1902,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1903,1887,1903,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1904,1887,1904,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1905,1888,1905,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1906,1888,1906,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1907,1887,1907,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1908,1888,1908,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1909,1887,1909,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1910,1888,1910,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1911,1887,1911,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1912,1888,1912,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1913,1887,1913,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1914,1887,1914,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1915,1887,1915,Menactra,VO_0000071,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1916,1888,1916,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C",VO_0010725,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1977,1977,1977,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1981,1977,1981,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1985,1977,1985,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1989,1977,1989,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1993,1977,1993,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+1997,1977,1997,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2001,1977,2001,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2005,1977,2005,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2009,1977,2009,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2013,1977,2013,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2017,1977,2017,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2021,1977,2021,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2025,1977,2025,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2029,1977,2029,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2033,1977,2033,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2037,1977,2037,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2041,1977,2041,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2045,1977,2045,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2049,1977,2049,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2053,1977,2053,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2057,1977,2057,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2086,2086,2086,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2089,2086,2089,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2092,2086,2092,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2095,2086,2095,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2098,2086,2098,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2101,2086,2101,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2104,2086,2104,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2109,2086,2109,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2114,2086,2114,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2119,2086,2119,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2124,2086,2124,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2129,2086,2129,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2134,2086,2134,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2137,2086,2137,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2140,2086,2140,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2143,2086,2143,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2146,2086,2146,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2149,2086,2149,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2152,2086,2152,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2155,2086,2155,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2158,2086,2158,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2161,2086,2161,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2164,2086,2164,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2167,2086,2167,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2170,2086,2170,Stamaril,VO_0003139,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2173,2173,2173,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2174,2173,2174,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2175,2173,2175,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2176,2173,2176,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2189,2173,2189,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2192,2173,2192,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2195,2173,2195,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2198,2173,2198,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2203,2173,2203,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2206,2173,2206,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2209,2173,2209,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2218,2173,2218,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2221,2173,2221,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2224,2173,2224,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2227,2173,2227,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2230,2173,2230,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2233,2173,2233,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2238,2173,2238,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2249,2173,2249,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2254,2173,2254,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2257,2173,2257,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2260,2173,2260,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2263,2173,2263,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2266,2173,2266,MVA85A,VO_0003120,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2269,2269,2269,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2274,2269,2274,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2279,2269,2279,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2284,2269,2284,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2289,2269,2289,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2294,2269,2294,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2299,2269,2299,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2304,2269,2304,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2309,2269,2309,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2314,2269,2314,MRKAd5 HIV-1 gag/pol/nef,VO_0003133,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2319,2319,2319,Menveo,VO_0001246,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2322,2319,2322,Menveo,VO_0001246,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2325,2325,2325,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2328,2325,2328,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2330,2325,2330,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2333,2325,2333,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2336,2325,2336,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2339,2325,2339,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2342,2325,2342,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2345,2319,2345,Menveo,VO_0001246,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2348,2325,2348,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2351,2325,2351,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2354,2325,2354,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2357,2325,2357,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2360,2325,2360,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2363,2325,2363,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2366,2325,2366,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2369,2319,2369,Menveo,VO_0001246,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2372,2325,2372,ACWY Vax,VO_0003138,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2375,2319,2375,Menveo,VO_0001246,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2378,2378,2378,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2381,2378,2381,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2384,2378,2384,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2387,2378,2387,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2389,2378,2389,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2392,2378,2392,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2395,2378,2395,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2398,2378,2398,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2401,2378,2401,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2404,2378,2404,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2407,2378,2407,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2410,2378,2410,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2413,2378,2413,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2416,2378,2416,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2419,2378,2419,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2422,2378,2422,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2425,2378,2425,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2428,2378,2428,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2431,2378,2431,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2434,2378,2434,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2437,2378,2437,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2440,2378,2440,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2443,2378,2443,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2446,2378,2446,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2449,2378,2449,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2452,2378,2452,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2455,2378,2455,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2458,2378,2458,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2461,2461,2461,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2463,2461,2463,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2465,2461,2465,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2467,2461,2467,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2469,2461,2469,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2471,2461,2471,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2473,2461,2473,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2475,2461,2475,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2477,2461,2477,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2479,2461,2479,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2481,2461,2481,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2483,2461,2483,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2485,2461,2485,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2487,2461,2487,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2489,2461,2489,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2491,2461,2491,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2493,2461,2493,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2495,2461,2495,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2497,2497,2497,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2501,2497,2501,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2505,2497,2505,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2509,2497,2509,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2513,2497,2513,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2517,2497,2517,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2521,2497,2521,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2525,2497,2525,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2529,2497,2529,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2533,2497,2533,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2537,2497,2537,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2541,2497,2541,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2545,2497,2545,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2549,2497,2549,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2553,2497,2553,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2557,2497,2557,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2561,2497,2561,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2565,2497,2565,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2569,2497,2569,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2573,2497,2573,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2577,2497,2577,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2581,2497,2581,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2585,2497,2585,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2589,2497,2589,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2593,2497,2593,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2597,2497,2597,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2601,2497,2601,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2605,2497,2605,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2609,2497,2609,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2613,2497,2613,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2617,2497,2617,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2621,2497,2621,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2625,2497,2625,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2629,2497,2629,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2633,2497,2633,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2637,2497,2637,YF-Vax,VO_0000121,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2641,2641,2641,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2645,2641,2645,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2648,2641,2648,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2652,2641,2652,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2656,2641,2656,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2660,2641,2660,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2663,2641,2663,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2667,2641,2667,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2671,2641,2671,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2675,2641,2675,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2679,2641,2679,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2683,2641,2683,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2687,2641,2687,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2690,2641,2690,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2694,2641,2694,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2698,2641,2698,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2702,2641,2702,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2705,2641,2705,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2709,2641,2709,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2713,2713,2713,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2714,2713,2714,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2715,2713,2715,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2716,2713,2716,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2717,2713,2717,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2718,2713,2718,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2719,2713,2719,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2720,2713,2720,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2721,2713,2721,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2722,2713,2722,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2723,2713,2723,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2724,2713,2724,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2725,2713,2725,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2726,2713,2726,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2727,2713,2727,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2728,2713,2728,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2729,2713,2729,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2730,2713,2730,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2731,2713,2731,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2732,2713,2732,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2733,2713,2733,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2734,2713,2734,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2735,2713,2735,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2736,2713,2736,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2737,2713,2737,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2738,2713,2738,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2739,2713,2739,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2740,2713,2740,FluMist,VO_0000044,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2742,2741,2742,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2748,2741,2748,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2754,2741,2754,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2755,2741,2755,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2761,2741,2761,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2762,2741,2762,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2763,2741,2763,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2764,2741,2764,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2768,2741,2768,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2960,2960,2960,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2962,2960,2962,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2963,2960,2963,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2964,2960,2964,Fluarix,VO_0000045,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of enrollment
+2987,2987,2987,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2988,2987,2988,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2989,2987,2989,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2990,2987,2990,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2991,2987,2991,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2992,2987,2992,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2993,2987,2993,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2994,2987,2994,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2995,2987,2995,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2996,2987,2996,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2997,2987,2997,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2998,2987,2998,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+2999,2987,2999,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3000,2987,3000,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3001,2987,3001,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3002,2987,3002,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3003,2987,3003,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3004,2987,3004,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3005,2987,3005,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3006,2987,3006,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3007,2987,3007,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3008,2987,3008,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3009,2987,3009,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3010,2987,3010,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3011,2987,3011,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3012,2987,3012,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3013,2987,3013,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3014,2987,3014,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3015,2987,3015,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3016,2987,3016,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3017,2987,3017,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3018,2987,3018,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3019,2987,3019,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3020,2987,3020,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3021,2987,3021,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3022,2987,3022,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3023,2987,3023,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3024,2987,3024,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3025,2987,3025,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3026,2987,3026,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3027,2987,3027,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3028,2987,3028,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3029,2987,3029,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3030,2987,3030,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3031,2987,3031,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3032,2987,3032,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3033,2987,3033,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3034,2987,3034,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3035,2987,3035,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3036,2987,3036,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3037,2987,3037,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3038,2987,3038,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3039,2987,3039,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3040,2987,3040,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3041,2987,3041,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3042,2987,3042,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3043,2987,3043,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3059,2987,3059,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3073,2987,3073,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3074,2987,3074,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3104,3104,3104,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3105,3104,3105,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3107,3104,3107,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3108,3104,3108,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3112,3104,3112,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3113,3104,3113,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3158,3158,3158,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3159,3104,3159,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3160,3158,3160,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3161,3158,3161,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3162,3104,3162,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3205,3158,3205,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3206,3104,3206,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3207,3104,3207,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3243,3158,3243,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3245,3104,3245,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3246,3158,3246,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3249,3104,3249,Pneumovax 23 (USA),VO_0000088,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3384,3158,3384,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3385,3158,3385,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3386,3158,3386,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3388,3158,3388,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3392,3158,3392,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3400,3158,3400,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3438,3438,3438,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3442,3438,3442,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3446,3438,3446,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3450,3438,3450,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3454,3438,3454,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3458,3438,3458,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3462,3438,3462,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3466,3438,3466,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3470,3438,3470,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3474,3438,3474,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3478,3438,3478,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3482,3438,3482,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3486,3438,3486,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3490,3438,3490,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3494,3438,3494,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3498,3438,3498,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3502,3438,3502,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3506,3438,3506,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3510,3438,3510,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3514,3438,3514,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3518,3438,3518,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3522,3438,3522,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3526,3438,3526,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3530,3438,3530,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3534,3438,3534,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3538,3438,3538,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3542,3438,3542,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3546,3438,3546,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3550,3438,3550,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3554,3438,3554,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3558,3438,3558,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3562,3438,3562,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3566,3438,3566,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3570,3438,3570,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3574,3438,3574,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3578,3438,3578,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3582,3438,3582,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3586,3438,3586,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3590,3438,3590,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3594,3594,3594,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3598,3598,3598,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3602,3598,3602,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3606,3594,3606,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3610,3598,3610,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3613,3594,3613,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3617,3598,3617,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3621,3594,3621,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3625,3594,3625,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3629,3594,3629,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3633,3594,3633,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3637,3598,3637,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3641,3598,3641,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3645,3594,3645,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3649,3598,3649,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3653,3598,3653,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3657,3594,3657,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3661,3598,3661,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3665,3598,3665,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3668,3594,3668,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3672,3594,3672,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3674,3594,3674,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3676,3594,3676,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3680,3594,3680,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3684,3598,3684,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3688,3598,3688,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3690,3594,3690,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3694,3598,3694,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3697,3594,3697,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3701,3598,3701,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3705,3598,3705,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3709,3598,3709,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3713,3598,3713,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3717,3598,3717,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3721,3598,3721,live attenuated influenza vaccine,VO_0001178,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3725,3594,3725,"2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)",VO_0004810,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3729,3729,3729,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3730,3729,3730,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3731,3729,3731,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3732,3729,3732,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3733,3729,3733,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3734,3729,3734,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3735,3729,3735,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3736,3729,3736,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3737,3729,3737,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3738,3729,3738,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3739,3729,3739,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3740,3729,3740,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3741,3729,3741,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3742,3729,3742,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3743,3729,3743,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3744,3729,3744,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3745,3729,3745,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3746,3729,3746,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3747,3729,3747,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3748,3729,3748,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3749,3729,3749,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3750,3729,3750,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3751,3729,3751,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3752,3729,3752,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3753,3729,3753,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3754,3729,3754,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3755,3729,3755,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3756,3729,3756,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3757,3729,3757,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3758,3729,3758,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3759,3729,3759,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3760,3729,3760,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3761,3729,3761,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3762,3729,3762,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3763,3729,3763,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3764,3729,3764,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3765,3729,3765,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3766,3729,3766,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3767,3729,3767,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3768,3729,3768,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3769,3729,3769,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3770,3729,3770,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3771,3729,3771,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3772,3729,3772,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3773,3729,3773,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3774,3729,3774,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3775,3729,3775,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3776,3729,3776,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3777,3729,3777,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3778,3729,3778,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3779,3729,3779,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3780,3729,3780,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3781,3729,3781,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3782,3729,3782,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3783,3729,3783,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3784,3729,3784,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3785,3729,3785,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3786,3729,3786,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3787,3729,3787,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3788,3729,3788,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3789,3729,3789,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3792,3729,3792,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+3796,3729,3796,Fluzone,VO_0000047,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4158,4158,4158,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4159,4158,4159,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4160,4158,4160,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4161,4158,4161,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4162,4158,4162,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4163,4158,4163,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4164,4158,4164,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4165,4158,4165,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4166,4158,4166,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4167,4158,4167,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4168,4158,4168,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4169,4158,4169,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4170,4158,4170,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4171,4158,4171,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4172,4158,4172,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4173,4158,4173,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4174,4158,4174,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4175,4158,4175,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4176,4158,4176,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4206,4158,4206,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4405,4158,4405,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4406,4158,4406,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4414,4158,4414,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4415,4158,4415,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4416,4158,4416,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4417,4158,4417,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4418,4158,4418,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4419,4158,4419,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4420,4158,4420,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4421,4158,4421,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4423,4158,4423,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4514,4514,4514,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4515,4514,4515,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4516,4514,4516,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4518,4514,4518,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4519,4514,4519,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4520,4514,4520,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4524,4514,4524,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4526,4514,4526,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4528,4514,4528,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4530,4514,4530,Zostavax,VO_0000124,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4534,4534,4534,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4538,4534,4538,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4542,4534,4542,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4544,4534,4544,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4547,4534,4547,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4549,4534,4549,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4552,4534,4552,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4553,4534,4553,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4554,4534,4554,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4557,4534,4557,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4560,4534,4560,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4562,4534,4562,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4565,4534,4565,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4569,4534,4569,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4572,4534,4572,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4574,4534,4574,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4577,4534,4577,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4579,4534,4579,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4581,4534,4581,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4584,4534,4584,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4587,4534,4587,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4589,4534,4589,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4591,4534,4591,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4594,4534,4594,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4598,4534,4598,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4601,4534,4601,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4604,4534,4604,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4607,4534,4607,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4610,4534,4610,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4614,4534,4614,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4618,4534,4618,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4621,4534,4621,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4624,4534,4624,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4627,4534,4627,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4630,4534,4630,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4634,4534,4634,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4637,4534,4637,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4640,4534,4640,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4643,4534,4643,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4646,4534,4646,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4650,4534,4650,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4654,4534,4654,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4655,4534,4655,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4657,4534,4657,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4660,4534,4660,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4662,4534,4662,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4666,4534,4666,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4669,4534,4669,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4672,4534,4672,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4675,4534,4675,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4678,4534,4678,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4682,4534,4682,Influenza virus vaccine,VO_0000642,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4717,2987,4717,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4728,2987,4728,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration
+4736,2987,4736,Fluvirin,VO_0000046,,,OBI_0000984,vaccination,VO_0000001,,VO_0000574,,0,Days,UO_0000035,VIGET,ImmPort,,Time of initial vaccine administration

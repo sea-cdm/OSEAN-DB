@@ -6,7 +6,7 @@ Created on Tue Jun 3 10:04:31 2025
 """
 
 # This code is meant to load in data from MYSQL and then generate two different studies.
-
+import numpy as np
 import pandas as pd
 import pymysql
 import json
@@ -41,13 +41,12 @@ def SEA_INIT():
     print("All tables initialized.")
     return export
 
-
-
-def consolidate_osean(studyid):
+def big_osean():
     #Create json file format so that it is nice and pretty
     #Studyid must a valid index id.
     try:
-        test_s = STUDY[STUDY['study_id']==studyid]
+        #test_s = STUDY[STUDY['study_id']==studyid]
+        test_s = STUDY[STUDY['study_id']]
         try:
             test_e = EXPER[EXPER['study_id'].isin(test_s['study_id'])]
             try:
@@ -89,7 +88,55 @@ def consolidate_osean(studyid):
             print("Could not find valid experiments")
             return 0 
     except:
-        print(f"Could not run using index f{studyid}, make sure it is an index.")
+        print(f"Could not run using index, make sure it is an index.")
+
+def consolidate_osean(studyid):
+    #Create json file format so that it is nice and pretty
+    #Studyid must a valid index id.
+    try:
+        #test_s = STUDY[STUDY['study_id']==studyid]
+        test_s = STUDY[STUDY['study_id'].isin(studyid)]
+        try:
+            test_e = EXPER[EXPER['study_id'].isin(test_s['study_id'])]
+            try:
+                test_o = ORGO[ORGO['experiment_id'].isin(test_e['experiment_id'])]
+                try:
+                    test_i = INTER[INTER['experiment_id'].isin(test_e['experiment_id'])]
+                    try:
+                        test_p = SAMP[SAMP['organism_id'].isin(test_o['organism_id'])]
+                        try:
+                            test_r = RESULT[RESULT['sample_id'].isin(test_p['sample_id'])]
+                            test_se = test_s.merge(test_e, on='study_id')
+                            test_se = test_se.drop(columns=['comments_x', 'comments_y'])
+                            test_se = test_se.rename(columns={'reference_source_x':'study_reference_source', 'reference_source_y':'experiment_reference_source'})
+                            test_pr = test_p.merge(test_r, on='sample_id').drop(columns=['group_id_x']).rename(columns={'group_id_y':'group_id'})
+                            test_oi = test_i.merge(test_o, on='organism_id').drop(columns=['experiment_id_x'])
+                            test_oi = test_oi.rename(columns={'experiment_id_y':'experiment_id', 'reference_id_y':'intervention_reference_id', 'reference_id_x':'organism_reference_id', 'reference_source_y':'intervention_reference_source','reference_source_x':'organism_reference_source' })
+                            test_oi = test_oi.rename(columns={'comments_x':'intevention_comments', 'comments_y':'organism_comments'})
+                            test_proi = test_pr.merge(test_oi, on='organism_id')
+                            test_proi = test_proi.drop(columns={'experiment_id_y','T0_defintion', 'group_id_y'})
+                            test_proi = test_proi.rename(columns={'T0_defintion_x':'T0_definition', 'experiment_id_x':'experiment_id', 'group_id_x':'group_id'})
+                            # fix typos
+                            test_seproi = test_proi.merge(test_se, on='experiment_id')
+                            test_seproi = test_seproi.rename(columns={'source_id_x':'intervention_source_id', 'source_id_y':'experiment_source_id', 'reference_id_y':'study_reference_id', 'reference_id_x':'intervention_reference_id'})
+                            return test_seproi
+                        except:
+                            print("Could not find valid results")
+                            return 0
+                    except:
+                        print("Could not find valid sanples")
+                        return 0
+                except: 
+                    print("Could not find valid interventions")
+                    return 0
+            except:
+                print("Could not find valid organisms")
+                return 0
+        except:
+            print("Could not find valid experiments")
+            return 0 
+    except:
+        print(f"Could not run using index {studyid}, make sure it is an index.")
         return 0
 
 def export_osean_json (osean_data, filename):
@@ -123,7 +170,7 @@ def boot_up(host1, user1='kaiser', password1='password', database1='seacdm'):
 
 templates = SEA_INIT()
 tables = templates
-mastertables = ['study', 'document', 'experiment','intervention', 'assay', 'results', 'ontology', 'organism', 'occurence',
+mastertables = ['study', 'documentation', 'experiment','intervention', 'assay', 'results', 'ontology', 'organism', 'occurence',
                'sample', 'group', 'analysis', 'material']
 
 # List of appropriate table names
@@ -188,7 +235,7 @@ def load_osean(mastertables, tables):
     for i in range(len(mastertables)):
         madlibs = mastertables[i]
         try:
-            sqlstring = f"select * from {madlibs}"
+            sqlstring = f"select * from seacdm.{madlibs}"
             suma = cur.execute(sqlstring)
             print(f"There are {suma} entries in {madlibs}.")
             output = cur.fetchall()
@@ -202,14 +249,14 @@ def load_osean(mastertables, tables):
             #print(table_names)
             #print("The unique rows are the following: ")
             #output.columns = col_names
-            print(output)
+            #print(output)
             # adding this to work
             #table_columns.append(table_names)
             try:
                 #templates[i] = templates[i].concat(tables[i])
                 tables[i] = pd.DataFrame(tables[i])
                 #templates[i] = pd.DataFrame(tables[i], columns = templates[i].columns)
-                print('Template aquired.')
+                #print('Template aquired.')
             except:
                0
                 # print(f"There is no {madlibs} table created")
@@ -331,8 +378,47 @@ def compare_osean_json(study_id1, study_id2, filename):
     return 0
 
 
+#To use multiple study_id, list 
+
+study_id = EXPER[EXPER['experiment_id'].isin(
+    INTER[(INTER['material'] == 'Yellow fever 17D vaccine vector') | 
+          (INTER['material'] == 'YF-Vax')]['experiment_id']
+)]['study_id']
+#study_id = 4514
+#study_id = np.int64(study_id)
+
+
 # Step 1: Original DataFrame to JSON
-jason = consolidate_osean(1)
+debug_id = STUDY.loc[24]['study_id']
+jason = consolidate_osean(debug_id)
+
+
+
+vaccine_names = [
+    'Fluzone',
+    'Influenza virus vaccine',
+    'Trivalent inactivated influenza',
+    '2008-2009 trivalent influenza vaccine',
+    'Fluarix',
+    'FluMist',
+    'Fluvirin',
+    '2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)',
+    'live attenuated influenza vaccine'
+]
+
+#DEBUG NAMES
+vaccine_names = [
+    'Fluzone',
+    '2008-2009 trivalent influenza vaccine',
+    'Fluarix',
+    'Fluvirin',
+    '2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)',
+    'live attenuated influenza vaccine'
+]
+
+# Get experiment_ids from INTER
+relevant_exp_ids = INTER[INTER['material'].isin(vaccine_names)]['experiment_id']
+
 jason_json = jason.to_json(orient='index', indent=4)
 
 # Step 2: Parse JSON string to dict
@@ -372,23 +458,53 @@ with open('merged_by_group_id.json', 'w') as f:
     json.dump(final, f, indent=2)
     
 
+gene_exp = "/Users/huffmaar/OneDrive - Michigan Medicine/Documents/immport_vaccine_expression_matrix_mapped_merged_approved_genes_091421.csv"
 GEXP = read_VIGET(gene_exp)
-GEXP = GEXP.T
+#Verify GEXP is transposed in order to compare gene names.
+
+# Load up all pairs at date
+# Append averages of each row to date
+# Average of averages to return
+# Rerutn filtered name list for code
+
+def gene_expression(sample1, sample2, GEXP):
+    try:
+        gexp_1 = GEXP[sample1]
+        gexp_2 = GEXP[sample2]
+        try:
+            gexp_ratio = 2**(gexp_2 - gexp_1)
+            return gexp_ratio
+        except:
+            print('Could not divide two different rows')
+            return 0
+    except:
+        print(f'Could not load table with samples {sample1} or {sample2}')
+        return 0
+
+'''def gene_names_interest(criteria, criteria_column, criterea_list, day1, day2, datafile):
+    #critiera is table that is used to look at for restriction for massive json
+    #criteria_list is values you want to look at it.
+    try:
+        export = pd.DataFrame(columns = jason.columns)
+        export = pd.concat([export, gexp_ratio.to_frame().T])
+        filtered_criteria = criteria[criteria[criteria_column].isin(criteria_list)]
+        #Load in table of results for findings. 
+        for i in criteria_list:
+            for j in criteria_list:
+                if i != j:
+                    0
+            gexp_1 = criteria
+            gexp_2 = GEXP.T.iloc[j]
+            gene_expression(gexp1, gexp2)
+    except:
+        print('could not intersect')
+        return 0'''
+
+genes_of_interest = 0
+
+jjaass = big_osean()
+
+logic_gate = 'Menactra'
 
 
-def gene_expression(sample1, sample2, datafile):
-    kholi 
 
-
-
-
-
-
-
-
-test_s = STUDY[STUDY['study_id']==1]
-test_e = EXPER[EXPER['study_id'].isin(test_s['study_id'])]
-test_o = ORGO[ORGO['experiment_id'].isin(test_e['experiment_id'])]
-test_i = INTER[INTER['experiment_id'].isin(test_e['experiment_id'])]
-test_p = SAMP[SAMP['organism_id'].isin(test_o['organism_id'])]
-test_r = RESULT[RESULT['sample_id'].isin(test_p['sample_id'])]

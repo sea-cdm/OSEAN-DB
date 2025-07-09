@@ -1,0 +1,13 @@
+analysis_id,documentation_id,group_id,analysis_name,analysis_name_id,input_data,input_data_idreference_id,reference_source,comments,assay_name,assay_type,assay_type_id,organism,imput_data,reference_id,reagents,platform
+1,7,,,,,,ImmPort,,LIMMA usng fGPL13158,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL13158
+2,7,,,,,,ImmPort,,LIMMA usng fGPL10558,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL10558
+3,7,,,,,,ImmPort,,LIMMA usng fGPL6104,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL6104
+4,7,,,,,,ImmPort,,LIMMA usng fGPL6883,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL6883
+5,7,,,,,,ImmPort,,LIMMA usng fGPL571,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL571
+6,7,,,,,,ImmPort,,LIMMA usng fGPL570,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL570
+7,7,,,,,,ImmPort,,LIMMA usng fGPL6947,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL6947
+8,7,,,,,,ImmPort,,LIMMA usng fGPL21975,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL21975
+9,7,,,,,,ImmPort,,LIMMA usng fGPL7567,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL7567
+10,7,,,,,,ImmPort,,LIMMA usng fGPL10647,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL10647
+11,7,,,,,,ImmPort,,LIMMA usng fGPL3921,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL3921
+12,7,,,,,,ImmPort,,LIMMA usng fGPL6244,LIMMA,EFO_0001456,True,VIGET,1,RNA,GPL6244

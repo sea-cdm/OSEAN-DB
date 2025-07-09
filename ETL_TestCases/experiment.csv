@@ -1,0 +1,33 @@
+experiment_id,study_id,experiment_type,experiment_type_id,experiment_control,source_id,reference_source,comments,experiment_name
+1,1,vaccination response,VO_0000002,0,,VIGET,,SDY984 Zostavax
+289,289,vaccination response,VO_0000002,0,,VIGET,,SDY1119 Fluzone
+466,466,vaccination response,VO_0000002,0,,VIGET,,SDY520 Influenza virus vaccine
+563,563,vaccination response,VO_0000002,0,,VIGET,,SDY640 Trivalent inactivated influenza
+643,643,vaccination response,VO_0000002,0,,VIGET,,SDY1289 Yellow fever 17D vaccine vector
+785,785,vaccination response,VO_0000002,0,,VIGET,,SDY1293 Plasmodium falciparum vaccine
+1039,1039,vaccination response,VO_0000002,0,,VIGET,,SDY1276 2008-2009 trivalent influenza vaccine
+1887,1887,vaccination response,VO_0000002,0,,VIGET,,SDY1260 Menactra
+1888,1887,vaccination response,VO_0000002,0,,VIGET,,"SDY1260 Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+1977,1977,vaccination response,VO_0000002,0,,VIGET,,SDY1294 Stamaril
+2086,2086,vaccination response,VO_0000002,0,,VIGET,,SDY1264 Stamaril
+2173,2173,vaccination response,VO_0000002,0,,VIGET,,SDY1364 MVA85A
+2269,2269,vaccination response,VO_0000002,0,,VIGET,,SDY1291 MRKAd5 HIV-1 gag/pol/nef
+2319,2319,vaccination response,VO_0000002,0,,VIGET,,SDY1325 Menveo
+2325,2319,vaccination response,VO_0000002,0,,VIGET,,SDY1325 ACWY Vax
+2378,2378,vaccination response,VO_0000002,0,,VIGET,,SDY270 Fluarix
+2461,2461,vaccination response,VO_0000002,0,,VIGET,,SDY1368 Zostavax
+2497,2497,vaccination response,VO_0000002,0,,VIGET,,SDY1529 YF-Vax
+2641,2641,vaccination response,VO_0000002,0,,VIGET,,SDY63 Influenza virus vaccine
+2713,2713,vaccination response,VO_0000002,0,,VIGET,,SDY269 FluMist
+2741,2713,vaccination response,VO_0000002,0,,VIGET,,SDY269 Fluarix
+2960,2960,vaccination response,VO_0000002,0,,VIGET,,SDY61 Fluarix
+2987,2987,vaccination response,VO_0000002,0,,VIGET,,SDY80 Fluvirin
+3104,3104,vaccination response,VO_0000002,0,,VIGET,,SDY180 Pneumovax 23 (USA)
+3158,3104,vaccination response,VO_0000002,0,,VIGET,,SDY180 Fluzone
+3438,3438,vaccination response,VO_0000002,0,,VIGET,,SDY404 Influenza virus vaccine
+3594,3594,vaccination response,VO_0000002,0,,VIGET,,"SDY144 2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+3598,3598,vaccination response,VO_0000002,0,,VIGET,,SDY522 live attenuated influenza vaccine
+3729,3729,vaccination response,VO_0000002,0,,VIGET,,SDY311 Fluzone
+4158,4158,vaccination response,VO_0000002,0,,VIGET,,SDY400 Influenza virus vaccine
+4514,4514,vaccination response,VO_0000002,0,,VIGET,,SDY111 Zostavax
+4534,4534,vaccination response,VO_0000002,0,,VIGET,,SDY56 Influenza virus vaccine
