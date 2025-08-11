@@ -11,7 +11,8 @@ else:
 
 
 """
-# Implementation is only based on cellxgene
+# Implementation is only based on cellxgene.
+# This is very rough cataegory for ETL that is meant to just query experiments and results data.
 
 import pandas as pd
 import numpy as np
@@ -22,7 +23,20 @@ import anndata as ad
 #C:/Users/huffmaar/OneDrive - Michigan Medicine/Documents/GitHub/OSEAN-DB/ETL_TestCases/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad
 #python VIGET_ETL.py /Users/huffmaar/Documents/SEA-CDM-SQL-Imports/ImmuneExposureGeneExpression_020922_Raw.csv
 
-cellxgene = "C:/Users/huffmaar/OneDrive - Michigan Medicine/Documents/GitHub/OSEAN-DB/ETL_TestCases/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
+cellxgene = "C:/Users/huffmaar/Documents_Local/8655aff7-44c7-4904-8719-7dd75ec20fcd.h5ad"
+pathway = 'C:/Users/huffmaar/Documents_Local/'
+filename1 = 'a3ef98b7-5eec-45e0-ae73-db13324bac22.h5ad'
+filename2 = 'bd572490-8f80-4044-9d00-db07a68fb6ec.h5ad'
+filename3 = '8655aff7-44c7-4904-8719-7dd75ec20fcd.h5ad'
+filename4 = '983bd800-e655-4c76-ad9a-20ae0257fc0b.h5ad'
+filename5 = '65cf7371-bbf3-4d41-9250-2d30bd048125.h5ad'
+filenames = [filename1, filename2, filename3, filename4, filename5]
+pathways = []
+for name in filenames:
+    pathways.append(pathway+name)
+
+
+#cellxgene = 
 # "Users\huffmaar\Documents\SEA-CDM-SQL-Imports\CellGene UseCase\8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
 
 if len(sys.argv) > 1:
@@ -51,7 +65,7 @@ def dummy_loop(term, length):
     return 0
 
 def SEA_INIT():
-    SEA_Study  = pd.DataFrame(columns=['study_id','study_type', 'study_type_id', 'study_name', 'study_description',
+    SEA_Study  = pd.DataFrame(columns=['study_id','study_type', 'study_focus', 'study_subject', 'study_type_id', 'study_name', 'study_description',
                                        'reference_id','reference_source','comments'])
     SEA_Docu =  pd.DataFrame(columns=['documentation_id','study_id','document_name','document_type','document_type_id','documentation_source', 'reference_id','reference_source', 'citation', 'citation_style','person_id', 'person_id_type','honorific','first_name','middle_name','last_name','person_role', 'comments'])
     SEA_Exper = pd.DataFrame(columns=['experiment_id', 'study_id',
@@ -90,12 +104,11 @@ def read_cxg(filename):
         return  0
     return (vdata, odata)
 
-h5ad = read_cxg(cellxgene)
 
 def save_list(df_list):
     try:
         for i in df_list:
-            zeq = i.columns[0][0:-2]+".csv"
+            zeq = i.columns[0][0:-2]+"h5ad.csv"
             i.to_csv(zeq)
     except:
         print("Could not save list.")
@@ -107,44 +120,75 @@ def _source_keys(df1, df2, col1, col2):
 
     return outer_join_df
 
+from collections import Counter
+
+
+
 # Intialize SEATEmplates
 SEATemplates = SEA_INIT()
 # Strings for filenames, to be changed lagter.
 
-cellxgene = "C:/Users/huffmaar/Documents/SEA-CDM-SQL-Imports/CellGene UseCase/8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
 # "Users\huffmaar\Documents\SEA-CDM-SQL-Imports\CellGene UseCase\8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
+cellxgene = pathways[0]
+h5ad = read_cxg(cellxgene)
 
-vadata = h5ad[0]
-oadata = h5ad[1]
+
+vadata0 = read_cxg(pathways[0])[1]
+vadata1 = read_cxg(pathways[1])[1]
+vadata2 = read_cxg(pathways[2])[1]
+vadata3 = read_cxg(pathways[3])[1]
+vadata4 = read_cxg(pathways[4])[1]
+
+vadata0['study_name'] = 'Mouse Post-Flu Time Series'
+vadata1['study_name'] = 'Immunophenotyping of COVID-19 and influenza highlights the role of type I interferons in development of severe COVID-19'
+vadata2['study_name'] = 'A total of 27,092 droplet-based single-nucleus transcriptomes profiled across 11 cell types in the choroid plexus'
+vadata3['study_name'] = 'COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs'
+vadata4['study_name'] = 'A total of 38,217 droplet-based single-nucleus transcriptomes profiled across 14 cell types in the frontal cortex'
+
+vadata5 = pd.concat([vadata1, vadata2, vadata3, vadata4, vadata0])
+vadata = vadata5.loc[:, ['observation_joinid', 'study_name', 'experimental_group', 'donor_id', 'tissue_type', 'tissue_ontology_term_id', 'assay_ontology_term_id', 'sex_ontology_term_id',  'disease_ontology_term_id', 'assay', 'disease', 'sex', 'tissue', ]]
+
+# Gather all column names from all dataframes
+all_columns = (
+    list(vadata1.columns) +
+    list(vadata2.columns) +
+    list(vadata3.columns) +
+    list(vadata4.columns) +
+    list(vadata0.columns)
+)
+
+# Count occurrences and convert to get column entries that work.
+column_counts = Counter(all_columns)
+column_counts_df = pd.DataFrame.from_dict(column_counts, orient='index', columns=['count']).sort_values('count', ascending=False)
+vcolumns = column_counts_df[column_counts_df['count'] >= 2]
+#vadata = vadata5.loc[:, vcolumns.index]
+vadata = vadata5[vadata5['disease'].isin(['normal', 'influenza'])].loc[:, vcolumns.index]
+
+
+#vadata = h5ad[0]
+#oadata = h5ad[1]
+
+
 
 
 SEATemplates = SEA_INIT()
 
 STUDY = SEATemplates[0]
+STUDY['study_name'] = vadata['study_name'].unique()
+STUDY['study_type_id'] = 'OBI_0003697'
+STUDY['study_focus'] = vadata['disease'] # True only for this
 
-study_cxg = pd.Series({'study_id': 77,
-                           'ontology_name': "Vaccine_Ontology",
-                           'study_type': 'Clinical Investigation', # May not be correct
-                           'study_type_id': 'OBI_0003697',
-                           'study_name': "Longitudinal single-cell profiles of lung regeneration after viral infection reveal persistent injury-associated cell states",
-                           'study_description': "Single-cell sequencing atlas of the mouse's lung’s response to influenza infection",
-                           'reference_id': "39818203",
-                           'reference_source':"PUBMED"
-                           })
-STUDY = pd.concat([study_cxg, study_cxg.to_frame().T])
+STUDY['reference_source'] = 'CellxGene'
+STUDY['study_id'] = STUDY.index+1
 SEATemplates[0] = STUDY.set_index('study_id')
 
 EXPER =  SEATemplates[2]
 #Placeholder for Experiments.
-EXPER['experiment_id'] = oadata['experimental_group']
-EXPER['reference_id'] = oadata['experimental_group']
-EXPER['reference_source'] = oadata['experimental_group']
-
-EXPER['experiment_control'] = 1
-EXPER[EXPER['experiment_group'].contains('homeostasis')]['experimental_id'] = 0
+EXPER['experiment_id'] = vadata['study_name'] + vadata['disease']
+EXPER['reference_source'] = 'CellxGene'
 EXPER = EXPER.drop_duplicates(subset='experiment_id')
 
-SEATemplates[2] = ZEXPER
+SEATemplates[2] = EXPER
  
 #viget['study_id'] = viget['reference_id']
 
@@ -170,94 +214,69 @@ SEATemplates[6] = ONTO.set_index('ontology_id')
 
 
 GROUP = SEATemplates[10]
-GROUP['group_id'] = oadata['experimental_group']
-GROUP['experiment_id'] = 66 # Must be user defined.
-GROUP['reference_id'] = oadata['experimental_group']
+GROUP['group_id'] = vadata['disease'] + vadata['study_name'] + vadata['development_stage']
+GROUP['experiment_id'] = vadata['study_name'] + vadata['disease']
 GROUP['reference_source'] = 'CellxGene'
+GROUP['group_type'] = 'Organism'
 GROUP = GROUP.drop_duplicates(subset='group_id')
+SEATemplates[10] = GROUP
+
 
 ORGO = SEATemplates[7]
-ORGO['organism_id'] = oadata['donor_id']
-ORGO['group_id'] = oadata['experimental_group']
-ORGO['species_id'] = oadata['organism_ontology_term_id']
-ORGO['sex'] = oadata['sex']
-ORGO['sex_id'] = oadata['sex_ontology_term_id']
-ORGO['age'] = oadata['Age_in_days']
-ORGO['age_unit'] = 'Days'
+ORGO['reference_id'] = vadata['donor_id'] 
+ORGO['organism_id'] = 'ORGO'+vadata['donor_id']
+ORGO['group_id'] = vadata['disease'] + vadata['study_name'] + vadata['development_stage']
+ORGO['sex'] = vadata['sex']
+ORGO['sex_id'] = vadata['sex_ontology_term_id']
+SEATemplates[7] = ORGO.drop_duplicates(subset='organism_id')
+
 #viget['study_id'] = viget['reference_id']
 
 # intervention Table is complete but does not generate linking _id
 
 INTER= SEATemplates[3]
-
-SEATemplates[3] = INTER.drop_duplicates()
-
-
-#.reset_index(drop=True, inplace=True)
-
-
-
-
-
-# siget = pd.merge(siget, STUDY, left_on="immport_study_accession", right_on="reference_id", how='outer')
-
-
-
-
-
-#df_binary = np.where(df > 0, 1, 0)
-#df = pd.DataFrame(df_binary, index=df.index, columns=df.columns)
-
-
-SEATemplates[2] = STUDY.drop_duplicates()
-
-
-
+INTER['intervention_id'] = vadata['study_name']+vadata['donor_id']
+INTER['organism_id'] = vadata['donor_id']
+INTER['material'] = vadata['disease']
+INTER[INTER['material'] == 'influenza']['material_id'] == "NCBITaxon_11309"
+INTER['intervention_type'] = 'immune response'
+SEATemplates[3] = INTER.drop_duplicates(subset='intervention_id')
 
 
 
 SAMP=SEATemplates[9]
-#SAMP['reference_id'] = viget['gsm']
-
-#SAMP['organism_id'] = viget['organism_id']
-SAMP['sample_id'] = oadata['sample_id']
-SAMP['biosample_id'] = oadata['sample_id']
-SAMP['group_id'] = oadata['experimental_group']
-SAMP['biosample_type'] = oadata['tissue_type']
-SAMP['expsample_type'] =  oadata['suspension_type']
-SAMP['biosample_reference_id'] = oadata['sample_id']
-SAMP['']
-SAMP['expsample_reference_id'] = oadata.index
+SAMP['expsample_reference_id'] =  vadata.index
+SAMP['expsample_reference_source'] = 'CellxGene'
+SAMP['organism_id'] = vadata['donor_id'].values
+SAMP['group_id'] = vadata['disease'].values + vadata['study_name'].values + vadata['development_stage'].values
+SAMP['biosample_type'] = vadata['tissue'].values
+SAMP['expsample_type'] =  vadata['cell_type'].values + ' ' + vadata['suspension'].values
+SAMP['sample_id'] = 'SAMP'+vadata.index
 #SAMP['reference_id']
-SEATemplates[9] = SAMP.drop_duplicates()
-SEATemplates[9]['biosample_reference_name'] = 'cellxgene'
-SAMP['expsample_source'] = 'cellxgene'
 SEATemplates[9] = SAMP
 
+ASSAY=SEATemplates[4]
+ASSAY["assay_id"]  = vadata['study_name'] + vadata['assay'] +' ' + vadata['cell_type'] + ' assay'
+ASSAY["platform"]  = vadata['assay']
 
+SEATemplates[4]=ASSAY.drop_duplicates(subset='assay_id')
 
 # Generate REsults, does not includ mapping of appropriate _ids
 RESULT = SEATemplates[5]
-
-RESULT["sample_id"] = oadata["sample_id"]
+RESULT['result_id'] =  'RSLT'+vadata.index
+RESULT['sample_id'] = 'SAMP'+vadata.index
+RESULT['experiment_id'] = vadata['study_name'].values + vadata['disease'].values
+RESULT['group_id'] = vadata['disease'].values + vadata['study_name'].values + vadata['development_stage'].values
+RESULT["assay_name"]  = vadata['study_name'].values + vadata['assay'].values + ' assay'
 #RESULT["data_dimensions"] = 22343
+RESULT['assay_type'] = 'single ' + vadata['suspension'].values +' RNA-seq'
 RESULT["datatype"] = "h5aD"
-RESULT["file_access"] = "cellxgene"
+RESULT["file_access"] = "CellxGene"
 RESULT["file_type"] = "h5ad"
-RESULT["document_id"] = "8c64b76f-6798-43b4-9e22-a4c69be77325.h5ad"
 RESULT["analysis_name"] = "CellxGene Processing" # Not sure if correct
-RESULT["original_assay_type"] = "Gene Expression Assay"
-RESULT["replications"] = 1
 SEATemplates[5] = RESULT
 
 MATS = SEATemplates[11]
-
-
-    SEA_Assay = pd.DataFrame(columns=['assay_id','assay_name','documentation_id','assay_type', 'assay_type_id', 'organism', 'reagents', 'platform'])
-    SEA_Rslt  = pd.DataFrame(columns=['results_id','experiment_id','group_id','sample_id','analysis_name','analysis_id', 
-                                  'original_assay_type', 'assay_id', 'analysis_type',
-                                  'datatype', 'datatype_id', 'file_access', 'file_type', 'replications',  'comments' ])
-    SEA_Anal  = pd.DataFrame(columns=['analysis_id', 'documentation_id', 'group_id', 'analysis_name', 'analysis_name_id', 'input_data', 'input_data_id' 'reference_id', 'reference_source', 'comments'])
 
 
 ALYS = SEATemplates[12]
