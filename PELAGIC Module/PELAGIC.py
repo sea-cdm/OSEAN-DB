@@ -5,9 +5,9 @@ Created on Tue Jun 3 10:04:31 2025
 @author: huffmaar
 """
 
-# This code is meant to load in data from MYSQL and then generate two different studies.
+# This code is meant to aid in be called by different scripts. 
+# PURE SPARQL variation includes code set up to run.
 
-import pandas as pd
 
 import pandas as pd
 import pymysql
@@ -54,11 +54,11 @@ def python_queries(tablename, columnname, columnvalues, tables):
     else:
         0
     if pyqflag == True:
-        return tables[tablename[columnname]
+        return tables[tablename[columnname]]
     else:
         return pyqflag
 
-def consolidate_osean(studyid):
+def consolidate_osean(studyid, STUDY, EXPER, ORGO, INTER, SAMP, RESULT):
     #Create json file format so that it is nice and pretty
     #Studyid must a valid index id.
     try:
@@ -68,7 +68,6 @@ def consolidate_osean(studyid):
         test_i = INTER[INTER['experiment_id'].isin(test_e['experiment_id'])]
         test_p = SAMP[SAMP['organism_id'].isin(test_o['organism_id'])]
         test_r = RESULT[RESULT['sample_id'].isin(test_p['sample_id'])]
-        
         test_se = test_s.merge(test_e, on='study_id')
         test_se = test_se.drop(columns=['comments_x', 'comments_y'])
         test_se = test_se.rename(columns={'reference_source_x':'study_reference_source', 'reference_source_y':'experiment_reference_source'})
@@ -90,7 +89,7 @@ def consolidate_osean(studyid):
 def export_osean_json (osean_data, filename):
     #filename string, osean_data is created from consolidate_osean
     try:
-        json_seproi = test_seproi.to_json( f'{filename}_osean_output.json', orient='table', indent=4)
+        json_seproi = osean_data.to_json( f'{filename}_osean_output.json', orient='table', indent=4)
     except:
         print(f"Try again.")
     return 0
@@ -115,17 +114,6 @@ def boot_up(host1, user1='kaiser', password1='password', database1='seacdm'):
         print(f"Error: {err}")
         return 0
 
-
-def search_GEXP(sample_ids, gene_exp):
-    #sample_ids is a list of sample_id according to SEACDM
-    #gene_exp is path to read VIGET file.
-    GEXP = read_VIGET(gene_exp)
-    GEXP = GEXP.T
-    QUERIED = SAMP[SAMP['sample_id'].isin(query_ids)]['expsample_reference_name'].tolist()
-    QUERIED.append('GeneGene')
-    GEXP_sub = GEXP.loc[QUERIED]
-    #Save data so it is good.
-    GEXP_sub.to_csv('GEXP.csv', sep = '\c')
 
 def file_reader(filename):
     try: 
