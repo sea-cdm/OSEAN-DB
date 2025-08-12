@@ -1,9 +1,11 @@
 # OSEAN-DB
 OSEAN-DB: OSEAN database
 
-OSEAN stands for Ontology-based Study-Experiment-Assay Newtwork. OSEAN DB is a relational database system built on the ontology-supported SEA CDM.
+OSEAN stands for Ontology-based Study-Experiment-Assay Newtwork. 
 
-Currently OSEAN-DB contains prototypes for SEA-CDM file conversion.
+OSEAN DB is a relational database system built on the ontology-supported SEA CDM. MySQL is our default relational database management system. 
+
+This directory includes three examples of OSEAN databases.
 
 ## Database Schema
 
