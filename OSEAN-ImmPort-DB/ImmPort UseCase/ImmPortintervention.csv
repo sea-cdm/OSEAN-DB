@@ -1,0 +1,2509 @@
+,intervention_id,experiment_id,organism_id,material,material_id,dosage,dosage_unit,dosage_unit_id,intervention_route,intervention_route_id,T0_defintion,intervention_time,intervention_unit,intervention_time_unit_id,source_id,reference_source,comments,reference_id,material_name
+11820,,,1,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295364,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11833,,,2,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295368,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11834,,,3,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295356,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11844,,,4,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295331,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11845,,,5,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295336,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11846,,,6,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295353,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11863,,,7,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295361,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+11864,,,8,,VO_0000642,,,,,,,,,,,ImmPort,,SUB295346,"Pfizer-BioNTech COVID-19 Vaccine, CVX Code: 208"
+30347,,,9,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156927,Trivalent inactivated influenza
+30393,,,10,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156931,Trivalent inactivated influenza
+30415,,,11,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156933,Trivalent inactivated influenza
+30448,,,12,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156936,Trivalent inactivated influenza
+30471,,,13,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156938,Trivalent inactivated influenza
+30482,,,14,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156939,Trivalent inactivated influenza
+30493,,,15,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156940,Trivalent inactivated influenza
+30504,,,16,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156941,Trivalent inactivated influenza
+30515,,,17,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156943,Trivalent inactivated influenza
+30526,,,18,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156945,Trivalent inactivated influenza
+30537,,,19,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156946,Trivalent inactivated influenza
+30548,,,20,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156914,Trivalent inactivated influenza
+30570,,,21,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156918,Trivalent inactivated influenza
+30582,,,22,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156919,Trivalent inactivated influenza
+30593,,,23,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156920,Trivalent inactivated influenza
+30626,,,24,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156923,Trivalent inactivated influenza
+30681,,,25,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156947,Trivalent inactivated influenza
+30693,,,26,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156948,Trivalent inactivated influenza
+30704,,,27,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156949,Trivalent inactivated influenza
+30715,,,28,,VO_0000642,,,,,,,,,,,ImmPort,,SUB156950,Trivalent inactivated influenza
+38532,,,29,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205386,YF-Vax
+38543,,,30,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205387,YF-Vax
+38554,,,31,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205388,YF-Vax
+38565,,,32,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205389,YF-Vax
+38578,,,33,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205390,YF-Vax
+38589,,,34,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205391,YF-Vax
+38600,,,35,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205392,YF-Vax
+38611,,,36,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205393,YF-Vax
+38622,,,37,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205394,YF-Vax
+38633,,,38,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205395,YF-Vax
+38644,,,39,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205396,YF-Vax
+38655,,,40,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205397,YF-Vax
+38666,,,41,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205398,YF-Vax
+38677,,,42,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205399,YF-Vax
+38689,,,43,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205400,YF-Vax
+38700,,,44,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205401,YF-Vax
+38711,,,45,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205402,YF-Vax
+38722,,,46,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205403,YF-Vax
+38733,,,47,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205404,YF-Vax
+38744,,,48,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205405,YF-Vax
+38755,,,49,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205406,YF-Vax
+38766,,,50,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205407,YF-Vax
+38777,,,51,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205408,YF-Vax
+38788,,,52,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205409,YF-Vax
+38800,,,53,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205410,YF-Vax
+38811,,,54,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205411,YF-Vax
+38822,,,55,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205412,YF-Vax
+38833,,,56,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205413,YF-Vax
+38844,,,57,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205414,YF-Vax
+38855,,,58,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205415,YF-Vax
+38866,,,59,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205416,YF-Vax
+38877,,,60,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205417,YF-Vax
+38888,,,61,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205418,YF-Vax
+38899,,,62,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205419,YF-Vax
+38911,,,63,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205420,YF-Vax
+38922,,,64,,VO_0000642,,,,,,,,,,,ImmPort,,SUB205421,YF-Vax
+54794,,,65,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169043,BCG Vaccine
+54805,,,66,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169044,BCG Vaccine
+54816,,,67,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169045,BCG Vaccine
+54827,,,68,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169047,BCG Vaccine
+54838,,,69,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169048,BCG Vaccine
+54849,,,70,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169049,BCG Vaccine
+54860,,,71,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169050,BCG Vaccine
+54871,,,72,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169051,BCG Vaccine
+54882,,,73,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169054,BCG Vaccine
+54893,,,74,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169059,BCG Vaccine
+56982,,,75,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169045,BCG Vaccine
+56993,,,76,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169050,BCG Vaccine
+57004,,,77,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169044,BCG Vaccine
+57016,,,78,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169051,BCG Vaccine
+57027,,,79,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169048,BCG Vaccine
+57038,,,80,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169049,BCG Vaccine
+57049,,,81,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169043,BCG Vaccine
+57060,,,82,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169047,BCG Vaccine
+57071,,,83,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169054,BCG Vaccine
+57082,,,84,,VO_0000642,,,,,,,,,,,ImmPort,,SUB169059,BCG Vaccine
+73322,,,85,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118148,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73333,,,86,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118151,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73344,,,87,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118153,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73355,,,88,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118155,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73366,,,89,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118156,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73377,,,90,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118157,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73388,,,91,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118158,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73399,,,92,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118161,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73410,,,93,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118164,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73422,,,94,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118167,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73433,,,95,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118168,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73444,,,96,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118169,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73455,,,97,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118170,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73466,,,98,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118171,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73477,,,99,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118174,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73488,,,100,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118176,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73499,,,101,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118183,"2011-2012 trivalent inactivated vaccine (A/California/7/09 (H1N1), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)"
+73976,,,102,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122716,2011-2012 trivalent inactivated vaccine
+73998,,,103,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122718,2011-2012 trivalent inactivated vaccine
+74009,,,104,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122719,2011-2012 trivalent inactivated vaccine
+74020,,,105,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122720,2011-2012 trivalent inactivated vaccine
+74043,,,106,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122722,2011-2012 trivalent inactivated vaccine
+74054,,,107,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122723,2011-2012 trivalent inactivated vaccine
+74065,,,108,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122724,2011-2012 trivalent inactivated vaccine
+74076,,,109,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122725,2011-2012 trivalent inactivated vaccine
+74087,,,110,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122726,2011-2012 trivalent inactivated vaccine
+74098,,,111,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122727,2011-2012 trivalent inactivated vaccine
+74109,,,112,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122728,2011-2012 trivalent inactivated vaccine
+74120,,,113,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122729,2011-2012 trivalent inactivated vaccine
+74131,,,114,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122730,2011-2012 trivalent inactivated vaccine
+74142,,,115,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122731,2011-2012 trivalent inactivated vaccine
+74154,,,116,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122732,2011-2012 trivalent inactivated vaccine
+74165,,,117,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122733,2011-2012 trivalent inactivated vaccine
+74176,,,118,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122734,2011-2012 trivalent inactivated vaccine
+74187,,,119,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122735,2011-2012 trivalent inactivated vaccine
+74209,,,120,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122737,2011-2012 trivalent inactivated vaccine
+74220,,,121,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122738,2011-2012 trivalent inactivated vaccine
+74231,,,122,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122739,2011-2012 trivalent inactivated vaccine
+74242,,,123,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122740,2011-2012 trivalent inactivated vaccine
+74253,,,124,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122741,2011-2012 trivalent inactivated vaccine
+74265,,,125,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122742,2011-2012 trivalent inactivated vaccine
+74276,,,126,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122743,2011-2012 trivalent inactivated vaccine
+74287,,,127,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122744,2011-2012 trivalent inactivated vaccine
+74298,,,128,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122745,2011-2012 trivalent inactivated vaccine
+74320,,,129,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122747,2011-2012 trivalent inactivated vaccine
+74331,,,130,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122748,2011-2012 trivalent inactivated vaccine
+74342,,,131,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122749,2011-2012 trivalent inactivated vaccine
+74353,,,132,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122750,2011-2012 trivalent inactivated vaccine
+74364,,,133,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122751,2011-2012 trivalent inactivated vaccine
+74376,,,134,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122752,2011-2012 trivalent inactivated vaccine
+74387,,,135,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122753,2011-2012 trivalent inactivated vaccine
+74398,,,136,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122754,2011-2012 trivalent inactivated vaccine
+74409,,,137,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122755,2011-2012 trivalent inactivated vaccine
+74420,,,138,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122756,2011-2012 trivalent inactivated vaccine
+75041,,,139,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122716,Fluzone
+75052,,,140,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122718,Fluzone
+75063,,,141,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122719,Fluzone
+75074,,,142,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122722,Fluzone
+75085,,,143,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122723,Fluzone
+75096,,,144,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122724,Fluzone
+75108,,,145,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122725,Fluzone
+75119,,,146,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122728,Fluzone
+75130,,,147,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122729,Fluzone
+75141,,,148,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122732,Fluzone
+75152,,,149,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122733,Fluzone
+75163,,,150,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122734,Fluzone
+75174,,,151,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122735,Fluzone
+75185,,,152,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122737,Fluzone
+75196,,,153,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122739,Fluzone
+75207,,,154,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122740,Fluzone
+75219,,,155,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122742,Fluzone
+75230,,,156,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122743,Fluzone
+75241,,,157,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122744,Fluzone
+75252,,,158,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122747,Fluzone
+75263,,,159,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122748,Fluzone
+75274,,,160,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122749,Fluzone
+75285,,,161,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122750,Fluzone
+75296,,,162,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122752,Fluzone
+75307,,,163,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122753,Fluzone
+75318,,,164,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122756,Fluzone
+75330,,,165,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133802,Fluzone
+75341,,,166,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133803,Fluzone
+75352,,,167,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133804,Fluzone
+75363,,,168,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133805,Fluzone
+75374,,,169,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133806,Fluzone
+75385,,,170,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133807,Fluzone
+75396,,,171,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133808,Fluzone
+75407,,,172,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133809,Fluzone
+75418,,,173,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133810,Fluzone
+75429,,,174,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133811,Fluzone
+75441,,,175,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133812,Fluzone
+75452,,,176,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133813,Fluzone
+75463,,,177,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133814,Fluzone
+75474,,,178,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133815,Fluzone
+76984,,,179,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118149,live attenuated influenza vaccine
+76996,,,180,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118150,live attenuated influenza vaccine
+77007,,,181,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118152,live attenuated influenza vaccine
+77018,,,182,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118154,live attenuated influenza vaccine
+77029,,,183,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118159,live attenuated influenza vaccine
+77040,,,184,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118160,live attenuated influenza vaccine
+77051,,,185,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118162,live attenuated influenza vaccine
+77062,,,186,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118163,live attenuated influenza vaccine
+77073,,,187,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118165,live attenuated influenza vaccine
+77084,,,188,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118166,live attenuated influenza vaccine
+77095,,,189,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118172,live attenuated influenza vaccine
+77107,,,190,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118173,live attenuated influenza vaccine
+77118,,,191,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118175,live attenuated influenza vaccine
+77129,,,192,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118177,live attenuated influenza vaccine
+77140,,,193,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118178,live attenuated influenza vaccine
+77151,,,194,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118179,live attenuated influenza vaccine
+77162,,,195,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118180,live attenuated influenza vaccine
+77173,,,196,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118181,live attenuated influenza vaccine
+77184,,,197,,VO_0000642,,,,,,,,,,,ImmPort,,SUB118182,live attenuated influenza vaccine
+77329,,,198,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122720,Influenza virus vaccine
+77340,,,199,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122722,Influenza virus vaccine
+77351,,,200,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122723,Influenza virus vaccine
+77362,,,201,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122734,Influenza virus vaccine
+77373,,,202,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122743,Influenza virus vaccine
+77384,,,203,,VO_0000642,,,,,,,,,,,ImmPort,,SUB122756,Influenza virus vaccine
+78017,,,204,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133718,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78028,,,205,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133719,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78039,,,206,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133722,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78050,,,207,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133727,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78061,,,208,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133728,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78072,,,209,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133733,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78083,,,210,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133735,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78094,,,211,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133740,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78106,,,212,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133741,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+78117,,,213,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133742,0.5 ML Hepatitis B Surface Antigen Vaccine 0.04 MG/ML Injection [Heplisav-B]
+92439,,,214,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116437,Zostavax
+92441,,,215,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116438,Zostavax
+92442,,,216,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116439,Zostavax
+92443,,,217,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116440,Zostavax
+92444,,,218,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116441,Zostavax
+92445,,,219,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116442,Zostavax
+92446,,,220,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116443,Zostavax
+92447,,,221,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116444,Zostavax
+92448,,,222,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116445,Zostavax
+92449,,,223,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116446,Zostavax
+92495,,,224,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+92497,,,225,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116526,Fluzone
+92498,,,226,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+92499,,,227,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+92500,,,228,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116519,Fluzone
+92501,,,229,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134303,Fluzone
+92502,,,230,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134304,Fluzone
+92503,,,231,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+92504,,,232,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116528,Fluzone
+92505,,,233,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116534,Fluzone
+92506,,,234,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+92508,,,235,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+92509,,,236,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+92510,,,237,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+92513,,,238,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116537,Fluzone
+92514,,,239,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+92515,,,240,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+92516,,,241,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+92517,,,242,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116523,Fluzone
+92519,,,243,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116524,Fluzone
+92521,,,244,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116531,Fluzone
+92522,,,245,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+92523,,,246,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134324,Fluzone
+92525,,,247,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116530,Fluzone
+92526,,,248,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116532,Fluzone
+92528,,,249,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+92530,,,250,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+92531,,,251,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+92532,,,252,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116533,Fluzone
+92533,,,253,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+92534,,,254,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+92535,,,255,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+92536,,,256,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+92537,,,257,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+92538,,,258,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116515,Fluzone
+92539,,,259,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+92541,,,260,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+92542,,,261,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+92543,,,262,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+92544,,,263,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+92545,,,264,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+92546,,,265,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+92547,,,266,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+92548,,,267,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+92549,,,268,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116449,Fluzone
+92550,,,269,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+92552,,,270,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+92553,,,271,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+92554,,,272,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+92555,,,273,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+92556,,,274,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+92557,,,275,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116520,Fluzone
+92558,,,276,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+92559,,,277,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+92561,,,278,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+92563,,,279,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+92564,,,280,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+92565,,,281,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+92566,,,282,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+92567,,,283,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+92568,,,284,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+92569,,,285,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+92570,,,286,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+92571,,,287,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+92573,,,288,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+92574,,,289,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+92575,,,290,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+92576,,,291,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+92577,,,292,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+92578,,,293,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+92579,,,294,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+92580,,,295,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+92581,,,296,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116522,Fluzone
+92582,,,297,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+92584,,,298,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+92585,,,299,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+92586,,,300,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+92587,,,301,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+92588,,,302,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134296,Fluzone
+92589,,,303,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116521,Fluzone
+92590,,,304,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+92591,,,305,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+92592,,,306,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+92593,,,307,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116516,Fluzone
+92596,,,308,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116550,Fluzone
+92597,,,309,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116560,Fluzone
+92598,,,310,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116567,Fluzone
+92599,,,311,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116583,Fluzone
+92600,,,312,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116603,Fluzone
+92601,,,313,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116551,Fluzone
+92602,,,314,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116556,Fluzone
+92603,,,315,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116577,Fluzone
+92605,,,316,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116605,Fluzone
+92606,,,317,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116563,Fluzone
+92607,,,318,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116574,Fluzone
+92609,,,319,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116538,Fluzone
+92610,,,320,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116539,Fluzone
+92611,,,321,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116568,Fluzone
+92612,,,322,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116541,Fluzone
+92613,,,323,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116549,Fluzone
+92616,,,324,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116600,Fluzone
+92617,,,325,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116543,Fluzone
+92618,,,326,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116554,Fluzone
+92619,,,327,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116559,Fluzone
+92620,,,328,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116561,Fluzone
+92621,,,329,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116589,Fluzone
+92622,,,330,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116562,Fluzone Intradermal Trivalent
+92623,,,331,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116602,Fluzone Intradermal Trivalent
+92624,,,332,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116547,Fluzone Intradermal Trivalent
+92625,,,333,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116585,Fluzone Intradermal Trivalent
+92627,,,334,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116564,Fluzone Intradermal Trivalent
+92628,,,335,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116558,Fluzone Intradermal Trivalent
+92629,,,336,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116573,Fluzone Intradermal Trivalent
+92630,,,337,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116544,Fluzone Intradermal Trivalent
+92631,,,338,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116579,Fluzone Intradermal Trivalent
+92632,,,339,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116575,Fluzone Intradermal Trivalent
+92633,,,340,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116586,Fluzone Intradermal Trivalent
+92634,,,341,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116601,Fluzone Intradermal Trivalent
+92635,,,342,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116557,Fluzone Intradermal Trivalent
+92638,,,343,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116582,Fluzone Intradermal Trivalent
+92639,,,344,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116588,Fluzone Intradermal Trivalent
+92640,,,345,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116569,Fluzone Intradermal Trivalent
+92641,,,346,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116576,Fluzone Intradermal Trivalent
+92642,,,347,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116590,Fluzone Intradermal Trivalent
+92643,,,348,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116553,FluMist
+92644,,,349,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116555,FluMist
+92647,,,350,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116540,FluMist
+92649,,,351,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116571,FluMist
+92651,,,352,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116542,FluMist
+92652,,,353,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116545,FluMist
+92653,,,354,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116548,FluMist
+92654,,,355,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116566,FluMist
+92655,,,356,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116584,FluMist
+92657,,,357,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116570,FluMist
+92658,,,358,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116572,FluMist
+92660,,,359,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116587,FluMist
+92663,,,360,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116546,FluMist
+92664,,,361,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116591,FluMist
+92665,,,362,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116552,FluMist
+92666,,,363,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116580,FluMist
+92667,,,364,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116581,FluMist
+92668,,,365,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116565,FluMist
+92669,,,366,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116592,FluMist
+92671,,,367,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+92672,,,368,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+92673,,,369,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+92674,,,370,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134303,Fluzone
+92675,,,371,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+92676,,,372,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134319,Fluzone
+92677,,,373,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134313,Fluzone
+92678,,,374,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+92679,,,375,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+92680,,,376,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+92682,,,377,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134324,Fluzone
+92683,,,378,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134326,Fluzone
+92684,,,379,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+92685,,,380,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+92686,,,381,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+92687,,,382,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+92688,,,383,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134268,Fluzone
+92689,,,384,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+92690,,,385,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+92691,,,386,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+92693,,,387,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134309,Fluzone
+92694,,,388,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+92695,,,389,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+92696,,,390,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134275,Fluzone
+92697,,,391,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+92698,,,392,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+92699,,,393,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134316,Fluzone
+92700,,,394,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134271,Fluzone
+92701,,,395,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+92702,,,396,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+92706,,,397,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134287,Fluzone
+92707,,,398,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+92708,,,399,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+92709,,,400,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+92710,,,401,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+92711,,,402,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+92712,,,403,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+92713,,,404,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+92714,,,405,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134305,Fluzone
+92715,,,406,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+92717,,,407,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+92718,,,408,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+92719,,,409,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134284,Fluzone
+92720,,,410,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+92721,,,411,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+92722,,,412,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+92723,,,413,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+92724,,,414,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+92725,,,415,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+92726,,,416,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+92728,,,417,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+92729,,,418,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+92730,,,419,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+92731,,,420,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+92732,,,421,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+92733,,,422,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+92734,,,423,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+92735,,,424,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+92736,,,425,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+92737,,,426,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+92739,,,427,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+92740,,,428,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+92741,,,429,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+92742,,,430,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+92743,,,431,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+92744,,,432,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+92745,,,433,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+92746,,,434,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+92747,,,435,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+92748,,,436,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+92750,,,437,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+92751,,,438,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+92752,,,439,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+92753,,,440,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+92754,,,441,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+92755,,,442,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+92756,,,443,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134042,2011-2012 trivalent inactivated vaccine
+92757,,,444,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116577,2011-2012 trivalent inactivated vaccine
+92758,,,445,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134041,2011-2012 trivalent inactivated vaccine
+92759,,,446,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116560,2011-2012 trivalent inactivated vaccine
+92761,,,447,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116567,2011-2012 trivalent inactivated vaccine
+92762,,,448,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134040,2011-2012 trivalent inactivated vaccine
+92763,,,449,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116541,2011-2012 trivalent inactivated vaccine
+92764,,,450,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116605,2011-2012 trivalent inactivated vaccine
+92765,,,451,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116603,2011-2012 trivalent inactivated vaccine
+92766,,,452,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116554,2011-2012 trivalent inactivated vaccine
+92767,,,453,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116568,2011-2012 trivalent inactivated vaccine
+92768,,,454,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116538,2011-2012 trivalent inactivated vaccine
+92769,,,455,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116539,2011-2012 trivalent inactivated vaccine
+92770,,,456,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134039,2011-2012 trivalent inactivated vaccine
+92772,,,457,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116556,2011-2012 trivalent inactivated vaccine
+92773,,,458,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116557,2011-2012 trivalent inactivated vaccine
+92774,,,459,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116562,2011-2012 trivalent inactivated vaccine
+92775,,,460,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116588,2011-2012 trivalent inactivated vaccine
+92776,,,461,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116544,2011-2012 trivalent inactivated vaccine
+92777,,,462,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116569,2011-2012 trivalent inactivated vaccine
+92778,,,463,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116575,2011-2012 trivalent inactivated vaccine
+92779,,,464,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116579,2011-2012 trivalent inactivated vaccine
+92780,,,465,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116585,2011-2012 trivalent inactivated vaccine
+92781,,,466,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116601,2011-2012 trivalent inactivated vaccine
+92783,,,467,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+92784,,,468,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+92785,,,469,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+92786,,,470,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+92787,,,471,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+92788,,,472,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134309,Fluzone
+92789,,,473,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+92790,,,474,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+92791,,,475,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134326,Fluzone
+92793,,,476,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+92794,,,477,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134319,Fluzone
+92795,,,478,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+92796,,,479,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+92797,,,480,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134304,Fluzone
+92798,,,481,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+92799,,,482,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+92800,,,483,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+92801,,,484,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+92802,,,485,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134275,Fluzone
+92804,,,486,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+92805,,,487,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+92806,,,488,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+92807,,,489,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+92808,,,490,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+92809,,,491,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+92810,,,492,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+92811,,,493,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+92812,,,494,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+92813,,,495,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+92816,,,496,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+92817,,,497,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+92818,,,498,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+92819,,,499,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+92820,,,500,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+92821,,,501,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+92822,,,502,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+92823,,,503,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+92824,,,504,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+92825,,,505,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+92827,,,506,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+92828,,,507,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+92829,,,508,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116449,Fluzone
+92830,,,509,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+92831,,,510,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+92832,,,511,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+92833,,,512,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+92834,,,513,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+92835,,,514,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+92836,,,515,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+92838,,,516,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134296,Fluzone
+92839,,,517,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+92840,,,518,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+92841,,,519,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+92842,,,520,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134285,Fluzone
+92843,,,521,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+92844,,,522,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+92845,,,523,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134287,Fluzone
+92846,,,524,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+92847,,,525,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+92849,,,526,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+92850,,,527,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+92851,,,528,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+92852,,,529,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+92853,,,530,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+92854,,,531,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+92855,,,532,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+92856,,,533,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+92857,,,534,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+92858,,,535,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+92860,,,536,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+92861,,,537,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+92862,,,538,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+92866,,,539,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+92867,,,540,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+92868,,,541,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134326,Fluzone
+92870,,,542,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+92871,,,543,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+92872,,,544,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134324,Fluzone
+92873,,,545,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+92874,,,546,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134275,Fluzone
+92875,,,547,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+92876,,,548,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+92877,,,549,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+92878,,,550,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+92879,,,551,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+92881,,,552,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134268,Fluzone
+92882,,,553,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+92883,,,554,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+92884,,,555,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+92885,,,556,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134277,Fluzone
+92886,,,557,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134309,Fluzone
+92887,,,558,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+92888,,,559,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+92889,,,560,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134303,Fluzone
+92890,,,561,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134304,Fluzone
+92892,,,562,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134313,Fluzone
+92893,,,563,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134314,Fluzone
+92894,,,564,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134319,Fluzone
+92895,,,565,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+92896,,,566,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+92897,,,567,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+92898,,,568,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+92899,,,569,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+92900,,,570,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+92901,,,571,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+92903,,,572,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+92904,,,573,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+92905,,,574,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+92906,,,575,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+92907,,,576,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+92908,,,577,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+92909,,,578,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+92910,,,579,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+92911,,,580,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+92912,,,581,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+92914,,,582,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+92915,,,583,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+92916,,,584,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+92917,,,585,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+92918,,,586,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+92919,,,587,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+92920,,,588,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+92921,,,589,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+92922,,,590,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+92923,,,591,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+92925,,,592,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+92926,,,593,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+92927,,,594,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+92928,,,595,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+92929,,,596,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+92930,,,597,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116449,Fluzone
+92931,,,598,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+92932,,,599,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+92933,,,600,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+92934,,,601,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+92936,,,602,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+92937,,,603,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134316,Fluzone
+92938,,,604,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+92939,,,605,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+92940,,,606,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+92941,,,607,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+92942,,,608,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134287,Fluzone
+92943,,,609,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+92944,,,610,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+92945,,,611,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+92947,,,612,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134305,Fluzone
+92948,,,613,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+92949,,,614,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+92950,,,615,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+92951,,,616,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134285,Fluzone
+92952,,,617,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+92953,,,618,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134296,Fluzone
+92954,,,619,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+92955,,,620,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+92956,,,621,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+92959,,,622,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+92960,,,623,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+92961,,,624,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134275,Fluzone
+92962,,,625,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+92963,,,626,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134304,Fluzone
+92964,,,627,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134268,Fluzone
+92965,,,628,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134303,Fluzone
+92966,,,629,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134306,Fluzone
+92967,,,630,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+92969,,,631,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+92970,,,632,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+92971,,,633,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134309,Fluzone
+92972,,,634,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+92973,,,635,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134326,Fluzone
+92974,,,636,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134277,Fluzone
+92975,,,637,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+92976,,,638,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+92977,,,639,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134324,Fluzone
+92978,,,640,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+92980,,,641,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+92981,,,642,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134314,Fluzone
+92982,,,643,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+92983,,,644,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+92984,,,645,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+92985,,,646,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+92986,,,647,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+92987,,,648,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+92988,,,649,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134313,Fluzone
+92989,,,650,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134319,Fluzone
+92991,,,651,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+92992,,,652,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+92993,,,653,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+92994,,,654,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+92995,,,655,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+92996,,,656,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+92997,,,657,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+92998,,,658,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+92999,,,659,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+93000,,,660,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+93002,,,661,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+93003,,,662,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+93004,,,663,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+93005,,,664,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+93006,,,665,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+93007,,,666,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+93008,,,667,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+93009,,,668,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+93010,,,669,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+93011,,,670,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+93013,,,671,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+93014,,,672,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+93015,,,673,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+93016,,,674,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+93017,,,675,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+93018,,,676,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+93019,,,677,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+93020,,,678,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+93021,,,679,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+93022,,,680,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+93024,,,681,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+93025,,,682,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+93026,,,683,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134316,Fluzone
+93027,,,684,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+93028,,,685,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+93029,,,686,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+93030,,,687,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+93031,,,688,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+93032,,,689,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+93033,,,690,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134271,Fluzone
+93036,,,691,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+93037,,,692,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134285,Fluzone
+93038,,,693,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+93039,,,694,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+93040,,,695,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134284,Fluzone
+93041,,,696,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+93042,,,697,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+93043,,,698,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+93044,,,699,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+93045,,,700,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+93047,,,701,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134305,Fluzone
+93048,,,702,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+93049,,,703,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+93050,,,704,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+93051,,,705,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134296,Fluzone
+93052,,,706,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+93053,,,707,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+93054,,,708,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+93055,,,709,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+93056,,,710,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+93058,,,711,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+93059,,,712,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134287,Fluzone
+93060,,,713,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116519,Fluzone
+93061,,,714,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116523,Fluzone
+93062,,,715,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116524,Fluzone
+93063,,,716,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116526,Fluzone
+93064,,,717,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116528,Fluzone
+93065,,,718,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116530,Fluzone
+93066,,,719,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116531,Fluzone
+93068,,,720,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116532,Fluzone
+93069,,,721,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116534,Fluzone
+93070,,,722,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116537,Fluzone
+93071,,,723,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+93072,,,724,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+93073,,,725,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+93074,,,726,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+93075,,,727,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+93076,,,728,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+93077,,,729,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+93079,,,730,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+93080,,,731,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+93081,,,732,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116515,Fluzone
+93082,,,733,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116520,Fluzone
+93083,,,734,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116533,Fluzone
+93084,,,735,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+93085,,,736,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+93086,,,737,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+93087,,,738,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+93088,,,739,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+93090,,,740,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+93091,,,741,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+93092,,,742,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+93093,,,743,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+93094,,,744,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+93095,,,745,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+93096,,,746,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+93097,,,747,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+93098,,,748,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+93099,,,749,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+93101,,,750,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+93102,,,751,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+93103,,,752,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+93104,,,753,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+93105,,,754,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+93106,,,755,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+93107,,,756,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116516,Fluzone
+93108,,,757,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116521,Fluzone
+93109,,,758,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116522,Fluzone
+93110,,,759,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+93112,,,760,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+93113,,,761,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+93114,,,762,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+93115,,,763,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+93116,,,764,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+93117,,,765,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+93118,,,766,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+93119,,,767,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+93120,,,768,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+93121,,,769,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+93123,,,770,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+93124,,,771,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+93125,,,772,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+93126,,,773,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+93127,,,774,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+93128,,,775,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+93129,,,776,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+93130,,,777,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+93131,,,778,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+93132,,,779,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+93134,,,780,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+93135,,,781,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+93136,,,782,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+93137,,,783,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+93188,,,784,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+93189,,,785,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+93190,,,786,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+93191,,,787,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+93192,,,788,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134277,Fluzone
+93193,,,789,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+93194,,,790,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+93195,,,791,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+93196,,,792,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+93197,,,793,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+93199,,,794,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+93200,,,795,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+93201,,,796,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+93202,,,797,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+93203,,,798,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+93204,,,799,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+93205,,,800,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+93206,,,801,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+93207,,,802,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+93208,,,803,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+93210,,,804,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+93211,,,805,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+93212,,,806,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+93213,,,807,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+93214,,,808,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+93215,,,809,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+93216,,,810,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+93225,,,811,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116538,Influenza virus vaccine
+93226,,,812,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116539,Influenza virus vaccine
+93227,,,813,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116541,Influenza virus vaccine
+93228,,,814,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116560,Influenza virus vaccine
+93229,,,815,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116567,Influenza virus vaccine
+93230,,,816,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116605,Influenza virus vaccine
+93232,,,817,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134039,Influenza virus vaccine
+93233,,,818,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134040,Influenza virus vaccine
+93234,,,819,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134041,Influenza virus vaccine
+93239,,,820,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116544,Influenza virus vaccine
+93240,,,821,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116557,Influenza virus vaccine
+93241,,,822,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116562,Influenza virus vaccine
+93242,,,823,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116569,Influenza virus vaccine
+93243,,,824,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116575,Influenza virus vaccine
+93244,,,825,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116519,Fluzone
+93245,,,826,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116524,Fluzone
+93249,,,827,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116528,Fluzone
+93250,,,828,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116530,Fluzone
+93251,,,829,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116531,Fluzone
+93252,,,830,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116532,Fluzone
+93253,,,831,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116534,Fluzone
+93255,,,832,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+93256,,,833,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+93257,,,834,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+93259,,,835,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+93260,,,836,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+93261,,,837,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+93262,,,838,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+93263,,,839,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+93265,,,840,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116520,Fluzone
+93266,,,841,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116533,Fluzone
+93267,,,842,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+93268,,,843,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+93270,,,844,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+93271,,,845,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+93272,,,846,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+93273,,,847,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+93274,,,848,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+93275,,,849,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+93276,,,850,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+93277,,,851,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+93278,,,852,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+93279,,,853,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+93281,,,854,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+93282,,,855,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+93283,,,856,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+93284,,,857,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+93285,,,858,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+93286,,,859,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+93287,,,860,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+93288,,,861,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+93289,,,862,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+93290,,,863,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+93292,,,864,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116516,Fluzone
+93293,,,865,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116521,Fluzone
+93294,,,866,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116522,Fluzone
+93295,,,867,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+93296,,,868,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+93297,,,869,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+93298,,,870,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+93299,,,871,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+93300,,,872,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+93301,,,873,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+93303,,,874,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+93304,,,875,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+93305,,,876,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+93306,,,877,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+93307,,,878,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+93308,,,879,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+93309,,,880,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+93310,,,881,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+93311,,,882,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+93312,,,883,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+93314,,,884,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+93315,,,885,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+93316,,,886,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+93317,,,887,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+93318,,,888,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+93319,,,889,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+93320,,,890,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+93920,,,891,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+93922,,,892,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+93923,,,893,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+93924,,,894,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+93925,,,895,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134277,Fluzone
+93926,,,896,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+93927,,,897,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+93928,,,898,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+93929,,,899,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+93934,,,900,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+93945,,,901,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+93949,,,902,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+93950,,,903,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+93951,,,904,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+93958,,,905,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+93969,,,906,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+93980,,,907,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+93991,,,908,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+94002,,,909,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+94013,,,910,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+94024,,,911,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+94036,,,912,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+94047,,,913,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+94058,,,914,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+94069,,,915,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+94080,,,916,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+94091,,,917,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+94102,,,918,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+94113,,,919,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+94124,,,920,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+94135,,,921,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+94147,,,922,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+94158,,,923,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+94169,,,924,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+94180,,,925,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+94191,,,926,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+94213,,,927,,VO_0000642,,,,,,,,,,,ImmPort,,SUB116449,Fluzone
+94224,,,928,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+94235,,,929,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+94246,,,930,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+94258,,,931,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+94269,,,932,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+94280,,,933,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+94291,,,934,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+94302,,,935,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+94313,,,936,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+94324,,,937,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+94335,,,938,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+94346,,,939,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+94357,,,940,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+94369,,,941,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+94380,,,942,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+94391,,,943,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+102093,,,944,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381282,"Fluad 2017-2018, CVX Code: 168"
+102094,,,945,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381181,"Fluad 2017-2018, CVX Code: 168"
+102095,,,946,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381131,"Fluad 2017-2018, CVX Code: 168"
+102096,,,947,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381194,"Fluad 2017-2018, CVX Code: 168"
+102097,,,948,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381301,"Fluad 2017-2018, CVX Code: 168"
+102098,,,949,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381202,"Fluad 2017-2018, CVX Code: 168"
+102099,,,950,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381281,"Fluad 2017-2018, CVX Code: 168"
+102100,,,951,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381214,"Fluad 2017-2018, CVX Code: 168"
+102102,,,952,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381312,"Fluad 2017-2018, CVX Code: 168"
+102103,,,953,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381310,"Fluad 2017-2018, CVX Code: 168"
+102104,,,954,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381322,"Fluad 2017-2018, CVX Code: 168"
+102105,,,955,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381188,"Fluad 2017-2018, CVX Code: 168"
+102106,,,956,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381153,"Fluad 2017-2018, CVX Code: 168"
+102107,,,957,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381149,"Fluad 2017-2018, CVX Code: 168"
+102108,,,958,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381136,"Fluad 2017-2018, CVX Code: 168"
+102109,,,959,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381347,"Fluad 2017-2018, CVX Code: 168"
+102110,,,960,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381228,"Fluad 2017-2018, CVX Code: 168"
+102111,,,961,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381229,"Fluad 2017-2018, CVX Code: 168"
+102114,,,962,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381184,"Fluad 2017-2018, CVX Code: 168"
+102115,,,963,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381195,"Fluad 2017-2018, CVX Code: 168"
+102116,,,964,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381265,"Fluad 2017-2018, CVX Code: 168"
+102117,,,965,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381324,"Fluad 2017-2018, CVX Code: 168"
+102118,,,966,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381327,"Fluad 2017-2018, CVX Code: 168"
+102119,,,967,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381231,"Fluad 2017-2018, CVX Code: 168"
+102120,,,968,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381318,"Fluad 2017-2018, CVX Code: 168"
+102121,,,969,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381220,"Fluad 2017-2018, CVX Code: 168"
+102122,,,970,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381332,"Fluad 2017-2018, CVX Code: 168"
+102124,,,971,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381346,"Fluad 2017-2018, CVX Code: 168"
+102125,,,972,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381325,"Fluad 2017-2018, CVX Code: 168"
+102126,,,973,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381246,"Fluad 2017-2018, CVX Code: 168"
+102127,,,974,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381223,"Fluad 2017-2018, CVX Code: 168"
+102128,,,975,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381248,"Fluad 2017-2018, CVX Code: 168"
+102129,,,976,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381191,"Fluad 2017-2018, CVX Code: 168"
+102130,,,977,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381182,"Fluad 2017-2018, CVX Code: 168"
+102131,,,978,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381243,"Fluad 2017-2018, CVX Code: 168"
+102133,,,979,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381290,"Fluad 2017-2018, CVX Code: 168"
+102137,,,980,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381278,"Fluad 2017-2018, CVX Code: 168"
+102138,,,981,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381271,"Fluad 2017-2018, CVX Code: 168"
+102139,,,982,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381284,"Fluad 2017-2018, CVX Code: 168"
+102140,,,983,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381267,"Fluad 2017-2018, CVX Code: 168"
+102141,,,984,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381251,"Fluad 2017-2018, CVX Code: 168"
+102142,,,985,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381340,"Fluad 2017-2018, CVX Code: 168"
+102143,,,986,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381342,"Fluad 2017-2018, CVX Code: 168"
+102144,,,987,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381193,"Fluad 2017-2018, CVX Code: 168"
+102145,,,988,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381204,"Fluad 2017-2018, CVX Code: 168"
+102146,,,989,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381201,"Fluad 2017-2018, CVX Code: 168"
+102148,,,990,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381286,"Fluad 2017-2018, CVX Code: 168"
+102149,,,991,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381158,"Fluad 2017-2018, CVX Code: 168"
+102150,,,992,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381206,"Fluad 2017-2018, CVX Code: 168"
+102152,,,993,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381159,"Fluad 2017-2018, CVX Code: 168"
+102153,,,994,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381297,"Fluad 2017-2018, CVX Code: 168"
+102154,,,995,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381130,"Fluad 2017-2018, CVX Code: 168"
+102155,,,996,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381287,"Fluad 2017-2018, CVX Code: 168"
+102156,,,997,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381225,"Fluad 2017-2018, CVX Code: 168"
+102157,,,998,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381210,"Fluad 2017-2018, CVX Code: 168"
+102159,,,999,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381249,"Fluad 2017-2018, CVX Code: 168"
+102160,,,1000,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381219,"Fluad 2017-2018, CVX Code: 168"
+102161,,,1001,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381344,"Fluad 2017-2018, CVX Code: 168"
+102162,,,1002,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381170,"Fluad 2017-2018, CVX Code: 168"
+102163,,,1003,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381270,"Fluad 2017-2018, CVX Code: 168"
+102164,,,1004,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381162,"Fluad 2017-2018, CVX Code: 168"
+102165,,,1005,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381330,"Fluad 2017-2018, CVX Code: 168"
+102166,,,1006,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381135,"Fluad 2017-2018, CVX Code: 168"
+102167,,,1007,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381279,"Fluad 2017-2018, CVX Code: 168"
+102168,,,1008,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381226,"Fluad 2017-2018, CVX Code: 168"
+102170,,,1009,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381341,"Fluad 2017-2018, CVX Code: 168"
+102172,,,1010,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381141,"Fluad 2017-2018, CVX Code: 168"
+102173,,,1011,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381326,"Fluad 2017-2018, CVX Code: 168"
+102174,,,1012,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381216,"Fluad 2017-2018, CVX Code: 168"
+102175,,,1013,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381215,"Fluad 2017-2018, CVX Code: 168"
+102176,,,1014,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381305,"Fluad 2017-2018, CVX Code: 168"
+102177,,,1015,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381275,"Fluad 2017-2018, CVX Code: 168"
+102178,,,1016,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381253,"Fluad 2017-2018, CVX Code: 168"
+102179,,,1017,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381311,"Fluad 2017-2018, CVX Code: 168"
+102182,,,1018,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381168,"Fluad 2017-2018, CVX Code: 168"
+102183,,,1019,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381140,"Fluad 2017-2018, CVX Code: 168"
+102184,,,1020,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381245,"Fluad 2017-2018, CVX Code: 168"
+102185,,,1021,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381261,"Fluad 2017-2018, CVX Code: 168"
+102186,,,1022,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381218,"Fluad 2017-2018, CVX Code: 168"
+102187,,,1023,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381276,"Fluad 2017-2018, CVX Code: 168"
+102189,,,1024,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381302,"Fluad 2017-2018, CVX Code: 168"
+102190,,,1025,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381303,"Fluad 2017-2018, CVX Code: 168"
+102192,,,1026,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381203,"Fluad 2017-2018, CVX Code: 168"
+102193,,,1027,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381283,"Fluad 2017-2018, CVX Code: 168"
+102194,,,1028,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381189,"Fluad 2017-2018, CVX Code: 168"
+102195,,,1029,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381262,"Fluad 2017-2018, CVX Code: 168"
+102196,,,1030,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381183,"Fluad 2017-2018, CVX Code: 168"
+102197,,,1031,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381280,"Fluad 2017-2018, CVX Code: 168"
+102199,,,1032,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381285,"Fluad 2017-2018, CVX Code: 168"
+102200,,,1033,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381190,"Fluad 2017-2018, CVX Code: 168"
+102201,,,1034,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381155,"Fluad 2017-2018, CVX Code: 168"
+102203,,,1035,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381334,"Fluad 2017-2018, CVX Code: 168"
+102204,,,1036,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381316,"Fluad 2017-2018, CVX Code: 168"
+102205,,,1037,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381163,"Fluad 2017-2018, CVX Code: 168"
+102206,,,1038,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381174,"Fluad 2017-2018, CVX Code: 168"
+102207,,,1039,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381197,"Fluad 2017-2018, CVX Code: 168"
+102208,,,1040,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381232,"Fluad 2017-2018, CVX Code: 168"
+102209,,,1041,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381238,"Fluad 2017-2018, CVX Code: 168"
+102210,,,1042,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381236,"Fluad 2017-2018, CVX Code: 168"
+102211,,,1043,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381277,"Fluad 2017-2018, CVX Code: 168"
+102212,,,1044,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381331,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102215,,,1045,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381255,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102216,,,1046,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381198,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102217,,,1047,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381254,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102218,,,1048,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381178,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102219,,,1049,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381314,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102220,,,1050,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381151,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102221,,,1051,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381259,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102222,,,1052,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381333,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102223,,,1053,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381320,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102225,,,1054,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381258,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102226,,,1055,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381165,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102227,,,1056,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381157,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102228,,,1057,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381227,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102229,,,1058,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381298,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102230,,,1059,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381299,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102231,,,1060,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381199,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102232,,,1061,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381321,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102234,,,1062,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381221,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102236,,,1063,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381273,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102239,,,1064,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381296,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102240,,,1065,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381313,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102241,,,1066,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381240,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102242,,,1067,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381200,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102243,,,1068,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381169,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102244,,,1069,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381144,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102245,,,1070,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381323,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102248,,,1071,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381150,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102249,,,1072,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381152,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102250,,,1073,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381137,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102251,,,1074,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381247,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102252,,,1075,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381250,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102253,,,1076,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381349,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102254,,,1077,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381241,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102255,,,1078,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381239,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102256,,,1079,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381139,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102257,,,1080,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381242,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102260,,,1081,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381147,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102261,,,1082,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381317,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102262,,,1083,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381336,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102263,,,1084,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381291,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102264,,,1085,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381208,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102265,,,1086,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381288,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102266,,,1087,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381156,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102267,,,1088,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381129,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102268,,,1089,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381335,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102270,,,1090,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381213,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102271,,,1091,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381175,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102272,,,1092,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381211,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102273,,,1093,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381138,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102274,,,1094,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381145,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102275,,,1095,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381268,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102276,,,1096,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381134,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102277,,,1097,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381222,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102278,,,1098,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381143,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102279,,,1099,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381186,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102281,,,1100,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381264,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102282,,,1101,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381167,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102283,,,1102,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381337,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102284,,,1103,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381179,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102285,,,1104,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381257,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102286,,,1105,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381339,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102287,,,1106,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381161,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102288,,,1107,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381256,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102289,,,1108,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381224,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102290,,,1109,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381217,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102292,,,1110,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381187,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102293,,,1111,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381328,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102294,,,1112,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381132,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102295,,,1113,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381306,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102296,,,1114,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381295,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102297,,,1115,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381348,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102298,,,1116,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381266,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102299,,,1117,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381233,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102300,,,1118,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381230,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102301,,,1119,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381192,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102303,,,1120,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381338,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102304,,,1121,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381133,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102305,,,1122,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381177,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102306,,,1123,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381263,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102307,,,1124,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381148,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102308,,,1125,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381308,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102309,,,1126,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381307,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102310,,,1127,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381293,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102311,,,1128,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381205,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102312,,,1129,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381166,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102314,,,1130,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381234,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102315,,,1131,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381172,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102316,,,1132,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381164,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102318,,,1133,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381304,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102319,,,1134,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381146,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102320,,,1135,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381171,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102321,,,1136,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381154,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102322,,,1137,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381315,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102323,,,1138,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381209,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102325,,,1139,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381244,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102326,,,1140,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381345,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102327,,,1141,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381185,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102328,,,1142,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381160,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102329,,,1143,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381272,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102330,,,1144,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381343,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102331,,,1145,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381274,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102332,,,1146,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381292,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102333,,,1147,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381294,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102336,,,1148,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381196,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102337,,,1149,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381269,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+102338,,,1150,,VO_0000642,,,,,,,,,,,ImmPort,,SUB381142,"Fluzone High-Dose 2016-2017, CVX Code: 135"
+117932,,,1151,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186114,Radiated-attenuated P falciparum sporozoites (PfRAS)
+118271,,,1152,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192085,MVA85A
+118282,,,1153,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192086,MVA85A
+118293,,,1154,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192087,MVA85A
+118304,,,1155,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192088,MVA85A
+118315,,,1156,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192089,MVA85A
+118326,,,1157,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192090,MVA85A
+118337,,,1158,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192091,MVA85A
+118348,,,1159,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192092,MVA85A
+118359,,,1160,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192093,MVA85A
+118370,,,1161,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192094,MVA85A
+118381,,,1162,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192095,MVA85A
+118392,,,1163,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192096,MVA85A
+118403,,,1164,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192097,MVA85A
+118414,,,1165,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192098,MVA85A
+118426,,,1166,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192099,MVA85A
+118437,,,1167,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192100,MVA85A
+118448,,,1168,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192101,MVA85A
+118459,,,1169,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192102,MVA85A
+118470,,,1170,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192103,MVA85A
+118481,,,1171,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192104,MVA85A
+118492,,,1172,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192105,MVA85A
+118503,,,1173,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192106,MVA85A
+118514,,,1174,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192107,MVA85A
+118525,,,1175,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192108,MVA85A
+119211,,,1176,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192172,Menveo
+119222,,,1177,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192173,Menveo
+119233,,,1178,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192174,ACWY Vax
+119244,,,1179,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192175,ACWY Vax
+119255,,,1180,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192176,ACWY Vax
+119266,,,1181,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192177,ACWY Vax
+119277,,,1182,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192178,ACWY Vax
+119288,,,1183,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192179,ACWY Vax
+119299,,,1184,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192180,ACWY Vax
+119310,,,1185,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192181,Menveo
+119321,,,1186,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192182,ACWY Vax
+119332,,,1187,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192183,ACWY Vax
+119343,,,1188,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192184,ACWY Vax
+119354,,,1189,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192185,ACWY Vax
+119365,,,1190,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192186,ACWY Vax
+119376,,,1191,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192187,ACWY Vax
+119387,,,1192,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192188,ACWY Vax
+119398,,,1193,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192189,Menveo
+119409,,,1194,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192190,ACWY Vax
+119420,,,1195,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192191,Menveo
+119508,,,1196,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186116,Radiated-attenuated P falciparum sporozoites (PfRAS)
+119531,,,1197,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192209,DTwP
+119542,,,1198,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192210,DTwP
+119553,,,1199,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192211,DTwP
+119564,,,1200,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192212,DTwP
+119575,,,1201,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192213,DTwP
+119586,,,1202,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192214,DTwP
+119597,,,1203,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192215,DTwP
+119608,,,1204,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192216,DTwP
+119619,,,1205,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192217,rVSV-EBOV
+119630,,,1206,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192218,rVSV-EBOV
+119641,,,1207,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192219,rVSV-EBOV
+119652,,,1208,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192220,rVSV-EBOV
+119663,,,1209,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192221,rVSV-EBOV
+119674,,,1210,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192222,rVSV-EBOV
+119685,,,1211,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192223,rVSV-EBOV
+119696,,,1212,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192224,rVSV-EBOV
+119707,,,1213,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192225,rVSV-EBOV
+119718,,,1214,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192226,rVSV-EBOV
+119729,,,1215,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192227,rVSV-EBOV
+119740,,,1216,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192228,rVSV-EBOV
+119751,,,1217,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192229,rVSV-EBOV
+119762,,,1218,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192230,rVSV-EBOV
+119773,,,1219,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192231,rVSV-EBOV
+119784,,,1220,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192232,rVSV-EBOV
+119795,,,1221,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192233,rVSV-EBOV
+119806,,,1222,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192234,rVSV-EBOV
+123122,,,1223,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186779,Ad35.CS.01 malaria vaccine
+123124,,,1224,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186782,Ad35.CS.01 malaria vaccine
+123125,,,1225,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186783,Ad35.CS.01 malaria vaccine
+123126,,,1226,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186786,Ad35.CS.01 malaria vaccine
+123127,,,1227,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186788,Ad35.CS.01 malaria vaccine
+123128,,,1228,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186790,Ad35.CS.01 malaria vaccine
+123130,,,1229,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186793,Ad35.CS.01 malaria vaccine
+123131,,,1230,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186795,Ad35.CS.01 malaria vaccine
+123132,,,1231,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186797,Ad35.CS.01 malaria vaccine
+123133,,,1232,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186801,Ad35.CS.01 malaria vaccine
+123134,,,1233,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186802,Ad35.CS.01 malaria vaccine
+123135,,,1234,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186804,Ad35.CS.01 malaria vaccine
+123136,,,1235,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186805,Ad35.CS.01 malaria vaccine
+123137,,,1236,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186807,Ad35.CS.01 malaria vaccine
+123138,,,1237,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186810,Ad35.CS.01 malaria vaccine
+123139,,,1238,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186812,Ad35.CS.01 malaria vaccine
+123140,,,1239,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186813,Ad35.CS.01 malaria vaccine
+123141,,,1240,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186815,Ad35.CS.01 malaria vaccine
+123143,,,1241,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186819,Ad35.CS.01 malaria vaccine
+123144,,,1242,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186821,Ad35.CS.01 malaria vaccine
+123145,,,1243,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186823,Ad35.CS.01 malaria vaccine
+123146,,,1244,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186825,Ad35.CS.01 malaria vaccine
+123147,,,1245,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186828,Ad35.CS.01 malaria vaccine
+123149,,,1246,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186829,Ad35.CS.01 malaria vaccine
+123150,,,1247,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186832,Ad35.CS.01 malaria vaccine
+123151,,,1248,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186779,"P. falciparum RTS,S/AS01"
+123153,,,1249,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186782,"P. falciparum RTS,S/AS01"
+123154,,,1250,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186783,"P. falciparum RTS,S/AS01"
+123155,,,1251,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186786,"P. falciparum RTS,S/AS01"
+123156,,,1252,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186788,"P. falciparum RTS,S/AS01"
+123157,,,1253,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186790,"P. falciparum RTS,S/AS01"
+123160,,,1254,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186793,"P. falciparum RTS,S/AS01"
+123161,,,1255,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186795,"P. falciparum RTS,S/AS01"
+123162,,,1256,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186797,"P. falciparum RTS,S/AS01"
+123163,,,1257,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186801,"P. falciparum RTS,S/AS01"
+123164,,,1258,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186802,"P. falciparum RTS,S/AS01"
+123165,,,1259,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186804,"P. falciparum RTS,S/AS01"
+123166,,,1260,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186805,"P. falciparum RTS,S/AS01"
+123167,,,1261,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186807,"P. falciparum RTS,S/AS01"
+123168,,,1262,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186810,"P. falciparum RTS,S/AS01"
+123169,,,1263,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186812,"P. falciparum RTS,S/AS01"
+123171,,,1264,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186813,"P. falciparum RTS,S/AS01"
+123172,,,1265,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186815,"P. falciparum RTS,S/AS01"
+123174,,,1266,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186819,"P. falciparum RTS,S/AS01"
+123175,,,1267,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186821,"P. falciparum RTS,S/AS01"
+123176,,,1268,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186823,"P. falciparum RTS,S/AS01"
+123177,,,1269,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186825,"P. falciparum RTS,S/AS01"
+123178,,,1270,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186828,"P. falciparum RTS,S/AS01"
+123179,,,1271,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186829,"P. falciparum RTS,S/AS01"
+123180,,,1272,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186832,"P. falciparum RTS,S/AS01"
+123182,,,1273,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186778,"P. falciparum RTS,S/AS01"
+123183,,,1274,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186780,"P. falciparum RTS,S/AS01"
+123184,,,1275,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186784,"P. falciparum RTS,S/AS01"
+123185,,,1276,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186785,"P. falciparum RTS,S/AS01"
+123186,,,1277,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186787,"P. falciparum RTS,S/AS01"
+123188,,,1278,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186791,"P. falciparum RTS,S/AS01"
+123189,,,1279,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186794,"P. falciparum RTS,S/AS01"
+123190,,,1280,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186796,"P. falciparum RTS,S/AS01"
+123191,,,1281,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186798,"P. falciparum RTS,S/AS01"
+123193,,,1282,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186799,"P. falciparum RTS,S/AS01"
+123194,,,1283,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186800,"P. falciparum RTS,S/AS01"
+123197,,,1284,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186808,"P. falciparum RTS,S/AS01"
+123198,,,1285,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186809,"P. falciparum RTS,S/AS01"
+123199,,,1286,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186811,"P. falciparum RTS,S/AS01"
+123200,,,1287,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186814,"P. falciparum RTS,S/AS01"
+123201,,,1288,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186816,"P. falciparum RTS,S/AS01"
+123205,,,1289,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186822,"P. falciparum RTS,S/AS01"
+123206,,,1290,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186824,"P. falciparum RTS,S/AS01"
+123207,,,1291,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186826,"P. falciparum RTS,S/AS01"
+123208,,,1292,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186827,"P. falciparum RTS,S/AS01"
+123209,,,1293,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186830,"P. falciparum RTS,S/AS01"
+125067,,,1294,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187706,Plasmodium falciparum vaccine
+125179,,,1295,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187707,Plasmodium falciparum vaccine
+125290,,,1296,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187708,Plasmodium falciparum vaccine
+125401,,,1297,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187709,Plasmodium falciparum vaccine
+125512,,,1298,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187710,Plasmodium falciparum vaccine
+125623,,,1299,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187711,Plasmodium falciparum vaccine
+125734,,,1300,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187712,Plasmodium falciparum vaccine
+125845,,,1301,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187713,Plasmodium falciparum vaccine
+125956,,,1302,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187714,Plasmodium falciparum vaccine
+126044,,,1303,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187715,Plasmodium falciparum vaccine
+126063,,,1304,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187716,Plasmodium falciparum vaccine
+126165,,,1305,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187717,Plasmodium falciparum vaccine
+126266,,,1306,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187718,Plasmodium falciparum vaccine
+126367,,,1307,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187719,Plasmodium falciparum vaccine
+126467,,,1308,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187720,Plasmodium falciparum vaccine
+126485,,,1309,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187721,Plasmodium falciparum vaccine
+126486,,,1310,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187722,Plasmodium falciparum vaccine
+126543,,,1311,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187723,Plasmodium falciparum vaccine
+126644,,,1312,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187724,Plasmodium falciparum vaccine
+126745,,,1313,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187725,Plasmodium falciparum vaccine
+126848,,,1314,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187726,Plasmodium falciparum vaccine
+126959,,,1315,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186120,Radiated-attenuated P falciparum sporozoites (PfRAS)
+126960,,,1316,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187727,Plasmodium falciparum vaccine
+127071,,,1317,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187728,Plasmodium falciparum vaccine
+127182,,,1318,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187729,Plasmodium falciparum vaccine
+127293,,,1319,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187730,Plasmodium falciparum vaccine
+127404,,,1320,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187731,Plasmodium falciparum vaccine
+127510,,,1321,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187732,Plasmodium falciparum vaccine
+127621,,,1322,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187733,Plasmodium falciparum vaccine
+127732,,,1323,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187734,Plasmodium falciparum vaccine
+127843,,,1324,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187735,Plasmodium falciparum vaccine
+127954,,,1325,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187736,Plasmodium falciparum vaccine
+128050,,,1326,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187737,Plasmodium falciparum vaccine
+128062,,,1327,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187738,Plasmodium falciparum vaccine
+128073,,,1328,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187739,Plasmodium falciparum vaccine
+128084,,,1329,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187740,Plasmodium falciparum vaccine
+128095,,,1330,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187741,Plasmodium falciparum vaccine
+128106,,,1331,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187742,Plasmodium falciparum vaccine
+128117,,,1332,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187743,Plasmodium falciparum vaccine
+128128,,,1333,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187744,Plasmodium falciparum vaccine
+128141,,,1334,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187745,Plasmodium falciparum vaccine
+128252,,,1335,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187746,Plasmodium falciparum vaccine
+128349,,,1336,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187747,Plasmodium falciparum vaccine
+128460,,,1337,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187748,Plasmodium falciparum vaccine
+128494,,,1338,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114512,Fluvirin
+128505,,,1339,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114511,Fluvirin
+128516,,,1340,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114510,Fluvirin
+128527,,,1341,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114509,Fluvirin
+128538,,,1342,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114508,Fluvirin
+128547,,,1343,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114507,Fluvirin
+128548,,,1344,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114506,Fluvirin
+128549,,,1345,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187749,Plasmodium falciparum vaccine
+128550,,,1346,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114505,Fluvirin
+128551,,,1347,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114504,Fluvirin
+128552,,,1348,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114503,Fluvirin
+128553,,,1349,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114502,Fluvirin
+128554,,,1350,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114501,Fluvirin
+128555,,,1351,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114500,Fluvirin
+128556,,,1352,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114499,Fluvirin
+128557,,,1353,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114498,Fluvirin
+128558,,,1354,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114497,Fluvirin
+128559,,,1355,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114496,Fluvirin
+128560,,,1356,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187750,Plasmodium falciparum vaccine
+128561,,,1357,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114495,Fluvirin
+128562,,,1358,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114494,Fluvirin
+128563,,,1359,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114493,Fluvirin
+128564,,,1360,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114492,Fluvirin
+128565,,,1361,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114491,Fluvirin
+128566,,,1362,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114490,Fluvirin
+128567,,,1363,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114489,Fluvirin
+128568,,,1364,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114488,Fluvirin
+128569,,,1365,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114487,Fluvirin
+128570,,,1366,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114486,Fluvirin
+128571,,,1367,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187751,Plasmodium falciparum vaccine
+128572,,,1368,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114485,Fluvirin
+128573,,,1369,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114484,Fluvirin
+128574,,,1370,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114483,Fluvirin
+128575,,,1371,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114482,Fluvirin
+128576,,,1372,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114481,Fluvirin
+128577,,,1373,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114480,Fluvirin
+128578,,,1374,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114479,Fluvirin
+128579,,,1375,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114478,Fluvirin
+128580,,,1376,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114477,Fluvirin
+128581,,,1377,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114476,Fluvirin
+128582,,,1378,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187752,Plasmodium falciparum vaccine
+128583,,,1379,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114475,Fluvirin
+128584,,,1380,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114474,Fluvirin
+128585,,,1381,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114473,Fluvirin
+128586,,,1382,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114472,Fluvirin
+128587,,,1383,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114471,Fluvirin
+128588,,,1384,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114470,Fluvirin
+128589,,,1385,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114469,Fluvirin
+128590,,,1386,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114468,Fluvirin
+128591,,,1387,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114467,Fluvirin
+128592,,,1388,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114466,Fluvirin
+128593,,,1389,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187753,Plasmodium falciparum vaccine
+128594,,,1390,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114465,Fluvirin
+128595,,,1391,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114464,Fluvirin
+128596,,,1392,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114463,Fluvirin
+128597,,,1393,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114462,Fluvirin
+128598,,,1394,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114461,Fluvirin
+128599,,,1395,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114460,Fluvirin
+128600,,,1396,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114459,Fluvirin
+128601,,,1397,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114458,Fluvirin
+128602,,,1398,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114457,Fluvirin
+128603,,,1399,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114456,Fluvirin
+128604,,,1400,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187754,Plasmodium falciparum vaccine
+128605,,,1401,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114455,Fluvirin
+128606,,,1402,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114454,Fluvirin
+128607,,,1403,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114453,Fluvirin
+128608,,,1404,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114452,Fluvirin
+128609,,,1405,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114451,Fluvirin
+128610,,,1406,,VO_0000642,,,,,,,,,,,ImmPort,,SUB114450,Fluvirin
+128612,,,1407,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119273,Pneumovax 23 (USA)
+128613,,,1408,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119269,Pneumovax 23 (USA)
+128614,,,1409,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119268,Fluzone
+128615,,,1410,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187755,Plasmodium falciparum vaccine
+128616,,,1411,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119267,Fluzone
+128617,,,1412,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119266,Pneumovax 23 (USA)
+128618,,,1413,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119264,Pneumovax 23 (USA)
+128619,,,1414,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119262,Fluzone
+128624,,,1415,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119257,Fluzone
+128625,,,1416,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119256,Fluzone
+128626,,,1417,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187756,Plasmodium falciparum vaccine
+128627,,,1418,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119255,Fluzone
+128628,,,1419,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119254,Fluzone
+128632,,,1420,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119253,Fluzone
+128643,,,1421,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119252,Fluzone
+128654,,,1422,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119297,Fluzone
+128665,,,1423,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119296,Fluzone
+128676,,,1424,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119295,Fluzone
+128683,,,1425,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119294,Fluzone
+128684,,,1426,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119293,Fluzone
+128685,,,1427,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119292,Fluzone
+128687,,,1428,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187757,Plasmodium falciparum vaccine
+128688,,,1429,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119290,Pneumovax 23 (USA)
+128689,,,1430,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119289,Pneumovax 23 (USA)
+128690,,,1431,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119287,Pneumovax 23 (USA)
+128691,,,1432,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119286,Pneumovax 23 (USA)
+128692,,,1433,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119285,Pneumovax 23 (USA)
+128699,,,1434,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119281,Pneumovax 23 (USA)
+128710,,,1435,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119279,Pneumovax 23 (USA)
+128721,,,1436,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119278,Fluzone
+128732,,,1437,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119277,Fluzone
+128743,,,1438,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119276,Pneumovax 23 (USA)
+128754,,,1439,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187758,Plasmodium falciparum vaccine
+128755,,,1440,,VO_0000642,,,,,,,,,,,ImmPort,,SUB119274,Fluzone
+128766,,,1441,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192199,Dryvax
+128777,,,1442,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192198,Dryvax
+128780,,,1443,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192197,LC16m8
+128781,,,1444,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192196,LC16m8
+128782,,,1445,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192195,Dryvax
+128783,,,1446,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192194,LC16m8
+128784,,,1447,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192193,LC16m8
+128785,,,1448,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192192,Dryvax
+128786,,,1449,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112892,Fluarix
+128787,,,1450,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187759,Plasmodium falciparum vaccine
+128788,,,1451,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112891,Fluarix
+128790,,,1452,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112888,Fluarix
+128791,,,1453,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112887,Fluarix
+128792,,,1454,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112884,Fluarix
+128793,,,1455,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112882,Fluarix
+128794,,,1456,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112879,Fluarix
+128795,,,1457,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112878,Fluarix
+128796,,,1458,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112877,Fluarix
+128797,,,1459,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112875,Fluarix
+128798,,,1460,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187760,Plasmodium falciparum vaccine
+128799,,,1461,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112874,Fluarix
+128800,,,1462,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112872,Fluarix
+128801,,,1463,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112871,Fluarix
+128802,,,1464,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112861,Fluarix
+128803,,,1465,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112857,Fluarix
+128804,,,1466,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112856,Fluarix
+128805,,,1467,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112855,Fluarix
+128806,,,1468,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112853,Fluarix
+128807,,,1469,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112852,Fluarix
+128808,,,1470,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112851,Fluarix
+128809,,,1471,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187761,Plasmodium falciparum vaccine
+128810,,,1472,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112848,Fluarix
+128811,,,1473,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112847,Fluarix
+128812,,,1474,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112846,Fluarix
+128813,,,1475,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112845,Fluarix
+128814,,,1476,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112843,Fluarix
+128815,,,1477,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112842,Fluarix
+128816,,,1478,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112841,Fluarix
+128817,,,1479,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112834,Fluarix
+128818,,,1480,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112832,Fluarix
+128819,,,1481,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112863,Fluarix
+128820,,,1482,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187762,Plasmodium falciparum vaccine
+128821,,,1483,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112898,Fluarix
+128822,,,1484,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112897,Fluarix
+128823,,,1485,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112896,Fluarix
+128824,,,1486,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112895,Fluarix
+128826,,,1487,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112893,Fluarix
+128827,,,1488,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112892,Fluarix
+128828,,,1489,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112891,Fluarix
+128829,,,1490,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112888,Fluarix
+128830,,,1491,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112887,Fluarix
+128831,,,1492,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187763,Plasmodium falciparum vaccine
+128832,,,1493,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112884,Fluarix
+128833,,,1494,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112882,Fluarix
+128834,,,1495,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112874,Fluarix
+128835,,,1496,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112872,Fluarix
+128836,,,1497,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112871,Fluarix
+128837,,,1498,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112861,Fluarix
+128838,,,1499,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112855,Fluarix
+128839,,,1500,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112853,Fluarix
+128840,,,1501,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112852,Fluarix
+128841,,,1502,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112851,Fluarix
+128842,,,1503,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187451,Yellow fever 17D vaccine vector
+128843,,,1504,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112848,Fluarix
+128844,,,1505,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112847,Fluarix
+128845,,,1506,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112845,Fluarix
+128846,,,1507,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112843,Fluarix
+128847,,,1508,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112841,Fluarix
+128848,,,1509,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112834,Fluarix
+128849,,,1510,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112832,Fluarix
+128850,,,1511,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112900,Fluarix
+128851,,,1512,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112899,Fluarix
+128852,,,1513,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112863,Fluarix
+128853,,,1514,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187452,Yellow fever 17D vaccine vector
+128854,,,1515,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112891,Fluarix
+128855,,,1516,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112847,Fluarix
+128856,,,1517,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112845,Fluarix
+128857,,,1518,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112843,Fluarix
+128858,,,1519,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112841,Fluarix
+128859,,,1520,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112837,Fluarix
+128860,,,1521,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112835,Fluarix
+128861,,,1522,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112833,Fluarix
+128862,,,1523,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112832,Fluarix
+128863,,,1524,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112830,Fluarix
+128864,,,1525,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187453,Yellow fever 17D vaccine vector
+128870,,,1526,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174154,Zostavax
+128871,,,1527,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174153,Zostavax
+128872,,,1528,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174152,Zostavax
+128873,,,1529,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174151,Zostavax
+128874,,,1530,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174150,Zostavax
+128876,,,1531,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187454,Yellow fever 17D vaccine vector
+128877,,,1532,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174149,Zostavax
+128878,,,1533,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174148,Zostavax
+128879,,,1534,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174147,Zostavax
+128880,,,1535,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174146,Zostavax
+128881,,,1536,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174145,Zostavax
+128882,,,1537,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174144,Zostavax
+128885,,,1538,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174143,Zostavax
+128896,,,1539,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174142,Zostavax
+128907,,,1540,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174141,Zostavax
+128918,,,1541,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174140,Zostavax
+128929,,,1542,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187455,Yellow fever 17D vaccine vector
+128930,,,1543,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174139,Zostavax
+128941,,,1544,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174138,Zostavax
+128952,,,1545,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174137,Zostavax
+128954,,,1546,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174136,Zostavax
+128955,,,1547,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174135,Zostavax
+128956,,,1548,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174134,Zostavax
+128957,,,1549,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174133,Zostavax
+128965,,,1550,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174132,Zostavax
+128976,,,1551,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174131,Zostavax
+128978,,,1552,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174130,Zostavax
+128979,,,1553,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187456,Yellow fever 17D vaccine vector
+128980,,,1554,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174129,Zostavax
+128981,,,1555,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174128,Zostavax
+128982,,,1556,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174127,Zostavax
+128983,,,1557,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174126,Zostavax
+128984,,,1558,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174125,Zostavax
+128985,,,1559,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174124,Zostavax
+128986,,,1560,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174123,Zostavax
+128987,,,1561,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174122,Zostavax
+128988,,,1562,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174121,Zostavax
+128989,,,1563,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174120,Zostavax
+128990,,,1564,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187457,Yellow fever 17D vaccine vector
+128991,,,1565,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174119,Zostavax
+128992,,,1566,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174118,Zostavax
+128993,,,1567,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174117,Zostavax
+128994,,,1568,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174116,Zostavax
+128995,,,1569,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174115,Zostavax
+129005,,,1570,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174114,Zostavax
+129016,,,1571,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174113,Zostavax
+129027,,,1572,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174112,Zostavax
+129038,,,1573,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174111,Zostavax
+129049,,,1574,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174110,Zostavax
+129060,,,1575,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187458,Yellow fever 17D vaccine vector
+129061,,,1576,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174109,Zostavax
+129072,,,1577,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174108,Zostavax
+129083,,,1578,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174107,Zostavax
+129091,,,1579,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174106,Zostavax
+129102,,,1580,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174105,Zostavax
+129113,,,1581,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174104,Zostavax
+129124,,,1582,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174103,Zostavax
+129135,,,1583,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174102,Zostavax
+129146,,,1584,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174101,Zostavax
+129157,,,1585,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174100,Zostavax
+129168,,,1586,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187459,Yellow fever 17D vaccine vector
+129169,,,1587,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174099,Zostavax
+129180,,,1588,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174098,Zostavax
+129191,,,1589,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174097,Zostavax
+129202,,,1590,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174096,Zostavax
+129213,,,1591,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174095,Zostavax
+129224,,,1592,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174094,Zostavax
+129235,,,1593,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174093,Zostavax
+129246,,,1594,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174092,Zostavax
+129257,,,1595,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174091,Zostavax
+129262,,,1596,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174090,Zostavax
+129263,,,1597,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187460,Yellow fever 17D vaccine vector
+129264,,,1598,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174089,Zostavax
+129265,,,1599,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174088,Zostavax
+129266,,,1600,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174087,Zostavax
+129267,,,1601,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174086,Zostavax
+129268,,,1602,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174085,Zostavax
+129269,,,1603,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174084,Zostavax
+129270,,,1604,,VO_0000642,,,,,,,,,,,ImmPort,,SUB174083,Zostavax
+129273,,,1605,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142657,Influenza virus vaccine
+129274,,,1606,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187461,Yellow fever 17D vaccine vector
+129275,,,1607,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142656,Influenza virus vaccine
+129277,,,1608,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142654,Influenza virus vaccine
+129278,,,1609,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142653,Influenza virus vaccine
+129279,,,1610,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142652,Influenza virus vaccine
+129280,,,1611,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142651,Influenza virus vaccine
+129281,,,1612,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142650,Influenza virus vaccine
+129282,,,1613,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142649,Influenza virus vaccine
+129283,,,1614,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142648,Influenza virus vaccine
+129284,,,1615,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142647,Influenza virus vaccine
+129285,,,1616,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187462,Yellow fever 17D vaccine vector
+129286,,,1617,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142646,Influenza virus vaccine
+129288,,,1618,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142644,Influenza virus vaccine
+129289,,,1619,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142643,Influenza virus vaccine
+129290,,,1620,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142642,Influenza virus vaccine
+129291,,,1621,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142641,Influenza virus vaccine
+129292,,,1622,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142640,Influenza virus vaccine
+129297,,,1623,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142639,Influenza virus vaccine
+129319,,,1624,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142637,Influenza virus vaccine
+129330,,,1625,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187463,Yellow fever 17D vaccine vector
+129331,,,1626,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142636,Influenza virus vaccine
+129342,,,1627,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142635,Influenza virus vaccine
+129353,,,1628,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142634,Influenza virus vaccine
+129364,,,1629,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142633,Influenza virus vaccine
+129375,,,1630,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142632,Influenza virus vaccine
+129386,,,1631,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142631,Influenza virus vaccine
+129397,,,1632,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142630,Influenza virus vaccine
+129408,,,1633,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142629,Influenza virus vaccine
+129410,,,1634,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142628,Influenza virus vaccine
+129411,,,1635,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142627,Influenza virus vaccine
+129413,,,1636,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187464,Yellow fever 17D vaccine vector
+129414,,,1637,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142626,Influenza virus vaccine
+129415,,,1638,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142625,Influenza virus vaccine
+129416,,,1639,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142624,Influenza virus vaccine
+129417,,,1640,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142623,Influenza virus vaccine
+129418,,,1641,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142622,Influenza virus vaccine
+129419,,,1642,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142621,Influenza virus vaccine
+129420,,,1643,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142620,Influenza virus vaccine
+129421,,,1644,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142619,Influenza virus vaccine
+129422,,,1645,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142618,Influenza virus vaccine
+129423,,,1646,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142617,Influenza virus vaccine
+129424,,,1647,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187465,Yellow fever 17D vaccine vector
+129425,,,1648,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142616,Influenza virus vaccine
+129427,,,1649,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142614,Influenza virus vaccine
+129428,,,1650,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142613,Influenza virus vaccine
+129429,,,1651,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142612,Influenza virus vaccine
+129431,,,1652,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142610,Influenza virus vaccine
+129432,,,1653,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142609,Influenza virus vaccine
+129433,,,1654,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142608,Influenza virus vaccine
+129435,,,1655,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187466,Yellow fever 17D vaccine vector
+129437,,,1656,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142605,Influenza virus vaccine
+129438,,,1657,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142604,Influenza virus vaccine
+129439,,,1658,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142603,Influenza virus vaccine
+129440,,,1659,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142602,Influenza virus vaccine
+129441,,,1660,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142601,Influenza virus vaccine
+129442,,,1661,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187467,Yellow fever 17D vaccine vector
+129443,,,1662,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187468,Yellow fever 17D vaccine vector
+129459,,,1663,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142670,Influenza virus vaccine
+129470,,,1664,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142669,Influenza virus vaccine
+129481,,,1665,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187469,Yellow fever 17D vaccine vector
+129482,,,1666,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142668,Influenza virus vaccine
+129493,,,1667,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142667,Influenza virus vaccine
+129504,,,1668,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142666,Influenza virus vaccine
+129515,,,1669,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142665,Influenza virus vaccine
+129526,,,1670,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142664,Influenza virus vaccine
+129537,,,1671,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142663,Influenza virus vaccine
+129548,,,1672,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142662,Influenza virus vaccine
+129559,,,1673,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142661,Influenza virus vaccine
+129570,,,1674,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142660,Influenza virus vaccine
+129581,,,1675,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142659,Influenza virus vaccine
+129592,,,1676,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187470,Yellow fever 17D vaccine vector
+129593,,,1677,,VO_0000642,,,,,,,,,,,ImmPort,,SUB142658,Influenza virus vaccine
+129615,,,1678,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123364,Influenza virus vaccine
+129637,,,1679,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123362,Influenza virus vaccine
+129648,,,1680,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123361,Influenza virus vaccine
+129681,,,1681,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123358,Influenza virus vaccine
+129703,,,1682,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187471,Yellow fever 17D vaccine vector
+129704,,,1683,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123356,Influenza virus vaccine
+129715,,,1684,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123355,Influenza virus vaccine
+129748,,,1685,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123352,Influenza virus vaccine
+129770,,,1686,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123350,Influenza virus vaccine
+129803,,,1687,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123347,Influenza virus vaccine
+129814,,,1688,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187472,Yellow fever 17D vaccine vector
+129881,,,1689,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123340,Influenza virus vaccine
+129925,,,1690,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187473,Yellow fever 17D vaccine vector
+129926,,,1691,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123336,Influenza virus vaccine
+129937,,,1692,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123335,Influenza virus vaccine
+129959,,,1693,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123333,Influenza virus vaccine
+130036,,,1694,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186123,Radiated-attenuated P falciparum sporozoites (PfRAS)
+130037,,,1695,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187474,Yellow fever 17D vaccine vector
+130038,,,1696,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123326,Influenza virus vaccine
+130060,,,1697,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123324,Influenza virus vaccine
+130071,,,1698,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123323,Influenza virus vaccine
+130082,,,1699,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123322,Influenza virus vaccine
+130093,,,1700,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123321,Influenza virus vaccine
+130148,,,1701,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187475,Yellow fever 17D vaccine vector
+130204,,,1702,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123311,Influenza virus vaccine
+130215,,,1703,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123310,Influenza virus vaccine
+130247,,,1704,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187476,Yellow fever 17D vaccine vector
+130248,,,1705,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123306,Influenza virus vaccine
+130278,,,1706,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187477,Yellow fever 17D vaccine vector
+130279,,,1707,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123296,Influenza virus vaccine
+130280,,,1708,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123295,Influenza virus vaccine
+130340,,,1709,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123289,Influenza virus vaccine
+130362,,,1710,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123287,Influenza virus vaccine
+130373,,,1711,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187478,Yellow fever 17D vaccine vector
+130385,,,1712,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123285,Influenza virus vaccine
+130396,,,1713,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123284,Influenza virus vaccine
+130407,,,1714,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123283,Influenza virus vaccine
+130429,,,1715,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123281,Influenza virus vaccine
+130451,,,1716,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123279,Influenza virus vaccine
+130484,,,1717,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187479,Yellow fever 17D vaccine vector
+130573,,,1718,,VO_0000642,,,,,,,,,,,ImmPort,,SUB123268,Influenza virus vaccine
+130584,,,1719,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192126,Zostavax
+130595,,,1720,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187480,Yellow fever 17D vaccine vector
+130596,,,1721,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192125,Zostavax
+130607,,,1722,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192124,Zostavax
+130618,,,1723,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192123,Zostavax
+130629,,,1724,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192122,Zostavax
+130640,,,1725,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192121,Zostavax
+130651,,,1726,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192120,Zostavax
+130662,,,1727,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192119,Zostavax
+130673,,,1728,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192118,Zostavax
+130684,,,1729,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192117,Zostavax
+130695,,,1730,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192116,Zostavax
+130707,,,1731,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192115,Zostavax
+130718,,,1732,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192114,Zostavax
+130729,,,1733,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192113,Zostavax
+130740,,,1734,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192112,Zostavax
+130751,,,1735,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192111,Zostavax
+130762,,,1736,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192110,Zostavax
+130773,,,1737,,VO_0000642,,,,,,,,,,,ImmPort,,SUB192109,Zostavax
+130784,,,1738,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134247,Fluzone
+130795,,,1739,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134246,Fluzone
+130806,,,1740,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134245,Fluzone
+130818,,,1741,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134244,Fluzone
+130829,,,1742,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134243,Fluzone
+130840,,,1743,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134242,Fluzone
+130851,,,1744,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134241,Fluzone
+130862,,,1745,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134240,Fluzone
+130873,,,1746,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134239,Fluzone
+130884,,,1747,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134238,Fluzone
+130895,,,1748,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134237,Fluzone
+130906,,,1749,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134236,Fluzone
+130917,,,1750,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134326,Fluzone
+130929,,,1751,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134325,Fluzone
+130939,,,1752,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134324,Fluzone
+130950,,,1753,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134323,Fluzone
+130961,,,1754,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134322,Fluzone
+130969,,,1755,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134321,Fluzone
+130970,,,1756,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134320,Fluzone
+130971,,,1757,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134319,Fluzone
+130972,,,1758,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134318,Fluzone
+130973,,,1759,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134317,Fluzone
+130979,,,1760,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134316,Fluzone
+130992,,,1761,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134315,Fluzone
+131003,,,1762,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134314,Fluzone
+131014,,,1763,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134313,Fluzone
+131025,,,1764,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134312,Fluzone
+131036,,,1765,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134311,Fluzone
+131047,,,1766,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134310,Fluzone
+131058,,,1767,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134309,Fluzone
+131069,,,1768,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134308,Fluzone
+131080,,,1769,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134307,Fluzone
+131091,,,1770,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134306,Fluzone
+131103,,,1771,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134305,Fluzone
+131114,,,1772,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134304,Fluzone
+131125,,,1773,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134303,Fluzone
+131136,,,1774,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134302,Fluzone
+131147,,,1775,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134301,Fluzone
+131158,,,1776,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134300,Fluzone
+131169,,,1777,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134299,Fluzone
+131180,,,1778,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134298,Fluzone
+131191,,,1779,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134297,Fluzone
+131202,,,1780,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134296,Fluzone
+131214,,,1781,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134295,Fluzone
+131225,,,1782,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134294,Fluzone
+131236,,,1783,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134293,Fluzone
+131247,,,1784,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134292,Fluzone
+131258,,,1785,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134291,Fluzone
+131269,,,1786,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134290,Fluzone
+131280,,,1787,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134289,Fluzone
+131291,,,1788,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134288,Fluzone
+131302,,,1789,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134287,Fluzone
+131313,,,1790,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134286,Fluzone
+131325,,,1791,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134285,Fluzone
+131336,,,1792,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134284,Fluzone
+131347,,,1793,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134283,Fluzone
+131358,,,1794,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134282,Fluzone
+131369,,,1795,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134281,Fluzone
+131380,,,1796,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134280,Fluzone
+131391,,,1797,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134279,Fluzone
+131402,,,1798,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134278,Fluzone
+131413,,,1799,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134277,Fluzone
+131424,,,1800,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134276,Fluzone
+131436,,,1801,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134275,Fluzone
+131447,,,1802,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134274,Fluzone
+131458,,,1803,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134273,Fluzone
+131469,,,1804,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134272,Fluzone
+131480,,,1805,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134271,Fluzone
+131491,,,1806,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134270,Fluzone
+131502,,,1807,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134269,Fluzone
+131513,,,1808,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134268,Fluzone
+131524,,,1809,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134267,Fluzone
+131535,,,1810,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134266,Fluzone
+131547,,,1811,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134265,Fluzone
+131558,,,1812,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134264,Fluzone
+131569,,,1813,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134263,Fluzone
+131580,,,1814,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134262,Fluzone
+131591,,,1815,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134261,Fluzone
+131602,,,1816,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134260,Fluzone
+131613,,,1817,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134259,Fluzone
+131624,,,1818,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134258,Fluzone
+131635,,,1819,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134257,Fluzone
+131646,,,1820,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134256,Fluzone
+131658,,,1821,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134255,Fluzone
+131669,,,1822,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134254,Fluzone
+131680,,,1823,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134253,Fluzone
+131691,,,1824,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134252,Fluzone
+131702,,,1825,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134251,Fluzone
+131713,,,1826,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134250,Fluzone
+131724,,,1827,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134249,Fluzone
+131735,,,1828,,VO_0000642,,,,,,,,,,,ImmPort,,SUB134248,Fluzone
+131746,,,1829,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188437,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131757,,,1830,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188436,Menactra
+131769,,,1831,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188435,Menactra
+131780,,,1832,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188434,Menactra
+131791,,,1833,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188433,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131802,,,1834,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188432,Menactra
+131813,,,1835,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188431,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131824,,,1836,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188430,Menactra
+131835,,,1837,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188429,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131846,,,1838,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188428,Menactra
+131857,,,1839,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188427,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131868,,,1840,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188426,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131880,,,1841,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188425,Menactra
+131891,,,1842,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188424,Menactra
+131902,,,1843,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188423,Menactra
+131913,,,1844,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188422,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131924,,,1845,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188421,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131935,,,1846,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188420,Menactra
+131946,,,1847,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188419,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131957,,,1848,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188418,Menactra
+131968,,,1849,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188417,Menactra
+131979,,,1850,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188416,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+131991,,,1851,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188415,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+132002,,,1852,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188414,Menactra
+132013,,,1853,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188409,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+132024,,,1854,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188408,Menactra
+132028,,,1855,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188413,Menactra
+132029,,,1856,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188412,Menactra
+132030,,,1857,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188411,"Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C"
+132031,,,1858,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188410,Menactra
+132035,,,1859,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188659,Stamaril
+132187,,,1860,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186125,Radiated-attenuated P falciparum sporozoites (PfRAS)
+132191,,,1861,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187908,2008-2009 trivalent influenza vaccine
+132192,,,1862,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187909,2008-2009 trivalent influenza vaccine
+132193,,,1863,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187910,2008-2009 trivalent influenza vaccine
+132194,,,1864,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187911,2008-2009 trivalent influenza vaccine
+132195,,,1865,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187912,2008-2009 trivalent influenza vaccine
+132196,,,1866,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187913,2008-2009 trivalent influenza vaccine
+132197,,,1867,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187914,2008-2009 trivalent influenza vaccine
+132199,,,1868,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187915,2008-2009 trivalent influenza vaccine
+132264,,,1869,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187916,2008-2009 trivalent influenza vaccine
+132305,,,1870,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187917,2008-2009 trivalent influenza vaccine
+132306,,,1871,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187918,2008-2009 trivalent influenza vaccine
+132307,,,1872,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187919,2008-2009 trivalent influenza vaccine
+132308,,,1873,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187920,2008-2009 trivalent influenza vaccine
+132309,,,1874,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187921,2008-2009 trivalent influenza vaccine
+132392,,,1875,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187922,2008-2009 trivalent influenza vaccine
+132447,,,1876,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187923,2008-2009 trivalent influenza vaccine
+132448,,,1877,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187924,2008-2009 trivalent influenza vaccine
+132449,,,1878,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186126,Radiated-attenuated P falciparum sporozoites (PfRAS)
+132450,,,1879,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187925,2008-2009 trivalent influenza vaccine
+132451,,,1880,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187926,2008-2009 trivalent influenza vaccine
+132452,,,1881,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187932,2008-2009 trivalent influenza vaccine
+132453,,,1882,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187927,2008-2009 trivalent influenza vaccine
+132454,,,1883,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187928,2008-2009 trivalent influenza vaccine
+132469,,,1884,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187929,2008-2009 trivalent influenza vaccine
+132488,,,1885,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187930,2008-2009 trivalent influenza vaccine
+132489,,,1886,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187931,2008-2009 trivalent influenza vaccine
+132490,,,1887,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187932,2008-2009 trivalent influenza vaccine
+132491,,,1888,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187933,2008-2009 trivalent influenza vaccine
+132492,,,1889,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187934,2008-2009 trivalent influenza vaccine
+132494,,,1890,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187935,2008-2009 trivalent influenza vaccine
+132495,,,1891,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187936,2008-2009 trivalent influenza vaccine
+132496,,,1892,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187937,2008-2009 trivalent influenza vaccine
+132497,,,1893,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187938,2008-2009 trivalent influenza vaccine
+132498,,,1894,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187939,2008-2009 trivalent influenza vaccine
+132499,,,1895,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187940,2008-2009 trivalent influenza vaccine
+132500,,,1896,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187941,2008-2009 trivalent influenza vaccine
+132501,,,1897,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187942,2008-2009 trivalent influenza vaccine
+132502,,,1898,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187943,2008-2009 trivalent influenza vaccine
+132507,,,1899,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187944,2008-2009 trivalent influenza vaccine
+132508,,,1900,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112829,FluMist
+132509,,,1901,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112831,FluMist
+132510,,,1902,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112836,FluMist
+132511,,,1903,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112838,FluMist
+132512,,,1904,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112839,FluMist
+132513,,,1905,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112840,FluMist
+132514,,,1906,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112844,FluMist
+132515,,,1907,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112849,FluMist
+132516,,,1908,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112850,FluMist
+132517,,,1909,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112854,FluMist
+132518,,,1910,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186127,Radiated-attenuated P falciparum sporozoites (PfRAS)
+132519,,,1911,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187945,2008-2009 trivalent influenza vaccine
+132520,,,1912,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112858,FluMist
+132521,,,1913,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112859,FluMist
+132522,,,1914,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112860,FluMist
+132523,,,1915,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112862,FluMist
+132524,,,1916,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112864,FluMist
+132525,,,1917,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112865,FluMist
+132526,,,1918,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112866,FluMist
+132527,,,1919,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112867,FluMist
+132528,,,1920,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112868,FluMist
+132529,,,1921,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112869,FluMist
+132530,,,1922,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187946,2008-2009 trivalent influenza vaccine
+132531,,,1923,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112870,FluMist
+132532,,,1924,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112873,FluMist
+132533,,,1925,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112876,FluMist
+132534,,,1926,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112880,FluMist
+132535,,,1927,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112881,FluMist
+132536,,,1928,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112883,FluMist
+132537,,,1929,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112885,FluMist
+132538,,,1930,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112886,FluMist
+132541,,,1931,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187947,2008-2009 trivalent influenza vaccine
+132544,,,1932,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120420,Influenza virus vaccine
+132547,,,1933,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120445,Influenza virus vaccine
+132548,,,1934,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120446,Influenza virus vaccine
+132552,,,1935,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187948,2008-2009 trivalent influenza vaccine
+132553,,,1936,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120450,Influenza virus vaccine
+132555,,,1937,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120452,Influenza virus vaccine
+132560,,,1938,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120457,Influenza virus vaccine
+132561,,,1939,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120458,Influenza virus vaccine
+132562,,,1940,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120459,Influenza virus vaccine
+132563,,,1941,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187949,2008-2009 trivalent influenza vaccine
+132564,,,1942,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120460,Influenza virus vaccine
+132566,,,1943,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120462,Influenza virus vaccine
+132570,,,1944,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120467,Influenza virus vaccine
+132572,,,1945,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120469,Influenza virus vaccine
+132573,,,1946,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120470,Influenza virus vaccine
+132574,,,1947,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187950,2008-2009 trivalent influenza vaccine
+132576,,,1948,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120472,Influenza virus vaccine
+132577,,,1949,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120473,Influenza virus vaccine
+132578,,,1950,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120474,Influenza virus vaccine
+132582,,,1951,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120418,Influenza virus vaccine
+132584,,,1952,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120421,Influenza virus vaccine
+132585,,,1953,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187951,2008-2009 trivalent influenza vaccine
+132586,,,1954,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120422,Influenza virus vaccine
+132587,,,1955,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120424,Influenza virus vaccine
+132588,,,1956,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120425,Influenza virus vaccine
+132590,,,1957,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120427,Influenza virus vaccine
+132591,,,1958,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120428,Influenza virus vaccine
+132593,,,1959,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120430,Influenza virus vaccine
+132596,,,1960,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187952,2008-2009 trivalent influenza vaccine
+132599,,,1961,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120435,Influenza virus vaccine
+132600,,,1962,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120436,Influenza virus vaccine
+132601,,,1963,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120437,Influenza virus vaccine
+132604,,,1964,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120440,Influenza virus vaccine
+132605,,,1965,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120441,Influenza virus vaccine
+132606,,,1966,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120442,Influenza virus vaccine
+132607,,,1967,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187953,2008-2009 trivalent influenza vaccine
+132609,,,1968,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120466,Influenza virus vaccine
+132612,,,1969,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120479,Influenza virus vaccine
+132613,,,1970,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120480,Influenza virus vaccine
+132614,,,1971,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120481,Influenza virus vaccine
+132616,,,1972,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120483,Influenza virus vaccine
+132617,,,1973,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120484,Influenza virus vaccine
+132618,,,1974,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187954,2008-2009 trivalent influenza vaccine
+132619,,,1975,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120485,Influenza virus vaccine
+132621,,,1976,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120487,Influenza virus vaccine
+132622,,,1977,,VO_0000642,,,,,,,,,,,ImmPort,,SUB120488,Influenza virus vaccine
+132625,,,1978,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146685,Influenza virus vaccine
+132626,,,1979,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146686,Influenza virus vaccine
+132628,,,1980,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146688,Influenza virus vaccine
+132631,,,1981,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187955,2008-2009 trivalent influenza vaccine
+132643,,,1982,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146690,Influenza virus vaccine
+132676,,,1983,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146693,Influenza virus vaccine
+132680,,,1984,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146697,Influenza virus vaccine
+132682,,,1985,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187956,2008-2009 trivalent influenza vaccine
+132684,,,1986,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146700,Influenza virus vaccine
+132685,,,1987,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146701,Influenza virus vaccine
+132686,,,1988,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146702,Influenza virus vaccine
+132687,,,1989,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146703,Influenza virus vaccine
+132688,,,1990,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146704,Influenza virus vaccine
+132728,,,1991,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187957,2008-2009 trivalent influenza vaccine
+132740,,,1992,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146710,Influenza virus vaccine
+132784,,,1993,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146714,Influenza virus vaccine
+132795,,,1994,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146654,Influenza virus vaccine
+132817,,,1995,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146656,Influenza virus vaccine
+132828,,,1996,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146657,Influenza virus vaccine
+132839,,,1997,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187958,2008-2009 trivalent influenza vaccine
+132840,,,1998,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146658,Influenza virus vaccine
+132851,,,1999,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146659,Influenza virus vaccine
+132950,,,2000,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187959,2008-2009 trivalent influenza vaccine
+132951,,,2001,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146668,Influenza virus vaccine
+132973,,,2002,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146670,Influenza virus vaccine
+132995,,,2003,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146672,Influenza virus vaccine
+133006,,,2004,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146673,Influenza virus vaccine
+133017,,,2005,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146674,Influenza virus vaccine
+133050,,,2006,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146677,Influenza virus vaccine
+133061,,,2007,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187960,2008-2009 trivalent influenza vaccine
+133062,,,2008,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146678,Influenza virus vaccine
+133095,,,2009,,VO_0000642,,,,,,,,,,,ImmPort,,SUB146681,Influenza virus vaccine
+133106,,,2010,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112995,Influenza virus vaccine
+133161,,,2011,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113000,Influenza virus vaccine
+133172,,,2012,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187961,2008-2009 trivalent influenza vaccine
+133173,,,2013,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113001,Influenza virus vaccine
+133217,,,2014,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113005,Influenza virus vaccine
+133228,,,2015,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113006,Influenza virus vaccine
+133250,,,2016,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113008,Influenza virus vaccine
+133261,,,2017,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113009,Influenza virus vaccine
+133283,,,2018,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187962,2008-2009 trivalent influenza vaccine
+133317,,,2019,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113014,Influenza virus vaccine
+133328,,,2020,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113015,Influenza virus vaccine
+133339,,,2021,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113016,Influenza virus vaccine
+133372,,,2022,,VO_0000642,,,,,,,,,,,ImmPort,,SUB113019,Influenza virus vaccine
+133383,,,2023,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112971,Influenza virus vaccine
+133394,,,2024,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187963,2008-2009 trivalent influenza vaccine
+133406,,,2025,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112973,Influenza virus vaccine
+133417,,,2026,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112974,Influenza virus vaccine
+133428,,,2027,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112975,Influenza virus vaccine
+133450,,,2028,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112977,Influenza virus vaccine
+133472,,,2029,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112979,Influenza virus vaccine
+133505,,,2030,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187964,2008-2009 trivalent influenza vaccine
+133506,,,2031,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112982,Influenza virus vaccine
+133528,,,2032,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112984,Influenza virus vaccine
+133550,,,2033,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112986,Influenza virus vaccine
+133561,,,2034,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112987,Influenza virus vaccine
+133583,,,2035,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112989,Influenza virus vaccine
+133605,,,2036,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112991,Influenza virus vaccine
+133616,,,2037,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186128,Radiated-attenuated P falciparum sporozoites (PfRAS)
+133617,,,2038,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187965,2008-2009 trivalent influenza vaccine
+133640,,,2039,,VO_0000642,,,,,,,,,,,ImmPort,,SUB112994,Influenza virus vaccine
+133721,,,2040,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187966,2008-2009 trivalent influenza vaccine
+133832,,,2041,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187967,2008-2009 trivalent influenza vaccine
+133943,,,2042,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187968,2008-2009 trivalent influenza vaccine
+134054,,,2043,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187969,2008-2009 trivalent influenza vaccine
+134165,,,2044,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187970,2008-2009 trivalent influenza vaccine
+134276,,,2045,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187971,2008-2009 trivalent influenza vaccine
+134387,,,2046,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187972,2008-2009 trivalent influenza vaccine
+134498,,,2047,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187973,2008-2009 trivalent influenza vaccine
+134587,,,2048,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133718,HEPLISAV-B
+134598,,,2049,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133719,HEPLISAV-B
+134609,,,2050,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187974,2008-2009 trivalent influenza vaccine
+134610,,,2051,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133720,HEPLISAV-B
+134621,,,2052,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133721,HEPLISAV-B
+134632,,,2053,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133722,HEPLISAV-B
+134643,,,2054,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133723,HEPLISAV-B
+134654,,,2055,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133724,HEPLISAV-B
+134665,,,2056,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133725,HEPLISAV-B
+134676,,,2057,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133726,HEPLISAV-B
+134687,,,2058,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133727,HEPLISAV-B
+134698,,,2059,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133728,HEPLISAV-B
+134709,,,2060,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133729,HEPLISAV-B
+134721,,,2061,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187975,2008-2009 trivalent influenza vaccine
+134722,,,2062,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133730,HEPLISAV-B
+134733,,,2063,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133731,HEPLISAV-B
+134744,,,2064,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133732,HEPLISAV-B
+134755,,,2065,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133733,HEPLISAV-B
+134766,,,2066,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133734,HEPLISAV-B
+134777,,,2067,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133735,HEPLISAV-B
+134788,,,2068,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133736,HEPLISAV-B
+134799,,,2069,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133737,HEPLISAV-B
+134810,,,2070,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133738,HEPLISAV-B
+134821,,,2071,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133739,HEPLISAV-B
+134832,,,2072,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187976,2008-2009 trivalent influenza vaccine
+134833,,,2073,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133740,HEPLISAV-B
+134844,,,2074,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133741,HEPLISAV-B
+134855,,,2075,,VO_0000642,,,,,,,,,,,ImmPort,,SUB133742,HEPLISAV-B
+134917,,,2076,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187977,2008-2009 trivalent influenza vaccine
+134928,,,2077,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187978,2008-2009 trivalent influenza vaccine
+134939,,,2078,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187979,2008-2009 trivalent influenza vaccine
+134950,,,2079,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187980,2008-2009 trivalent influenza vaccine
+134958,,,2080,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187981,2008-2009 trivalent influenza vaccine
+134959,,,2081,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187982,2008-2009 trivalent influenza vaccine
+134970,,,2082,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187983,2008-2009 trivalent influenza vaccine
+135071,,,2083,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187984,2008-2009 trivalent influenza vaccine
+135159,,,2084,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186129,Radiated-attenuated P falciparum sporozoites (PfRAS)
+135160,,,2085,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187985,2008-2009 trivalent influenza vaccine
+135173,,,2086,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187986,2008-2009 trivalent influenza vaccine
+135174,,,2087,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187987,2008-2009 trivalent influenza vaccine
+135175,,,2088,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187988,2008-2009 trivalent influenza vaccine
+135176,,,2089,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187989,2008-2009 trivalent influenza vaccine
+135177,,,2090,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187990,2008-2009 trivalent influenza vaccine
+135178,,,2091,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187991,2008-2009 trivalent influenza vaccine
+135251,,,2092,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187992,2008-2009 trivalent influenza vaccine
+135298,,,2093,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194664,inactivated influenza vaccine
+135299,,,2094,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194665,inactivated influenza vaccine
+135300,,,2095,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194666,inactivated influenza vaccine
+135301,,,2096,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194667,inactivated influenza vaccine
+135309,,,2097,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194668,inactivated influenza vaccine
+135320,,,2098,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187993,2008-2009 trivalent influenza vaccine
+135321,,,2099,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194669,inactivated influenza vaccine
+135332,,,2100,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194670,inactivated influenza vaccine
+135335,,,2101,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194671,inactivated influenza vaccine
+135336,,,2102,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194672,inactivated influenza vaccine
+135337,,,2103,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194673,inactivated influenza vaccine
+135338,,,2104,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194674,inactivated influenza vaccine
+135339,,,2105,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194675,inactivated influenza vaccine
+135340,,,2106,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194676,inactivated influenza vaccine
+135341,,,2107,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194677,inactivated influenza vaccine
+135342,,,2108,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194678,inactivated influenza vaccine
+135343,,,2109,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187994,2008-2009 trivalent influenza vaccine
+135344,,,2110,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194679,inactivated influenza vaccine
+135345,,,2111,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194680,inactivated influenza vaccine
+135346,,,2112,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194681,inactivated influenza vaccine
+135347,,,2113,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194682,inactivated influenza vaccine
+135348,,,2114,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194683,inactivated influenza vaccine
+135349,,,2115,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194684,inactivated influenza vaccine
+135350,,,2116,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194685,inactivated influenza vaccine
+135351,,,2117,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194686,inactivated influenza vaccine
+135352,,,2118,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194687,inactivated influenza vaccine
+135353,,,2119,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194688,inactivated influenza vaccine
+135355,,,2120,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187995,2008-2009 trivalent influenza vaccine
+135356,,,2121,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194689,inactivated influenza vaccine
+135357,,,2122,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194690,inactivated influenza vaccine
+135358,,,2123,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194691,inactivated influenza vaccine
+135359,,,2124,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194692,inactivated influenza vaccine
+135360,,,2125,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194693,inactivated influenza vaccine
+135361,,,2126,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194694,inactivated influenza vaccine
+135362,,,2127,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194695,inactivated influenza vaccine
+135363,,,2128,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194696,inactivated influenza vaccine
+135364,,,2129,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194697,inactivated influenza vaccine
+135365,,,2130,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194698,inactivated influenza vaccine
+135366,,,2131,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187996,2008-2009 trivalent influenza vaccine
+135367,,,2132,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194699,inactivated influenza vaccine
+135377,,,2133,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194700,inactivated influenza vaccine
+135388,,,2134,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194701,inactivated influenza vaccine
+135399,,,2135,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194702,inactivated influenza vaccine
+135410,,,2136,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194703,inactivated influenza vaccine
+135421,,,2137,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194704,inactivated influenza vaccine
+135432,,,2138,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194705,inactivated influenza vaccine
+135443,,,2139,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194706,inactivated influenza vaccine
+135454,,,2140,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194707,inactivated influenza vaccine
+135465,,,2141,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194708,inactivated influenza vaccine
+135476,,,2142,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187997,2008-2009 trivalent influenza vaccine
+135477,,,2143,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194709,inactivated influenza vaccine
+135488,,,2144,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194710,inactivated influenza vaccine
+135499,,,2145,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194711,inactivated influenza vaccine
+135510,,,2146,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194712,inactivated influenza vaccine
+135521,,,2147,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194713,inactivated influenza vaccine
+135532,,,2148,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194714,inactivated influenza vaccine
+135543,,,2149,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194715,inactivated influenza vaccine
+135554,,,2150,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194716,inactivated influenza vaccine
+135565,,,2151,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194717,inactivated influenza vaccine
+135576,,,2152,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194718,inactivated influenza vaccine
+135587,,,2153,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187998,2008-2009 trivalent influenza vaccine
+135588,,,2154,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194719,inactivated influenza vaccine
+135589,,,2155,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194720,inactivated influenza vaccine
+135590,,,2156,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194721,inactivated influenza vaccine
+135591,,,2157,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194722,inactivated influenza vaccine
+135592,,,2158,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194723,inactivated influenza vaccine
+135593,,,2159,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194724,inactivated influenza vaccine
+135594,,,2160,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194725,inactivated influenza vaccine
+135595,,,2161,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194726,inactivated influenza vaccine
+135596,,,2162,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194727,inactivated influenza vaccine
+135597,,,2163,,VO_0000642,,,,,,,,,,,ImmPort,,SUB194728,inactivated influenza vaccine
+135602,,,2164,,VO_0000642,,,,,,,,,,,ImmPort,,SUB187999,2008-2009 trivalent influenza vaccine
+135710,,,2165,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188000,2008-2009 trivalent influenza vaccine
+135821,,,2166,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188001,2008-2009 trivalent influenza vaccine
+135899,,,2167,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179642,Fluzone
+135910,,,2168,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179643,Fluzone
+135921,,,2169,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179644,Fluzone
+135932,,,2170,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188002,2008-2009 trivalent influenza vaccine
+135933,,,2171,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179645,Fluzone
+135955,,,2172,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179647,Fluzone
+135966,,,2173,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179648,Fluzone
+135977,,,2174,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179649,Fluzone
+135988,,,2175,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179650,Fluzone
+135999,,,2176,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179651,Fluzone
+136009,,,2177,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179652,Fluzone
+136020,,,2178,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179653,Fluzone
+136031,,,2179,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179654,Fluzone
+136038,,,2180,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188003,2008-2009 trivalent influenza vaccine
+136039,,,2181,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179655,Fluzone
+136049,,,2182,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179656,Fluzone
+136060,,,2183,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179657,Fluzone
+136071,,,2184,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179658,Fluzone
+136082,,,2185,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179659,Fluzone
+136084,,,2186,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179660,Fluzone
+136085,,,2187,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179661,Fluzone
+136086,,,2188,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179662,Fluzone
+136088,,,2189,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179664,Fluzone
+136089,,,2190,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188004,2008-2009 trivalent influenza vaccine
+136090,,,2191,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179665,Fluzone
+136091,,,2192,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179666,Fluzone
+136092,,,2193,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179667,Fluzone
+136093,,,2194,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179668,Fluzone
+136094,,,2195,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179669,Fluzone
+136095,,,2196,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179670,Fluzone
+136096,,,2197,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179671,Fluzone
+136097,,,2198,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179672,Fluzone
+136098,,,2199,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179673,Fluzone
+136099,,,2200,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179674,Fluzone
+136100,,,2201,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186130,Radiated-attenuated P falciparum sporozoites (PfRAS)
+136101,,,2202,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188005,2008-2009 trivalent influenza vaccine
+136102,,,2203,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179675,Fluzone
+136103,,,2204,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179676,Fluzone
+136104,,,2205,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179677,Fluzone
+136105,,,2206,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179678,Fluzone
+136106,,,2207,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179679,Fluzone
+136107,,,2208,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179680,Fluzone
+136108,,,2209,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179681,Fluzone
+136109,,,2210,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179682,Fluzone
+136110,,,2211,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179683,Fluzone
+136111,,,2212,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179684,Fluzone
+136112,,,2213,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188006,2008-2009 trivalent influenza vaccine
+136113,,,2214,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179685,Fluzone
+136114,,,2215,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179686,Fluzone
+136115,,,2216,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179687,Fluzone
+136116,,,2217,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179688,Fluzone
+136117,,,2218,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179689,Fluzone
+136118,,,2219,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179690,Fluzone
+136119,,,2220,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179691,Fluzone
+136120,,,2221,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179692,Fluzone
+136121,,,2222,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179693,Fluzone
+136122,,,2223,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179694,Fluzone
+136123,,,2224,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188007,2008-2009 trivalent influenza vaccine
+136124,,,2225,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179695,Fluzone
+136125,,,2226,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179696,Fluzone
+136127,,,2227,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179698,Fluzone
+136128,,,2228,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179699,Fluzone
+136129,,,2229,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179700,Fluzone
+136130,,,2230,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179701,Fluzone
+136131,,,2231,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179702,Fluzone
+136132,,,2232,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179703,Fluzone
+136133,,,2233,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179704,Fluzone
+136134,,,2234,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188008,2008-2009 trivalent influenza vaccine
+136135,,,2235,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179705,Fluzone
+136136,,,2236,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179706,Fluzone
+136137,,,2237,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179707,Fluzone
+136139,,,2238,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179709,Fluzone
+136140,,,2239,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179710,Fluzone
+136141,,,2240,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179711,Fluzone
+136142,,,2241,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179712,Fluzone
+136143,,,2242,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179713,Fluzone
+136145,,,2243,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188009,2008-2009 trivalent influenza vaccine
+136146,,,2244,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179715,Fluzone
+136147,,,2245,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179716,Fluzone
+136148,,,2246,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179717,Fluzone
+136149,,,2247,,VO_0000642,,,,,,,,,,,ImmPort,,SUB179718,Fluzone
+136151,,,2248,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188010,2008-2009 trivalent influenza vaccine
+136152,,,2249,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188011,2008-2009 trivalent influenza vaccine
+136234,,,2250,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188012,2008-2009 trivalent influenza vaccine
+136342,,,2251,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188013,2008-2009 trivalent influenza vaccine
+136453,,,2252,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188014,2008-2009 trivalent influenza vaccine
+136565,,,2253,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188015,2008-2009 trivalent influenza vaccine
+136676,,,2254,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188016,2008-2009 trivalent influenza vaccine
+136787,,,2255,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188017,2008-2009 trivalent influenza vaccine
+136898,,,2256,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188018,2008-2009 trivalent influenza vaccine
+137004,,,2257,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188019,2008-2009 trivalent influenza vaccine
+137105,,,2258,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188020,2008-2009 trivalent influenza vaccine
+137206,,,2259,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188021,2008-2009 trivalent influenza vaccine
+137307,,,2260,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188022,2008-2009 trivalent influenza vaccine
+137408,,,2261,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188023,2008-2009 trivalent influenza vaccine
+137509,,,2262,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188024,2008-2009 trivalent influenza vaccine
+137513,,,2263,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186131,Radiated-attenuated P falciparum sporozoites (PfRAS)
+137514,,,2264,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188025,2008-2009 trivalent influenza vaccine
+137515,,,2265,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188026,2008-2009 trivalent influenza vaccine
+137516,,,2266,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188027,2008-2009 trivalent influenza vaccine
+137517,,,2267,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188028,2008-2009 trivalent influenza vaccine
+137518,,,2268,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188029,2008-2009 trivalent influenza vaccine
+137519,,,2269,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188030,2008-2009 trivalent influenza vaccine
+137520,,,2270,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188031,2008-2009 trivalent influenza vaccine
+137521,,,2271,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188032,2008-2009 trivalent influenza vaccine
+137565,,,2272,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188033,2008-2009 trivalent influenza vaccine
+137676,,,2273,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188034,2008-2009 trivalent influenza vaccine
+137752,,,2274,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188035,2008-2009 trivalent influenza vaccine
+137763,,,2275,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188036,2008-2009 trivalent influenza vaccine
+137765,,,2276,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188037,2008-2009 trivalent influenza vaccine
+137766,,,2277,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188038,2008-2009 trivalent influenza vaccine
+137767,,,2278,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188039,2008-2009 trivalent influenza vaccine
+137768,,,2279,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188040,2008-2009 trivalent influenza vaccine
+137769,,,2280,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188041,2008-2009 trivalent influenza vaccine
+137770,,,2281,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188042,2008-2009 trivalent influenza vaccine
+137771,,,2282,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188043,2008-2009 trivalent influenza vaccine
+137772,,,2283,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188044,2008-2009 trivalent influenza vaccine
+137773,,,2284,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186132,Radiated-attenuated P falciparum sporozoites (PfRAS)
+137774,,,2285,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188045,2008-2009 trivalent influenza vaccine
+137775,,,2286,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188046,2008-2009 trivalent influenza vaccine
+137776,,,2287,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188047,2008-2009 trivalent influenza vaccine
+137777,,,2288,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188048,2008-2009 trivalent influenza vaccine
+137778,,,2289,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188049,2008-2009 trivalent influenza vaccine
+137779,,,2290,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188050,2008-2009 trivalent influenza vaccine
+137780,,,2291,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188051,2008-2009 trivalent influenza vaccine
+137781,,,2292,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188052,2008-2009 trivalent influenza vaccine
+137782,,,2293,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188053,2008-2009 trivalent influenza vaccine
+137783,,,2294,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188054,2008-2009 trivalent influenza vaccine
+137785,,,2295,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188055,2008-2009 trivalent influenza vaccine
+137786,,,2296,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188056,2008-2009 trivalent influenza vaccine
+137787,,,2297,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188057,2008-2009 trivalent influenza vaccine
+137788,,,2298,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188058,2008-2009 trivalent influenza vaccine
+137789,,,2299,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188059,2008-2009 trivalent influenza vaccine
+137790,,,2300,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188060,2008-2009 trivalent influenza vaccine
+137791,,,2301,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188061,2008-2009 trivalent influenza vaccine
+137792,,,2302,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188062,2008-2009 trivalent influenza vaccine
+137793,,,2303,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188063,2008-2009 trivalent influenza vaccine
+137794,,,2304,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188064,2008-2009 trivalent influenza vaccine
+137796,,,2305,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188065,2008-2009 trivalent influenza vaccine
+137797,,,2306,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188066,2008-2009 trivalent influenza vaccine
+137798,,,2307,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188067,2008-2009 trivalent influenza vaccine
+137799,,,2308,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188068,2008-2009 trivalent influenza vaccine
+137800,,,2309,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188069,2008-2009 trivalent influenza vaccine
+137801,,,2310,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188070,2008-2009 trivalent influenza vaccine
+137802,,,2311,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188071,2008-2009 trivalent influenza vaccine
+137803,,,2312,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188072,2008-2009 trivalent influenza vaccine
+137804,,,2313,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188073,2008-2009 trivalent influenza vaccine
+137805,,,2314,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188074,2008-2009 trivalent influenza vaccine
+137807,,,2315,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188075,2008-2009 trivalent influenza vaccine
+137808,,,2316,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188076,2008-2009 trivalent influenza vaccine
+137809,,,2317,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188077,2008-2009 trivalent influenza vaccine
+137906,,,2318,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188078,2008-2009 trivalent influenza vaccine
+138007,,,2319,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188079,2008-2009 trivalent influenza vaccine
+138079,,,2320,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188080,2008-2009 trivalent influenza vaccine
+138133,,,2321,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188081,2008-2009 trivalent influenza vaccine
+138244,,,2322,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188082,2008-2009 trivalent influenza vaccine
+138355,,,2323,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188083,2008-2009 trivalent influenza vaccine
+138466,,,2324,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188084,2008-2009 trivalent influenza vaccine
+138486,,,2325,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186134,Radiated-attenuated P falciparum sporozoites (PfRAS)
+138487,,,2326,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188085,2008-2009 trivalent influenza vaccine
+138512,,,2327,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188086,2008-2009 trivalent influenza vaccine
+138557,,,2328,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188087,2008-2009 trivalent influenza vaccine
+138563,,,2329,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188088,2008-2009 trivalent influenza vaccine
+138564,,,2330,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188089,2008-2009 trivalent influenza vaccine
+138565,,,2331,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188090,2008-2009 trivalent influenza vaccine
+138614,,,2332,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188091,2008-2009 trivalent influenza vaccine
+138695,,,2333,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188092,2008-2009 trivalent influenza vaccine
+138696,,,2334,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188093,2008-2009 trivalent influenza vaccine
+138697,,,2335,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188094,2008-2009 trivalent influenza vaccine
+138699,,,2336,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188095,2008-2009 trivalent influenza vaccine
+138700,,,2337,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188096,2008-2009 trivalent influenza vaccine
+138701,,,2338,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188097,2008-2009 trivalent influenza vaccine
+138702,,,2339,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188098,2008-2009 trivalent influenza vaccine
+138703,,,2340,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188099,2008-2009 trivalent influenza vaccine
+138704,,,2341,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188100,2008-2009 trivalent influenza vaccine
+138705,,,2342,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188101,2008-2009 trivalent influenza vaccine
+138711,,,2343,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188102,2008-2009 trivalent influenza vaccine
+138722,,,2344,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188103,2008-2009 trivalent influenza vaccine
+138733,,,2345,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188104,2008-2009 trivalent influenza vaccine
+138745,,,2346,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188105,2008-2009 trivalent influenza vaccine
+138756,,,2347,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188106,2008-2009 trivalent influenza vaccine
+138767,,,2348,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188107,2008-2009 trivalent influenza vaccine
+138778,,,2349,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188108,2008-2009 trivalent influenza vaccine
+138789,,,2350,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188109,2008-2009 trivalent influenza vaccine
+138800,,,2351,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188110,2008-2009 trivalent influenza vaccine
+138811,,,2352,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188111,2008-2009 trivalent influenza vaccine
+138822,,,2353,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188112,2008-2009 trivalent influenza vaccine
+138833,,,2354,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188113,2008-2009 trivalent influenza vaccine
+138844,,,2355,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188114,2008-2009 trivalent influenza vaccine
+138856,,,2356,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188115,2008-2009 trivalent influenza vaccine
+138867,,,2357,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188116,2008-2009 trivalent influenza vaccine
+138878,,,2358,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188117,2008-2009 trivalent influenza vaccine
+138889,,,2359,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188118,2008-2009 trivalent influenza vaccine
+138900,,,2360,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188119,2008-2009 trivalent influenza vaccine
+138911,,,2361,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188120,2008-2009 trivalent influenza vaccine
+138922,,,2362,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188121,2008-2009 trivalent influenza vaccine
+138933,,,2363,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188122,2008-2009 trivalent influenza vaccine
+138941,,,2364,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188123,2008-2009 trivalent influenza vaccine
+138942,,,2365,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188124,2008-2009 trivalent influenza vaccine
+138943,,,2366,,VO_0000642,,,,,,,,,,,ImmPort,,SUB186136,Radiated-attenuated P falciparum sporozoites (PfRAS)
+138944,,,2367,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188125,2008-2009 trivalent influenza vaccine
+138945,,,2368,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188126,2008-2009 trivalent influenza vaccine
+138946,,,2369,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188127,2008-2009 trivalent influenza vaccine
+138947,,,2370,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188128,2008-2009 trivalent influenza vaccine
+138948,,,2371,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188129,2008-2009 trivalent influenza vaccine
+138949,,,2372,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188130,2008-2009 trivalent influenza vaccine
+138950,,,2373,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188131,2008-2009 trivalent influenza vaccine
+138951,,,2374,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188132,2008-2009 trivalent influenza vaccine
+138952,,,2375,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188133,2008-2009 trivalent influenza vaccine
+138980,,,2376,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198335,A/California/7/2009
+138981,,,2377,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198336,A/California/7/2009
+138982,,,2378,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198337,A/California/7/2009
+138983,,,2379,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198338,A/California/7/2009
+138984,,,2380,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198339,A/California/7/2009
+138985,,,2381,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198340,A/California/7/2009
+138986,,,2382,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198341,A/California/7/2009
+138987,,,2383,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198342,A/California/7/2009
+138988,,,2384,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198343,A/California/7/2009
+138989,,,2385,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198344,A/California/7/2009
+138990,,,2386,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198345,A/California/7/2009
+138991,,,2387,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198346,A/California/7/2009
+138992,,,2388,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198347,A/California/7/2009
+138993,,,2389,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198348,A/California/7/2009
+138994,,,2390,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198349,A/California/7/2009
+138995,,,2391,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198350,A/California/7/2009
+138996,,,2392,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198351,A/California/7/2009
+138997,,,2393,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198352,A/California/7/2009
+138998,,,2394,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198353,A/California/7/2009
+138999,,,2395,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198354,A/California/7/2009
+139000,,,2396,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198355,A/California/7/2009
+139001,,,2397,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198356,A/California/7/2009
+139002,,,2398,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198357,A/California/7/2009
+139003,,,2399,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198358,A/California/7/2009
+139004,,,2400,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198359,A/California/7/2009
+139005,,,2401,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198360,A/California/7/2009
+139006,,,2402,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198361,A/California/7/2009
+139007,,,2403,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198362,A/California/7/2009
+139008,,,2404,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198363,A/California/7/2009
+139009,,,2405,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198364,A/California/7/2009
+139010,,,2406,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198365,A/California/7/2009
+139011,,,2407,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198366,A/California/7/2009
+139012,,,2408,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198367,A/California/7/2009
+139013,,,2409,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198368,A/California/7/2009
+139014,,,2410,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198369,A/California/7/2009
+139015,,,2411,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198370,A/California/7/2009
+139016,,,2412,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198371,A/California/7/2009
+139017,,,2413,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198372,A/California/7/2009
+139018,,,2414,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198373,A/California/7/2009
+139019,,,2415,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198374,A/California/7/2009
+139020,,,2416,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198375,A/California/7/2009
+139021,,,2417,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198376,A/California/7/2009
+139022,,,2418,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198377,A/California/7/2009
+139023,,,2419,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198378,A/California/7/2009
+139024,,,2420,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198379,A/California/7/2009
+139025,,,2421,,VO_0000642,,,,,,,,,,,ImmPort,,SUB198380,A/California/7/2009
+139100,,,2422,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188438,Stamaril
+139111,,,2423,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188439,Stamaril
+139122,,,2424,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188440,Stamaril
+139133,,,2425,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188441,Stamaril
+139144,,,2426,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188442,Stamaril
+139155,,,2427,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188443,Stamaril
+139167,,,2428,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188444,Stamaril
+139178,,,2429,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188445,Stamaril
+139186,,,2430,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188446,Stamaril
+139187,,,2431,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188447,Stamaril
+139188,,,2432,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188448,Stamaril
+139189,,,2433,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188449,Stamaril
+139190,,,2434,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188450,Stamaril
+139191,,,2435,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188451,Stamaril
+139192,,,2436,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188452,Stamaril
+139193,,,2437,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188453,Stamaril
+139195,,,2438,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188454,Stamaril
+139196,,,2439,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188455,Stamaril
+139197,,,2440,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188456,Stamaril
+139203,,,2441,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188457,Stamaril
+139214,,,2442,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188458,Stamaril
+139225,,,2443,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188636,Stamaril
+139236,,,2444,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188637,Stamaril
+139247,,,2445,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188638,Stamaril
+139258,,,2446,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188639,Stamaril
+139269,,,2447,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188640,Stamaril
+139281,,,2448,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188641,Stamaril
+139292,,,2449,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188642,Stamaril
+139303,,,2450,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188643,Stamaril
+139314,,,2451,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188644,Stamaril
+139325,,,2452,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188645,Stamaril
+139336,,,2453,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188646,Stamaril
+139347,,,2454,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188647,Stamaril
+139358,,,2455,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188648,Stamaril
+139369,,,2456,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188649,Stamaril
+139380,,,2457,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188650,Stamaril
+139392,,,2458,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188651,Stamaril
+139403,,,2459,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188652,Stamaril
+139414,,,2460,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188653,Stamaril
+139425,,,2461,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188654,Stamaril
+139436,,,2462,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188655,Stamaril
+139447,,,2463,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188656,Stamaril
+139458,,,2464,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188657,Stamaril
+139469,,,2465,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188658,Stamaril
+139490,,,2466,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188660,Stamaril
+139579,,,2467,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188680,MRKAd5 HIV-1 gag/pol/nef
+139590,,,2468,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188681,MRKAd5 HIV-1 gag/pol/nef
+139601,,,2469,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188682,MRKAd5 HIV-1 gag/pol/nef
+139613,,,2470,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188683,MRKAd5 HIV-1 gag/pol/nef
+139624,,,2471,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188684,MRKAd5 HIV-1 gag/pol/nef
+139635,,,2472,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188685,MRKAd5 HIV-1 gag/pol/nef
+139646,,,2473,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188686,MRKAd5 HIV-1 gag/pol/nef
+139657,,,2474,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188687,MRKAd5 HIV-1 gag/pol/nef
+139668,,,2475,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188688,MRKAd5 HIV-1 gag/pol/nef
+139679,,,2476,,VO_0000642,,,,,,,,,,,ImmPort,,SUB188689,MRKAd5 HIV-1 gag/pol/nef
+141623,,,2477,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276552,Pfizer BioNTech COVID-19 vaccine
+141625,,,2478,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276553,Pfizer BioNTech COVID-19 vaccine
+141631,,,2479,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276559,Pfizer BioNTech COVID-19 vaccine
+141633,,,2480,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276561,Pfizer BioNTech COVID-19 vaccine
+141636,,,2481,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276563,Pfizer BioNTech COVID-19 vaccine
+141637,,,2482,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276564,Pfizer BioNTech COVID-19 vaccine
+141638,,,2483,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276565,Pfizer BioNTech COVID-19 vaccine
+141643,,,2484,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276570,Pfizer BioNTech COVID-19 vaccine
+141645,,,2485,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276572,Pfizer BioNTech COVID-19 vaccine
+141652,,,2486,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276578,Pfizer BioNTech COVID-19 vaccine
+141653,,,2487,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276579,Pfizer BioNTech COVID-19 vaccine
+141655,,,2488,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276581,Pfizer BioNTech COVID-19 vaccine
+141656,,,2489,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276582,Pfizer BioNTech COVID-19 vaccine
+141660,,,2490,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276585,Pfizer BioNTech COVID-19 vaccine
+141662,,,2491,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276587,Pfizer BioNTech COVID-19 vaccine
+141664,,,2492,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276589,Pfizer BioNTech COVID-19 vaccine
+141666,,,2493,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276591,Pfizer BioNTech COVID-19 vaccine
+141669,,,2494,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276593,Pfizer BioNTech COVID-19 vaccine
+141670,,,2495,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276594,Pfizer BioNTech COVID-19 vaccine
+141671,,,2496,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276595,Pfizer BioNTech COVID-19 vaccine
+141672,,,2497,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276596,Pfizer BioNTech COVID-19 vaccine
+141673,,,2498,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276597,Pfizer BioNTech COVID-19 vaccine
+141674,,,2499,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276598,Pfizer BioNTech COVID-19 vaccine
+141675,,,2500,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276599,Pfizer BioNTech COVID-19 vaccine
+141676,,,2501,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276600,Pfizer BioNTech COVID-19 vaccine
+141677,,,2502,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276601,Pfizer BioNTech COVID-19 vaccine
+141678,,,2503,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276602,Pfizer BioNTech COVID-19 vaccine
+141680,,,2504,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276603,Pfizer BioNTech COVID-19 vaccine
+141681,,,2505,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276604,Pfizer BioNTech COVID-19 vaccine
+141682,,,2506,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276605,Pfizer BioNTech COVID-19 vaccine
+141683,,,2507,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276606,Pfizer BioNTech COVID-19 vaccine
+141684,,,2508,,VO_0000642,,,,,,,,,,,ImmPort,,SUB276607,Pfizer BioNTech COVID-19 vaccine
