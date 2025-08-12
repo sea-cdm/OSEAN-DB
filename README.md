@@ -16,7 +16,7 @@ ETL: An Export-Transform-Loard pipeline are found within each use case for gener
 
 ## PELAGIC 
 
-PELAGIC is a module that queries a local OSEAN DB for results. There are two variations of PELAGIC, the Pure SQL command to convert into a file, and the ????? uses a template as discussed in the SEA CDM paper.
+PELAGIC is a module that queries a local OSEAN DB for results. There are two variations of PELAGIC, the Pure SQL was used by the paper to generate the file; whiel PELAGIC is used a template to input code into a function.
 
 
 ## Use cases  
