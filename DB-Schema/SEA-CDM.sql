@@ -5,16 +5,16 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
 
 -- -----------------------------------------------------
--- Schema seacdm
+-- Schema osean
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `seacdm` DEFAULT CHARACTER SET utf8mb3 ;
+CREATE SCHEMA IF NOT EXISTS `osean` DEFAULT CHARACTER SET utf8mb3 ;
 SHOW WARNINGS;
-USE `seacdm` ;
+USE `osean` ;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`analysis`
+-- Table `osean`.`analysis`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`analysis` (
+CREATE TABLE IF NOT EXISTS `osean`.`analysis` (
   `analysis_id` INT NULL DEFAULT NULL,
   `documentation_id` INT NULL DEFAULT NULL,
   `group_id` TEXT NULL DEFAULT NULL,
@@ -38,9 +38,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`documentation`
+-- Table `osean`.`documentation`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`documentation` (
+CREATE TABLE IF NOT EXISTS `osean`.`documentation` (
   `documentation_id` INT NULL DEFAULT NULL,
   `study_id` INT NULL DEFAULT NULL,
   `document_name` TEXT NULL DEFAULT NULL,
@@ -65,9 +65,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`experiment`
+-- Table `osean`.`experiment`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`experiment` (
+CREATE TABLE IF NOT EXISTS `osean`.`experiment` (
   `experiment_id` INT NULL DEFAULT NULL,
   `study_id` INT NULL DEFAULT NULL,
   `experiment_type` TEXT NULL DEFAULT NULL,
@@ -83,9 +83,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`group`
+-- Table `osean`.`group`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`group` (
+CREATE TABLE IF NOT EXISTS `osean`.`group` (
   `group_id` INT NULL DEFAULT NULL,
   `experiment_id` INT NULL DEFAULT NULL,
   `group_type` TEXT NULL DEFAULT NULL,
@@ -101,9 +101,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`ignoretable`
+-- Table `osean`.`ignoretable`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`ignoretable` (
+CREATE TABLE IF NOT EXISTS `osean`.`ignoretable` (
   `idIgnoreTable` INT NOT NULL,
   PRIMARY KEY (`idIgnoreTable`))
 ENGINE = InnoDB
@@ -112,9 +112,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`intervention`
+-- Table `osean`.`intervention`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`intervention` (
+CREATE TABLE IF NOT EXISTS `osean`.`intervention` (
   `intervention_id` INT NULL DEFAULT NULL,
   `experiment_id` INT NULL DEFAULT NULL,
   `organism_id` INT NULL DEFAULT NULL,
@@ -141,9 +141,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`material`
+-- Table `osean`.`material`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`material` (
+CREATE TABLE IF NOT EXISTS `osean`.`material` (
   `material_id` INT NULL DEFAULT NULL,
   `material_name` TEXT NULL DEFAULT NULL,
   `material_name_id` TEXT NULL DEFAULT NULL,
@@ -158,9 +158,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`organism`
+-- Table `osean`.`organism`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`organism` (
+CREATE TABLE IF NOT EXISTS `osean`.`organism` (
   `organism_id` INT NULL DEFAULT NULL,
   `group_id` TEXT NULL DEFAULT NULL,
   `experiment_id` INT NULL DEFAULT NULL,
@@ -182,9 +182,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`results`
+-- Table `osean`.`results`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`results` (
+CREATE TABLE IF NOT EXISTS `osean`.`results` (
   `results_id` INT NULL DEFAULT NULL,
   `experiment_id` INT NULL DEFAULT NULL,
   `group_id` TEXT NULL DEFAULT NULL,
@@ -208,9 +208,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`sample`
+-- Table `osean`.`sample`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`sample` (
+CREATE TABLE IF NOT EXISTS `osean`.`sample` (
   `sample_id` INT NULL DEFAULT NULL,
   `group_id` TEXT NULL DEFAULT NULL,
   `organism_id` INT NULL DEFAULT NULL,
@@ -236,9 +236,9 @@ DEFAULT CHARACTER SET = utf8mb3;
 SHOW WARNINGS;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`study`
+-- Table `osean`.`study`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`study` (
+CREATE TABLE IF NOT EXISTS `osean`.`study` (
   `study_id` INT NULL DEFAULT NULL,
   `study_type` TEXT NULL DEFAULT NULL,
   `study_type_id` TEXT NULL DEFAULT NULL,
@@ -255,9 +255,9 @@ SHOW WARNINGS;
 
 
 -- -----------------------------------------------------
--- Table `seacdm`.`users`
+-- Table `osean`.`users`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`users` (
+CREATE TABLE IF NOT EXISTS `osean`.`users` (
   `idUsers` INT NOT NULL AUTO_INCREMENT,
   `User Name` VARCHAR(45) NULL DEFAULT NULL,
   `User Password` VARCHAR(45) NULL DEFAULT NULL,
@@ -269,9 +269,9 @@ AUTO_INCREMENT = 2
 DEFAULT CHARACTER SET = utf8mb3;
 
 -- -----------------------------------------------------
--- Table `seacdm`.`occurence`
+-- Table `osean`.`occurence`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `seacdm`.`users` (
+CREATE TABLE IF NOT EXISTS `osean`.`users` (
   `occurence_id` INT NULL DEFAULT NULL,
   `organism_id` INT NULL DEFAULT NULL,
   `occurence_name_id` VARCHAR(45) NULL DEFAULT NULL,
