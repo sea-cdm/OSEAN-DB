@@ -1,11 +1,10 @@
 # PELAGIC Module 
 
-The PELAGIC Module is a software module designed for OSEAN DB.
+The PELAGIC Module is a software module designed for querying OSEAN DB and processing data.
 
 This module includes: 
-A python wrapper Pure_SPARQL was used by the paper to generate the Supplemental File 1; 
-A PELAGIC library for functions and to be used as template to input code to query OSEAN DB.
-
+- A Python wrapper Pure_SPARQL was used by the paper to generate the Supplemental File 1; 
+- A PELAGIC library of functions that can be used as template to input code to query OSEAN DB.
 
 
 Links to use case specific PELAGIC methods:
