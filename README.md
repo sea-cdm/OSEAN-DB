@@ -19,14 +19,7 @@ The Extract-Transform-Load (ETL) pipelines are found within each use case for ge
 
 PELAGIC is a Python Engine for Linking, Analyzing, and Gleaning Insightful Context from the SEA CDM-based OSEAN databases. 
 
-PELAGIC is a module in the SEA CDM system that performs queries and analyses on a specific OSEAN DB. 
-
-The 
-
-There are two types of PELAGIC programs: 
-- Direct SQL scripts that can be used to directly query a specific OSAEN DB. 
-- while PELAGIC is used a template to input code into a function.
-
+PELAGIC is a module in the SEA CDM system that performs queries and analyses on a specific OSEAN DB. This module contains a Python SQL wrapper that implements specific SQL scripts for querying specific OSAEN DB and a Python PELAGIC program that includes a library of functions that can be used to process specific data. 
 
 ## Use cases  
 
@@ -34,9 +27,8 @@ Three use cases are provided with appropriate ETLs:
 - OSEAN VIGET DB: This contains the appropriate ETL for VIGET DB and the actual metadata and gene expression file used. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
 - OSEAN ImmPort DB: This contains the appropriate ETL. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
 - OSEAN CellxGene DB: This contains the appropriate ETL. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
+
   
-
-
 ### Tracker link:  
 https://github.com/sea-cdm/OSEAN-DB/issues 
 
