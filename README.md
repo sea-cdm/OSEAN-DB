@@ -23,10 +23,18 @@ PELAGIC is a module in the SEA CDM system that performs queries and analyses on 
 
 ## Use cases  
 
-Three use cases are provided with appropriate ETLs:
-- OSEAN VIGET DB: This contains the appropriate ETL for VIGET DB and the actual metadata and gene expression file used. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
-- OSEAN ImmPort DB: This contains the appropriate ETL. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
-- OSEAN CellxGene DB: This contains the appropriate ETL. The readme contains the link for all files used for this use case as part of the SEA CDM paper.
+Three use cases are provided:
+- OSEAN VIGET DB: An OSEAN DB that contains data from the VIGET (Vaccine-induced gene expression analysis tool) system:
+  - Data downloaded: ... 
+  - VIGET paper ref: ... 
+  - VIGET website: ...
+
+- OSEAN ImmPort DB: An OSEAN DB that contains ImmPort data:
+  - ImmPort data:
+  - ImmPort website:
+       
+- OSEAN CellxGene DB: An OSEAN DB that contains a part of CellxGene data. As a demonstration, only influenza-related data are included.
+  -  Data source: ... 
 
   
 ### Tracker link:  
