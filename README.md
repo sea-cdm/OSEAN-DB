@@ -9,16 +9,23 @@ This directory includes three examples of OSEAN databases.
 
 ## Database Schema
 
-Database Schema: Contains the schema for OSEAN-DB as a .sql file. 
-
+The SEA-CDM.sql file under the directory DB-Schema provides the database schema for generating an OSEAN database using MySQL.
 
 ## ETLs
 
-ETL: An Export-Transform-Loard pipeline are found within each use case for generic models. Certain studies or tables with author or table-specific metadat columns have to be changed.
+The Extract-Transform-Load (ETL) pipelines are found within each use case for generic models. Users may update specific ETL programs depending on specific studies or use cases. 
 
 ## PELAGIC 
 
-PELAGIC is a module that queries a local OSEAN DB for results. There are two variations of PELAGIC, the Pure SQL was used by the paper to generate the file; whiel PELAGIC is used a template to input code into a function.
+PELAGIC is a Python Engine for Linking, Analyzing, and Gleaning Insightful Context from the SEA CDM-based OSEAN databases. 
+
+PELAGIC is a module in the SEA CDM system that performs queries and analyses on a specific OSEAN DB. 
+
+The 
+
+There are two types of PELAGIC programs: 
+- Direct SQL scripts that can be used to directly query a specific OSAEN DB. 
+- while PELAGIC is used a template to input code into a function.
 
 
 ## Use cases  
