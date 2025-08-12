@@ -1,0 +1,13 @@
+assay_id,assay_name,documentation_id,assay_type,assay_type_id,organism,reagents,platform,comments
+1,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL13158,VO
+2,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL10558,VO
+3,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL6104,VO
+4,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL6883,VO
+5,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL571,VO
+6,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL570,VO
+7,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL6947,VO
+8,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL21975,VO
+9,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL7567,VO
+10,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL10647,VO
+11,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL3921,VO
+12,Blood.RNA-Microarray,1,Experimental Assay,ECO_0000097,True,mRNA,GPL6244,VO

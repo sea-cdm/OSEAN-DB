@@ -51,25 +51,59 @@ def read_VIGET(VIGET):
 
 # List of appropriate table names
 conn = pymysql.connect(host='localhost', user='root', password='Magicka3', database='seacdm')
-vaccine = 'Fluzone'
-sex = 'Female' # 'Female' 
-time1 = 0
-time2 = 7.
+vaccine = 'Fluvirin'
+# trivalent  vaccine_ids = ("'VO_0000642'", "'VO_004809'", "'VO_0004810'")  # Wrap in quotes for SQL
+
+sex = 'All' # 'Female' 
+time1 = 7.
+time2 = 0.
+
+#Timepoint 30 is cursed yo
 #Male, or *
 cur = conn.cursor()
 #Query for compound vo_ids
 #query = f"SELECT expsample_reference_name, organism_id, collection_time, expsample_type FROM seacdm.sample WHERE organism_id IN ( SELECT organism_id FROM seacdm.organism WHERE sex = '{sex}') AND organism_id IN (SELECT organism_id FROM seacdm.intervention WHERE  intervention_type = 'vaccination' AND (material  = 'FluMist') or (material = 'live attenuated influenza vaccine') and T0_definition = 'Time of initial vaccine administration')) AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
 #Query for singleton sex
-query = f"SELECT expsample_reference_name, organism_id, collection_time, expsample_type FROM seacdm.sample WHERE organism_id IN ( SELECT organism_id FROM seacdm.organism WHERE sex = '{sex}') AND organism_id IN (SELECT organism_id FROM seacdm.intervention WHERE  intervention_type = 'vaccination' AND (material  = '{vaccine}')) AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
+#query = f"SELECT expsample_reference_name, organism_id, collection_time, expsample_type, expsample_type FROM seacdm.sample WHERE organism_id IN ( SELECT organism_id FROM seacdm.organism WHERE sex = '{sex}') AND organism_id IN (SELECT organism_id FROM seacdm.intervention WHERE  intervention_type = 'vaccination' AND (material  = '{vaccine}')) AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
 
 #Query for all all
 #query =  f"SELECT expsample_reference_name, organism_id, collection_time, expsample_type FROM seacdm.sample WHERE organism_id IN (SELECT organism_id FROM seacdm.intervention WHERE  intervention_type = 'vaccination' AND (material  = '{vaccine}') and T0_definition = 'Time of initial vaccine administration')) AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
+
+#query = f"SELECT expsample_reference_name, organism_id, collection_time, expsample_type FROM seacdm.sample WHERE  organism_id IN (SELECT intervention_id FROM seacdm.intervention  WHERE  intervention_type = 'vaccination' AND material_id = {vaccine_id}' AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
+
+# Flumist defined using VO_0000044 and VO_0000642
+# 
+#     'VO_0000044', 'VO_0000045', 'VO_0000046', 'VO_0000047', 'VO_0000642', 'VO_0001178', 'VO_004809', 'VO_0004810'
+vaccine_ids = ('VO_0000046', 'VO_0000046')
+vaccine_ids_sql = ",".join(f"'{v}'" for v in vaccine_ids)
+sex_ids = ('Female', 'Male')
+sex_ids_sql = ",".join(f"'{s}'" for s in sex_ids)
+
+query = f"""
+SELECT DISTINCT 
+    s.expsample_reference_name, 
+    s.organism_id, 
+    s.collection_time, 
+    s.expsample_type, 
+    g.reference_id
+FROM seacdm.sample s
+JOIN seacdm.organism o ON s.organism_id = o.organism_id
+JOIN seacdm.intervention i ON s.organism_id = i.organism_id
+JOIN seacdm.results r ON s.sample_id = r.sample_id
+JOIN seacdm.experiment e ON o.experiment_id = e.experiment_id
+JOIN seacdm.group g ON g.experiment_id = e.experiment_id
+WHERE
+    o.sex IN ({sex_ids_sql}) AND
+    i.intervention_type = 'vaccination' AND
+    i.material_id IN ({vaccine_ids_sql}) AND
+    r.original_assay_type = 'Blood.RNA Expression Assay';
+"""
 
 
 #query = f"SELECT expsample_reference_name, organism_id, collection_time FROM seacdm.sample  WHERE organism_id IN ( SELECT organism_id FROM seacdm.organism WHERE sex = 'Female') AND organism_id IN (SELECT organism_id FROM seacdm.intervention  WHERE  intervention_type = 'vaccination' AND (material  = 'Fluvirin')) AND sample_id IN ( SELECT sample_id FROM seacdm.results WHERE original_assay_type = 'Blood.RNA Expression Assay');"
 cur.execute(query)
 output = cur.fetchall()
-df_output = pd.DataFrame(output, columns = ['expsample_reference_name', 'organism_id', 'collection_time', 'expsample_type'])
+df_output = pd.DataFrame(output, columns = ['expsample_reference_name', 'organism_id', 'collection_time', 'expsample_type', 'group_id'])
 
 cur.close()
 conn.close()
@@ -87,7 +121,15 @@ GEXP = read_VIGET(gene_exp)
 
 test_master = df_output[(df_output['collection_time'] == time1) | (df_output['collection_time'] == time2)].sort_values(by=['organism_id', 'expsample_reference_name', 'collection_time'])
 counts = test_master['organism_id'].value_counts()
-test_master = test_master[test_master['organism_id'].isin(counts[counts == 2].index)]
+test_master = test_master[test_master['organism_id'].isin(counts[counts >= 2].index)]
+# GSE29619
+# GSE74817
+# ORGO 3546, 3550
+counts = test_master['organism_id'].value_counts()
+test_master = test_master[test_master['organism_id'].isin(counts[counts == 2].index)].sort_values(by=['organism_id', 'collection_time'])
+
+# for all studies:
+test_master = test_master[np.logical_not(test_master['group_id'].isin(['SDY180 GSE30101_2','SDY270 GSE74817', 'SDY269 GSE29619']))]
 test_filtered  = test_master['expsample_reference_name']
 
 #test_master = test_master[test_master['sex'] == 'Female']
@@ -125,7 +167,7 @@ for cn in example_gene_expression.iloc[:, test_master.columns.shape[0]:-1]:
     if len(log_list) >= 3: 
         mean_log = sum(log_list) / len(log_list)
     #make results positive
-        if (log_diff > 1):
+        if (log_diff >= 1):
             export.loc[len(export)] = [cn, 2**log_diff, log_diff]
         else:
             0
@@ -138,3 +180,25 @@ try:
 except:
     print("empty dataframe silly goose")
 
+query = f"""
+SELECT 
+    s.expsample_reference_name, 
+    s.organism_id, 
+    s.collection_time, 
+    s.expsample_reference_id,
+    s.experiment_id
+FROM seacdm.sample s
+WHERE s.organism_id IN (
+    SELECT i.organism_id
+    FROM seacdm.intervention i
+    WHERE i.intervention_type = 'vaccination'
+    AND i.material_id IN ({vaccine_ids_sql})
+    AND i.T0_definition = 'Time of initial vaccine administration'
+)
+AND s.sample_id IN (
+    SELECT r.sample_id 
+    FROM seacdm.results r 
+    WHERE r.original_assay_type = 'Blood.RNA Expression Assay'
+)
+;
+"""

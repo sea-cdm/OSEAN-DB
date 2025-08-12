@@ -47,7 +47,7 @@ def big_osean():
     #Studyid must a valid index id.
     try:
         #test_s = STUDY[STUDY['study_id']==studyid]
-        test_s = STUDY[STUDY['study_id']]
+        test_s = STUDY
         try:
             test_e = EXPER[EXPER['study_id'].isin(test_s['study_id'])]
             try:
@@ -329,6 +329,10 @@ GROUP = filtered[10]
 ALYS = filtered[11]
 MAT = filtered[12]
 
+cur.close()
+conn.close()
+
+
 #does the code work now if I run tis function?
 
 
@@ -447,7 +451,7 @@ logic_gate = 'Menactra'
 
 
 # Now get study_ids from EXPER matching those experiment_ids
-study_id = EXPER[EXPER['experiment_id'].isin(relevant_exp_ids)]['study_id']
+#study_id = EXPER[EXPER['experiment_id'].isin(relevant_exp_ids)]['study_id']
 
 
 study_id = EXPER[EXPER['experiment_id'].isin(INTER[INTER['material'] == 'Fluzone'])]['experiment_id']
@@ -466,8 +470,7 @@ export_criteria = ['sample_id', 'organism_id', 'sex', 'intervention_type', 'mate
 #export = pd.concat([export, gexp_ratio.to_frame().T])
 
 #Code that sorts between different locations for dataset.
-time1 = 0
-time2 = 14
+
 
 study_id = [299]
 
@@ -477,22 +480,87 @@ try:
     jason = consolidate_osean(study_id)
 except:
     jason = consolidate_osean([study_id])
-test = jason[(jason['collection_time'] == time1) | (jason['collection_time'] == time2)].sort_values(by=['organism_id','collection_time'])
+
+
+'''array(['Zostavax', 'Fluzone', 'Influenza virus vaccine',
+       'Trivalent inactivated influenza',
+       'Yellow fever 17D vaccine vector', 'Plasmodium falciparum vaccine',
+       '2008-2009 trivalent influenza vaccine', 'Menactra',
+       'Meningococcal Polysaccharide Vaccine, Groups A & C, Menomune A/C',
+       'Stamaril', 'MVA85A', 'MRKAd5 HIV-1 gag/pol/nef', 'Menveo',
+       'ACWY Vax', 'Fluarix', 'YF-Vax', 'FluMist', 'Fluvirin',
+       'Pneumovax 23 (USA)',
+       '2011?2012 trivalent inactivated vaccine (A/California/7/09 (H1N1,), A/Perth /16/2009 (H3N2), and B/Brisbane/60/2008)',
+       'live attenuated influenza vaccine'], dtype=object)'''
+
+# Fluarix is days 0, 3, 7
+# Flumist is days 0, 3., 7.
+
+# Flumist day 30 is saved as 
+# Days 14, 28 goes better with YF... calcualted with others to see it 
+time1 = 0
+time2 = 28.
+criteria = 'Influenza'
+
+# 
+jjsn = jason[jason['material'].isin([criteria, 'FluMist', 'Fluarix', 'Fluzone', 'Fluvirin', 'Trivalent inactivated influenza'])]
+#jjsn = jason[jason['material'].isin([criteria])]
+test =  jjsn[(jjsn['collection_time'] == time1) | (jjsn['collection_time'] == time2)].sort_values(by=['organism_id', 'expsample_type', 'collection_time'])
+# old true jason value
 counts = test['organism_id'].value_counts()
 test_master = test[test['organism_id'].isin(counts[counts >= 2].index)]  
-jason_1 = test_master[test_master['sex'] == 'Male']
-jason_2 = test_master[test_master['sex'] == 'Female']
 test_filtered  = test_master['expsample_reference_name']
 
+#test_master = test_master[test_master['sex'] == 'Female']
+
 #test_master = GEXP.set_index("GeneGene")[test_filtered]
-GEXP_filtered = GEXP.set_index("GeneGene")[test_filtered].loc["E2F2"].T
-GEXP_filtered.name = 'gene_expression'
+GEXP_filtered = GEXP.set_index("GeneGene")[test_filtered].T
+
+
 example_gene_expression = test_master.merge(
     GEXP_filtered,
     left_on='expsample_reference_name',
     right_index=True,
     how='left'  # or 'inner', 'right', 'outer' as needed
 )
+
+#Code to only get gene names
+
+export = pd.DataFrame(columns = ('gene_name', 'average_gene_expression', 'average_log_gene_expression'))
+for cn in example_gene_expression.iloc[:, test_master.columns.shape[0]:-1]:
+    mmb = example_gene_expression[cn]
+    log_list = []
+    for pairs in range(0, mmb.size, 2):
+        try:
+            sample1 = mmb.iloc[pairs]
+            sample2 = mmb.iloc[pairs+1]
+            log_diff = sample1 - sample2
+            log_list.append(log_diff)
+        except:
+            0
+    mean_log = sum(log_list) / len(log_list)
+    #make results positive
+    if (log_diff > 1):
+        export.loc[len(export)] = [cn, 2**log_diff, log_diff]
+    else:
+        0
+export 
+export.to_csv(f'{time1}-{time2}-{criteria}-F-GeneExpression.csv', sep=',')
+
+
+for pairs in range(0, example_gene_expression.shape[0], 2):
+    try:
+        sample1 = example_gene_expression.iloc[pairs]['gene_expression']
+        sample2 = example_gene_expression.iloc[pairs+1]['gene_expression']
+        raw_scores = 2**(sample1 - sample2 )
+        mean = raw_scores.mean
+    except:
+        0
+
+GEXP_filtered.name = 'gene_expression'
+
+
+
 example_gene_expression['gene_name'] = 'E2F2'
 
 export = example_gene_expression[['gene_name', 'gene_expression', 'sample_id', 'organism_id', 'collection', 'collection_id',

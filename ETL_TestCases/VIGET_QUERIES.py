@@ -8,8 +8,6 @@ Created on Tue Jun 3 10:04:31 2025
 # This code is meant to load in data from MYSQL and then generate two different studies.
 
 import pandas as pd
-
-import pandas as pd
 import pymysql
 
 def SEA_INIT():
@@ -40,7 +38,20 @@ def SEA_INIT():
     print("All tables initialized.")
     return export
 
-    
+DEFAULT = SEA_INIT()
+STUDY = DEFAULT[0] 
+DOCU = DEFAULT[1]
+EXPER = DEFAULT[2] 
+INTER = DEFAULT[3] 
+ASSAY = DEFAULT[4]
+RESULT = DEFAULT[5] 
+ONTO = DEFAULT[6]
+ORGO = DEFAULT[7] 
+SAMP = DEFAULT[8] 
+OCCR = DEFAULT[9]
+GROUP = DEFAULT[10]
+ALYS = DEFAULT[11]
+MAT = DEFAULT[12]
 
 def consolidate_osean(studyid):
     #Create json file format so that it is nice and pretty
@@ -68,7 +79,7 @@ def consolidate_osean(studyid):
         test_seproi = test_seproi.rename(columns={'source_id_x':'intervention_source_id', 'source_id_y':'experiment_source_id', 'reference_id_y':'study_reference_id', 'reference_id_x':'intervention_reference_id'})
         return test_seproi
     except:
-        print(f"Could not run using index f{studyid}, make sure it is an index.")
+        print(f"Could not run using index {studyid}, make sure it is an index.")
         return 0
 
 def export_osean_json (osean_data, filename):
@@ -111,7 +122,7 @@ user='user',
 password='password',
 database='seacdm'
 
-conn = pymysql.connect(host, user, password, database)
+conn = pymysql.connect(host='localhost', user='root', password='Magicka3', database='seacdm')
 #conn = boot_up(user, password, database)    Broke but idk why.
 cur = conn.cursor()
 
@@ -224,6 +235,10 @@ def SEA_INIT():
     print("All tables initialized.")
     return export
 
+
+
+
+jason_1 = consolidate_osean(1)
 
 '''
 Code needs to define tables to run... implementation not work within actual code function.
