@@ -35,5 +35,7 @@ https://github.com/sea-cdm/OSEAN-DB/issues
 
 ## Developers 
 
-Anthony Huffman is responsible for code.
-Yongqun He is responsible for aid in setting up Git-Hub.
+- Anthony Huffman is responsible for generating the code. 
+- Yongqun "Oliver" He is responsible for design, testing, and help in setting up the GitHub pages.
+
+  
