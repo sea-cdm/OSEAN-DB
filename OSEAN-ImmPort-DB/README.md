@@ -17,7 +17,7 @@ The second OSEAN DB developed was called OSEAN-ImmPort, which converted the data
 
 ## ETL
 
-ETL: The ETL is found with ImmPort\_ETL\_Gen.py. Include the absolute path of the metadata files to have it function.
+ETL: The ETL is found with Osean_ImmPort_ETL.py. Include the absolute path of the metadata files to have it function.
 
 ## PELAGIC Methods
 
