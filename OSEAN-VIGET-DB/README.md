@@ -23,13 +23,15 @@ The Pelagic_SQL_Wrapper.py program under the [PELAGIC Module](https://github.com
 
 ## Applications of OSEAN VIGET DB  
 
-Query for sex-specific vaccine immune responses can be found in Test_Query.sql.
-Resulting data can be found as part of the non-ETL functions.
-VIGET_Comparison.py to compare OSEAN VIGET DB  gene expression studies.
+Several application programs can be found under the [OSEAN-VIGET-TESTS directory](https://github.com/sea-cdm/OSEAN-DB/tree/main/OSEAN-VIGET-DB/OSEAN-VIGET-TESTS). 
 
-VIGET_Export.py to export OSEAN DB studies into json format.
+Specifically, OSEAN_Viget_test_queries.sql queries  for sex-specific vaccine immune responses. 
 
-VIGET_QUERIES.py to look 
+OSEAN_Viget_comparison.py compares OSEAN VIGET DB gene expression studies.
+
+OSEAN_Viget_export.py exports the results from the OSEAN DB studies into json format.
+
+OSEAN_Viget_queries.py looks at different tables within the OSEAN VIGET DB and the VIGET gene expression file. Note that the VIGET gene expression file can be found here from the VIGET Zenodo website https://zenodo.org/records/7407195. 
 
 
 ### Tracker link:  
