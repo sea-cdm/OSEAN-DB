@@ -25,7 +25,7 @@ PELAGIC is a module in the SEA CDM system that performs queries and analyses on 
 
 Three use cases are provided:
 - OSEAN VIGET DB: An OSEAN DB that contains data from the VIGET (Vaccine-induced gene expression analysis tool) system:
-  - Data downloaded: Two VIGET input files were extracted from the VIGET Zenodo website (https://zenodo.org/records/7407195), with one file (download: https://zenodo.org/records/7407195/files/immport_vaccine_expression_matrix_mapped_merged_approved_genes_091421.csv?download=1) about the metadata of 28 vaccine immune studies, and the other file (download: https://zenodo.org/records/7407195/files/ImmuneExposureGeneExpression_020922.csv?download=1) being the normalized gene expression data file. 
+  - Data downloaded: Two VIGET input files were extracted from the VIGET Zenodo website (https://zenodo.org/records/7407195), with one file about the metadata of 28 vaccine immune studies, and the other file being the normalized gene expression data file. 
   - VIGET paper ref: Brunson T, Sanati N, Huffman A, Masci AM, Zheng J, Cooke MF, Conley P, He Y, Wu G. VIGET: A web portal for study of vaccine-induced host responses based on Reactome pathways and ImmPort data. _Front Immunol_ 14, 1141030 (2023). PMID: [37180100](https://pubmed.ncbi.nlm.nih.gov/37180100/) PMCID: [PMC10172660](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172660/).  
   - VIGET website: https://viget.violinet.org/. 
 
