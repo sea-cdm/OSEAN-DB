@@ -16,6 +16,10 @@ The first OSEAN DB developed was called OSEAN-VIGET, which converted the data fr
 
 A Python ETL program was developed to process the metadata file to the SEA CDM format. The gene expression data file was downloaded to a local directory pointed by the SEA CDM documentation.
 
+See more about VIGET: 
+- VIGET website: https://viget.violinet.org/.
+- VIGET paper ref: Brunson T, Sanati N, Huffman A, Masci AM, Zheng J, Cooke MF, Conley P, He Y, Wu G. VIGET: A web portal for study of vaccine-induced host responses based on Reactome pathways and ImmPort data. _Front Immunol_ 14, 1141030 (2023). PMID: [37180100](https://pubmed.ncbi.nlm.nih.gov/37180100/) PMCID: [PMC10172660](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172660/).  
+
 ## ETL
 
 ETL: The ETL is found with OSEAN_Viget_ETL.py.
