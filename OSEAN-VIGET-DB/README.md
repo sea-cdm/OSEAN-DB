@@ -18,7 +18,7 @@ ETL: The ETL is found with OSEAN_Viget_ETL.py.
 
 ## PELAGIC Methods 
 
-The Pelagic_SQL_Wrapper.py program under the (PELAGIC Module) [https://github.com/sea-cdm/OSEAN-DB/tree/main/PELAGIC%20Module] provides functions and templates for creating Python code to query the OSEAN DB (MySQL) relational database for specific questions. 
+The Pelagic_SQL_Wrapper.py program under the (PELAGIC Module)[https://github.com/sea-cdm/OSEAN-DB/tree/main/PELAGIC%20Module] provides functions and templates for creating Python code to query the OSEAN DB (MySQL) relational database for specific questions. 
 
 
 ## Applications of OSEAN VIGET DB  
