@@ -3,7 +3,7 @@
 OSEAN-VIGET-DB is an OSEAN DB for VIGET.
 
 VIGET is the Vaccine Immune Genetic Expression Tool
-Ref: 
+Ref: Brunson, T. et al. VIGET: A web portal for study of vaccine-induced host responses based on Reactome pathways and ImmPort data. Front Immunol 14, 1141030 (2023).
 
 ## Database Schema
 Database Schema uses the general one stored in sea-cdm.sql
@@ -14,11 +14,11 @@ The first OSEAN DB developed was called OSEAN-VIGET, which converted the data fr
 
 ## ETL
 
-ETL: The ETL is found with VIGET_ETL.py.
+ETL: The ETL is found with OSEAN_Viget_ETL.py.
 
 ## PELAGIC Methods 
 
-PELAGIC's PURE_SPARQL function provides template for creating python code to query the oseandb database format. 
+PELAGIC's Pelagic_SQL_Wrapper function provides template for creating python code to query the oseandb database format. 
 
 
 ## Applications of OSEAN VIGET DB  
