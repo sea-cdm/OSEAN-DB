@@ -22,7 +22,7 @@ See more about VIGET:
 
 ## ETL
 
-ETL: The ETL is found with OSEAN_Viget_ETL.py.
+The ETL program can be found with OSEAN_Viget_ETL.py.
 
 ## PELAGIC Methods 
 
