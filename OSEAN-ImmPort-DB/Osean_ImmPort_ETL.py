@@ -27,11 +27,11 @@ def Reindex(df):
    
     
 def SEA_INIT():
-    SEA_Study  = pd.DataFrame(columns=['study_id','study_type', 'study_type_id', 'study_name', 'study_description',
+    SEA_Study  = pd.DataFrame(columns=['study_id', 'study_name', 'study_description', 'study_type', 'study_type_id', 'study_focus', 'study_focus_id',  'study_subject', 'study_subject_id',  
                                        'reference_id','reference_source','comments'])
     SEA_Docu =  pd.DataFrame(columns=['documentation_id','study_id','document_name','document_type','document_type_id','documentation_source', 'source_id', 'reference_source', 'citation', 'citation_style','person_id', 'person_id_type','honorific','first_name','middle_name','last_name','person_role', 'comments'])
     SEA_Exper = pd.DataFrame(columns=['experiment_id', 'study_id',
-                                      'experiment_type','experiment_type_id','experiment_control','source_id','reference_source','comments'])
+                                      'experiment_type','experiment_type_id','experiment_control','reference_id','reference_source','comments'])
     SEA_Inter = pd.DataFrame(columns=['intervention_id','experiment_id','organism_id','material', 'material_id', 'dosage', 'dosage_unit', 'dosage_unit_id', 'intervention_type', 'intervention_type_id',
                                       'intervention_route','intervention_route_id', 'T0_defintion', 'intervention_time', 'intervention_unit', 'intervention_time_unit_id', 'source_id', 'reference_source', 'comments'])
     SEA_Assay = pd.DataFrame(columns=['assay_id','assay_name','documentation_id','assay_type', 'assay_type_id', 'organism', 'reagents', 'platform'])
@@ -168,9 +168,17 @@ Master list of allstudies database.
 "subject.txt",
 "treatment.txt",
 "workspace.txt"
-This is full list of tiles... please verify that they exist in situations
+This is full list of tiles... please verify that they exist in situations 
 
 '''
+
+
+def ETL_consolidate(dataframe, column1, column2):
+    df_result = dataframe.dropna(how='any')
+    df_result = df_result.groupby(column1)[column2].apply(list).reset_index()
+    return df_result
+
+    return dataframe
 def SEA_Export(export, excep):
     try:
         for i in export:
@@ -192,6 +200,7 @@ a2s = pathway+'/study_2_condition_or_disease.txt'
 sub = pathway+'/subject.txt'
 bios = pathway+'/biosample.txt'
 exp = pathway+'/expsample.txt'
+con = pathway+'/study_2_condition_or_disease.txt'
 #trt = pathway+'/treatment.txt'
 b2e = pathway+'/expsample_2_biosample.txt'
 lab = pathway+'/lab_test.txt'
@@ -200,11 +209,9 @@ vis = pathway+'/planned_visit.txt'
 sdy = pathway+'/study.txt'
 aoc = pathway+'/arm_or_cohort.txt'
 a3s = pathway+'/arm_2_subject.txt'
-docx = pathway+'/'
-
-files='/standard_curve.txt'
-paths = pathway+files
-df_head = pd.read_csv(paths, sep = '\t').head(500)
+protc = pathway+'/protocol.txt'
+cata = pathway+'/study_categorization.txt'
+stdc = pathway+'/standard_curve.txt'
 
 
 # Load all data as needed
@@ -230,13 +237,14 @@ df_arm = df_arm[df_arm['ARM_ACCESSION'].isin(df_ir['ARM_ACCESSION'])]
 df_aoc = df_aoc[df_aoc['ARM_ACCESSION'].isin(df_arm['ARM_ACCESSION']) | df_aoc['STUDY_ACCESSION'].isin(df_ae['STUDY_ACCESSION'])]
 #df_aoc = df_aoc[df_aoc['STUDY_ACCESSION'].isin(df_ae['STUDY_ACCESSION'] | df_aoc)]
 #     filtered_df = df[df['col1'].isin(df['col3'])]
-
+df_con = pd.read_csv(con, sep = '\t')
 df_exp = pd.read_csv(exp, sep = '\t')
 df_expr = pd.read_csv(expr, sep = '\t')
 df_vis = pd.read_csv(vis, sep = '\t')
 df_aoc = pd.read_csv(aoc, sep = '\t')
-
-                         
+df_protc = pd.read_csv(protc, sep = '\t')
+df_cata = pd.read_csv(cata, sep = '\t')
+df_stdc = pd.read_csv(stdc, sep = '\t')
 
 
 tables = SEA_INIT()
@@ -257,45 +265,55 @@ tables = SEA_INIT()
 # INTERVAX = INTERVAX[INTERVAX['EXPOSURE_PROCESS_REPORTED'] == 'vaccination']
 
 STUDY = tables[0]
+
+df_con =  ETL_consolidate(df_con, 'STUDY_ACCESSION', 'CONDITION_PREFERRED')
+df_sdy = df_sdy.merge(df_con, on='STUDY_ACCESSION')
+df_sdy = df_sdy.merge(df_cata, on='STUDY_ACCESSION')
 STUDY['description'] = df_sdy['BRIEF_DESCRIPTION']
 STUDY['study_name'] = df_sdy['BRIEF_TITLE'] 
 STUDY['study_id'] = df_sdy['STUDY_ACCESSION']
 STUDY['reference_source'] = 'ImmPort'
 STUDY['reference_id'] = df_sdy['STUDY_ACCESSION']
+STUDY['study_subject'] = df_sdy['CONDITION_PREFERRED']
+STUDY['study_focus'] = df_sdy['RESEARCH_FOCUS']
+
 tables[0] = STUDY
 tables[0]['study_id'] = Reindex(tables[0])
 
 
-# Filter for GEO AND INFLUENZA
-df_geo = pd.read_csv("C:/Users/huffmaar/Downloads/ALLSTUDIES-DR54.2_Metadata/expsample_public_repository.txt", sep = '\t')
-df_geo = df_geo[df_geo['REPOSITORY_NAME'] == 'GEO']
+
 
 df_bios = pd.read_csv(bios, sep = '\t')
 df_b2e = pd.read_csv(b2e, sep = '\t')
 df_exp =  pd.read_csv(exp, sep = '\t')
 df_bios = df_bios.merge(df_b2e, on='BIOSAMPLE_ACCESSION')
 df_bios = df_bios.merge(df_exp, on='EXPSAMPLE_ACCESSION') 
-df_bios = df_bios[df_bios['EXPSAMPLE_ACCESSION'].isin(df_geo['EXPSAMPLE_ACCESSION'])]
-df_bios = df_bios.merge(df_geo, on='EXPSAMPLE_ACCESSION')
 df_b2e = None
 # FILTER FOR STUDIES
 df_sub = df_sub[df_sub['SUBJECT_ACCESSION'].isin(df_a3s['SUBJECT_ACCESSION'])]
 df_bios = df_bios[df_bios['SUBJECT_ACCESSION'].isin(df_a3s['SUBJECT_ACCESSION'])]
 
 EXPER = tables[2]
-df_exp = df_exp[df_exp['RESULT_SCHEMA'] == 'RNA SEQ']
-df_exp = df_exp[df_exp['EXPSAMPLE_ACCESSION'].isin(df_bios['EXPSAMPLE_ACCESSION'])]
-#EXPER['experiment_id'] = pd.concat([df_vis['PLANNED_VISIT_ACCESSION'], df_exp['EXPERIMENT_ACCESSION']])
-EXPER['source_id'] = EXPER['source_id']
+
+DOCU = tables[1]
+DOCU['reference_id'] = pd.concat() #include study_file, study_pubmed, study_link, and protocol files....
+
+
+EXPER['reference_id'] = pd.concat([df_vis['PLANNED_VISIT_ACCESSION'], df_expr['EXPERIMENT_ACCESSION']])
+EXPER['study_id'] =  pd.concat([df_vis['STUDY_ACCESSION'], df_expr['STUDY_ACCESSION']])
 EXPER['reference_source'] = 'ImmPort' 
 EXPER['experiment_id'] = Reindex(EXPER)
-EXPER['study_id'] =   df_expr['STUDY_ACCESSION']
-EXPER['experiment_type'] = 'vaccination experiment'
-EXPER['experiment_control'] = 1
+EXPER[EXPER['reference_id'].str.contains('PV')]['experiment_type'] = 'clinical visit'
+EXPER[EXPER['reference_id'].str.contains('EXP')]['experiment_type'] = 'experiment'
+EXPER[EXPER['reference_id'].str.contains('SC')]['experiment_control'] = 1
+
+
+#EXPER['experiment_type'] = 'vaccination experiment'
+#EXPER['experiment_control'] = 1
 
 #Sample Generation
 SAMPLE = tables[9]
-SAMPLE['expsample_reference_id'] = df_bios['REPOSITORY_ACCESSION'] #df_bios['EXPSAMPLE_ACCESSION']
+#SAMPLE['expsample_reference_id'] = df_bios['REPOSITORY_ACCESSION'] #df_bios['EXPSAMPLE_ACCESSION']
 SAMPLE['sample_id'] = Reindex(SAMPLE)
 SAMPLE['organism_id'] = df_bios['SUBJECT_ACCESSION']
 SAMPLE['biosample_reference_id'] = df_bios['BIOSAMPLE_ACCESSION']
@@ -307,8 +325,7 @@ SAMPLE['collection_time'] = df_bios['STUDY_TIME_COLLECTED']
 SAMPLE['collection_time_unit'] = df_bios['STUDY_TIME_COLLECTED_UNIT']
 SAMPLE['T0_definition'] = df_bios['STUDY_TIME_T0_EVENT_SPECIFY']
 SAMPLE['biosample_reference_name'] = 'ImmPort'
-SAMPLE['expsample_reference_name'] = 'GEO'
-#SAMPLE2['expsample_reference_id'] = df_bios['EXPSAMPLE_ACCESSION']
+SAMPLE['expsample_reference_name']
 #SAMPLE2['expsample_reference_id'] = df_bios['EXPSAMPLE_ACCESSION']
 
 
