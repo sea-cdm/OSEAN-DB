@@ -191,6 +191,8 @@ def SEA_Export(export, excep):
     # excep should define which tables to be export in format.    
     return 0
 
+SAMPLE ['organism_id']
+
 
 
 ir = pathway+'/immune_exposure.txt'
@@ -214,6 +216,9 @@ cata = pathway+'/study_categorization.txt'
 stdc = pathway+'/standard_curve.txt'
 
 
+
+
+
 # Load all data as needed
 df_sdy = pd.read_csv(sdy, sep = '\t')
 # Filter is needed... long selection is a pain.
@@ -225,16 +230,8 @@ df_arm = pd.read_csv(ar , sep = '\t')
 df_ae = pd.read_csv(ae, sep = '\t')
 df_aoc = pd.read_csv(aoc, sep = '\t')
 
-df_ae = df_ae[df_ae['NAME_PREFERRED'] == 'influenza'] 
 df_sub = pd.read_csv(sub, sep = '\t')
-df_ir = df_ir[df_ir['EXPOSURE_PROCESS_REPORTED'] == 'vaccination']
 df_a2s =  pd.read_csv(a2s, sep = '\t')
-df_a2s =  df_a2s[df_a2s['STUDY_ACCESSION'].isin(df_sdy['STUDY_ACCESSION'])]
-df_a2s = df_a2s[df_a2s['CONDITION_PREFERRED'] == 'influenza'] 
-df_a3s = pd.read_csv(a3s, sep = '\t')
-df_a3s = df_a3s[df_a3s['ARM_ACCESSION'].isin(df_arm['ARM_ACCESSION'])]
-df_arm = df_arm[df_arm['ARM_ACCESSION'].isin(df_ir['ARM_ACCESSION'])]
-df_aoc = df_aoc[df_aoc['ARM_ACCESSION'].isin(df_arm['ARM_ACCESSION']) | df_aoc['STUDY_ACCESSION'].isin(df_ae['STUDY_ACCESSION'])]
 #df_aoc = df_aoc[df_aoc['STUDY_ACCESSION'].isin(df_ae['STUDY_ACCESSION'] | df_aoc)]
 #     filtered_df = df[df['col1'].isin(df['col3'])]
 df_con = pd.read_csv(con, sep = '\t')
@@ -296,7 +293,7 @@ df_bios = df_bios[df_bios['SUBJECT_ACCESSION'].isin(df_a3s['SUBJECT_ACCESSION'])
 EXPER = tables[2]
 
 DOCU = tables[1]
-DOCU['reference_id'] = pd.concat() #include study_file, study_pubmed, study_link, and protocol files....
+#DOCU['reference_id']# = pd.concat() #include study_file, study_pubmed, study_link, and protocol files....
 
 
 EXPER['reference_id'] = pd.concat([df_vis['PLANNED_VISIT_ACCESSION'], df_expr['EXPERIMENT_ACCESSION']])
@@ -327,7 +324,9 @@ SAMPLE['T0_definition'] = df_bios['STUDY_TIME_T0_EVENT_SPECIFY']
 SAMPLE['biosample_reference_name'] = 'ImmPort'
 SAMPLE['expsample_reference_name']
 #SAMPLE2['expsample_reference_id'] = df_bios['EXPSAMPLE_ACCESSION']
-
+df_a3s = pd.read_csv(a3s, sep = '\t')
+df_map = df_a3s.merge(SAMPLE, left_on='SUBJECT_ACCESSION', right_on='organism_id')
+df_map = df_map[['ARM_ACCESSION', 'SUBJECT_ACCESSION','experiment_id']].drop_duplicates(subset='SUBJECT_ACCESSION')
 
 
 
@@ -338,18 +337,25 @@ INTER = tables[3]
 df_ir = df_ir[df_ir['SUBJECT_ACCESSION'].isin(SAMPLE['organism_id'])]
 
 INTER['source_id'] = pd.concat([df_ir['EXPOSURE_ACCESSION']])
-INTER['reference_source'] = 'ImmPort DR54.2'
+INTER['reference_source'] = 'ImmPort'
 INTER['material'] = pd.concat([df_ir['EXPOSURE_MATERIAL_REPORTED']])
 INTER['material_id'] = df_ir['EXPOSURE_MATERIAL_ID']
-INTER['intervention_type'] = df_ir['DISEASE_PREFERRED']+df_ir['EXPOSURE_PROCESS_PREFERRED']
+INTER['intervention_type'] = df_ir['DISEASE_PREFERRED']+ ' ' + df_ir['EXPOSURE_PROCESS_PREFERRED']
 INTER['organism_id'] = Reindex(INTER)
-ORGO = tables[7]
 
+
+ORGO = tables[7]
+ORGO['reference_id'] = df_sub['SUBJECT_ACCESSION']
 ORGO['organism_id'] = df_sub['SUBJECT_ACCESSION']
+ORGO['experiment_id'] = df_map['experiment_id']
+ORGO['group_id'] = df_map['ARM_ACCESSION']
+
 #ORGO['group_id'] = df_a3s[[df_a3s['SUBJECT_ACCESSION'].isin()]'']
 ORGO['species'] = df_sub['SPECIES']
 ORGO['race'] = df_sub['RACE']
 ORGO['sex'] = df_sub['GENDER']
+ORGO['reference_source'] = df_sub['IMMPORT']
+
 ORGO = ORGO[ORGO['organism_id'].isin(SAMPLE['organism_id'])]
 
 OCCUR = tables[8]
@@ -370,18 +376,61 @@ GROUPS['reference_source'] = EXPER['reference_source']
 GROUPS['group_type'] = 'Subjects'
 GROUPS['group_id'] = Reindex(GROUPS) 
 
+# ETL due to large size only include elisa and elispot results for public ETL...
+
+ASSAY = tables[4]
+
+
+RESULT = tables[5]
+
+elisa = pathway+'/elisa_result.txt'
+df_elise = pd.read_csv(elisa, sep='\t')
+df_elise['assay_type'] = 'ELISA'
+df_elise['result_name'] = df_elise['ANALYTE_REPORTED'] + ' ELISA result'
+df_results = df_elise[['RESULT_ID', 'result_name', 'ARM_ACCESSION', 'EXPSAMPLE_ACCESSION', 'EXPERIMENT_ACCESSION', 'assay_type']]
+
+
+rslt_type = pathway+'/elispot_result.txt'
+df_rslt = pd.read_csv(rslt_type, sep='\t')
+df_rslt['assay_type'] = 'ELISPOT'
+df_rslt['result_name'] = df_elise['COMMENTS']+' result'
+df_rslt = df_rslt[['RESULT_ID', 'result_name', 'ARM_ACCESSION', 'EXPSAMPLE_ACCESSION', 'EXPERIMENT_ACCESSION', 'assay_type']]
+df_result = pd.concat([df_results, df_rslt])
+
+
+ASSAY['assay_type'] = df_result['assay_type'].unique()
+
+
+RESULT['results_id'] = df_results['RESULT_ID']
+RESULT['results_name'] = df_results['result_name']
+RESULT['group_id'] = df_results['ARM_ACCESSION']
+RESULT['sample_id'] = df_results['EXPSAMPLE_ACCESSION']
+RESULT['original_assay_type'] = df_results['assay_type']
+
+ONTO = tables[6]
+ALYS = tables[11]
+MATS = tables[12]
 
 
 
 
 tables[0] = STUDY
+tables[1] = DOCU
 tables[2] = EXPER
 tables[3] = INTER
+tables[4] = ASSAY
+tables[5] = RESULT
+tables[6] = ONTO
 tables[7] = ORGO
 tables[8] = OCCUR
 tables[9] = SAMPLE
 tables[10] = GROUPS
-
+tables[11] = ALYS
+tables[12] = MATS
 
 SEA_Export(tables, '.csv')
+
+
+# removed from default ETL fcs_analyzed_result_marker
+
 
